@@ -1,13 +1,13 @@
 ---
 description: Find Your Way
-dateModified: '2016-07-15T15:01:03.203Z'
-datePublished: '2016-07-15T15:01:11.080Z'
+dateModified: '2016-07-15T15:04:32.380Z'
+datePublished: '2016-07-15T15:04:33.189Z'
 title: ''
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5db66e42-86b0-4ddf-86a6-f21dbaf92d47.jpg
-starred: false
 sourcePath: _posts/2016-07-15-find-your-way.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
