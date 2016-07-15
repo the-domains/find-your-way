@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Philosophy]]></title>
         <description><![CDATA[Philosophy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/find-your-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 15:01:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 15:01:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/find-your-way/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/514e411c-19e8-4bde-a880-da4cc04803fa.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/18ee4ba0-749c-43af-bcef-c6b85e24e518.jpg</link>
+            <guid isPermaLink="false">6904afe5-2e15-4c33-b30a-6c4d7344997b</guid>
+            <pubDate>Fri, 15 Jul 2016 15:01:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/935f3a4d-da2a-4467-b5d6-68ba1d911d57.jpg">]]></description>
