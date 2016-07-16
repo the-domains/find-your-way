@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Pragmatic Orienting Philosophic System]]></title>
         <description><![CDATA[Pragmatic Orienting Philosophic System]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/find-your-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 22:08:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 22:09:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/find-your-way/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Find Your Way By Gary M. Jaron]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5db66e42-86b0-4ddf-86a6-f21dbaf92d47.jpg">]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5db66e42-86b0-4ddf-86a6-f21dbaf92d47.jpg</link>
             <guid isPermaLink="false">f6a660e3-3f36-4358-bc0c-842d759915ef</guid>
             <pubDate>Sat, 16 Jul 2016 22:08:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The word is not the thing.]]></title>
+            <description><![CDATA[<article><h1>The word is not the thing.</h1><h2>The map is not the Territory.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f56ce09b-2068-490e-ae0e-383739a2881a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f56ce09b-2068-490e-ae0e-383739a2881a.jpg</link>
+            <guid isPermaLink="false">202979bf-1ede-4221-b896-f895c981ef27</guid>
+            <pubDate>Sat, 16 Jul 2016 22:08:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
