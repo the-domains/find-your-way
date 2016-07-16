@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Pragmatic Orienting Philosophic System]]></title>
+        <description><![CDATA[Pragmatic Orienting Philosophic System]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Jul 2016 21:33:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gary M Jaron - Academia.edu]]></title>
+            <description><![CDATA[<article><h1>Gary M Jaron - Academia.edu</h1><p>Academia.edu is a place to share and follow research.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9775403dae29add136eff95894fbfca1/noop.jpg?input=https%3A%2F%2F0.academia-photos.com%2F1300845%2F479923%2F6555096%2Fs200_gary.jaron.jpg"></article>]]></description>
+            <link>https://independent.academia.edu/GaryJaron</link>
+            <guid isPermaLink="false">bcb612cb-7210-4f38-b37a-7764af7a6cb6</guid>
+            <pubDate>Sat, 16 Jul 2016 21:33:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
