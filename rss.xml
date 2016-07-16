@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Pragmatic Orienting Philosophic System]]></title>
         <description><![CDATA[Pragmatic Orienting Philosophic System]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/find-your-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 21:33:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 21:33:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/find-your-way/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4eff6de-9613-4d9b-81f5-6ab95dc16c50.jpg">]]></description>
+            <link>https://thegrid.ai/find-your-way/9d5d1e67-94b3-4083-a107-f20876ec6e2f/index.html</link>
+            <guid isPermaLink="false">9d5d1e67-94b3-4083-a107-f20876ec6e2f</guid>
+            <pubDate>Sat, 16 Jul 2016 21:33:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gary M Jaron - Academia.edu]]></title>
             <description><![CDATA[<article><h1>Gary M Jaron - Academia.edu</h1><p>Academia.edu is a place to share and follow research.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9775403dae29add136eff95894fbfca1/noop.jpg?input=https%3A%2F%2F0.academia-photos.com%2F1300845%2F479923%2F6555096%2Fs200_gary.jaron.jpg"></article>]]></description>
