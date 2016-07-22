@@ -1,12 +1,14 @@
 ---
-description: Chapter One
-dateModified: '2016-07-16T21:50:08.542Z'
-datePublished: '2016-07-16T22:08:59.860Z'
-title: From Lao Tzu’s Tao Te Ching
-author: []
+datePublished: '2016-07-22T23:22:30.353Z'
+sourcePath: _posts/2016-07-15-from-lao-tzus-tao-te-ching.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16716b4-497c-4bd5-941e-ccbe22d84ddf.jpg
-sourcePath: _posts/2016-07-15-from-lao-tzus-tao-te-ching.md
+author: []
+via: {}
+dateModified: '2016-07-22T23:22:29.946Z'
+title: From Lao Tzu’s Tao Te Ching
+publisher: {}
+description: Chapter One
 starred: false
 inFeed: true
 hasPage: false
@@ -14,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6f600634418427043cf483d963a66f16/croprotate.jpg?cropheight=395&cropwidth=1181&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd16716b4-497c-4bd5-941e-ccbe22d84ddf.jpg&x=0&y=0)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f128312-544c-49a1-8502-5a67879bdbc8.jpg)
 
 # From Lao Tzu's _**Tao Te Ching**_
 
