@@ -1,12 +1,14 @@
 ---
-description: This site will explain and explore a Pragmatic Orienting Philosophy.
-dateModified: '2016-07-16T21:49:58.719Z'
-datePublished: '2016-07-16T22:08:52.705Z'
-title: ''
-author: []
+datePublished: '2016-07-22T18:37:22.070Z'
+sourcePath: _posts/2016-07-15-find-your-way.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5db66e42-86b0-4ddf-86a6-f21dbaf92d47.jpg
-sourcePath: _posts/2016-07-15-find-your-way.md
+author: []
+via: {}
+dateModified: '2016-07-22T18:37:21.234Z'
+title: ''
+publisher: {}
+description: This site will explain and explore a Pragmatic Orienting Philosophy.
 starred: true
 inFeed: true
 hasPage: false
