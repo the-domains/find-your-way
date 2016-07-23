@@ -1,4 +1,4 @@
-typography_spectrum: 0.9884106351528317
+typography_spectrum: 0.8355685316491872
 color:
   brandStrength: 0.6024315257091075
   lightness: 0.738469586474821
@@ -14,7 +14,7 @@ opengraph:
   type: 'https://www.facebook.com/garyjaron'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
-layout_spectrum: 0.09910983662120998
+layout_spectrum: 0.49050882342271507
 author:
   name: Gary M Jaron
   email: grayravensf@gmail.com
