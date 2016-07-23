@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-22T23:25:49.343Z'
+datePublished: '2016-07-23T14:33:11.905Z'
 sourcePath: _posts/2016-07-15-find-your-way.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5db66e42-86b0-4ddf-86a6-f21dbaf92d47.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T23:25:48.814Z'
+dateModified: '2016-07-23T14:33:11.164Z'
 title: ''
 publisher: {}
 description: This site will explain and explore a Pragmatic Orienting Philosophy.
@@ -16,7 +16,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6eae934-c123-47f1-be55-82510d0d5db3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e0bd432-970d-4463-b87f-973f0b252b60.jpg)
 
 This site will explain and explore a **Pragmatic Orienting Philosophy**.
 
