@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-23T14:33:11.905Z'
+datePublished: '2016-07-30T17:30:32.948Z'
 sourcePath: _posts/2016-07-15-find-your-way.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5db66e42-86b0-4ddf-86a6-f21dbaf92d47.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T14:33:11.164Z'
+dateModified: '2016-07-30T17:30:31.855Z'
 title: ''
 publisher: {}
 description: This site will explain and explore a Pragmatic Orienting Philosophy.
@@ -19,6 +19,10 @@ _type: MediaObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e0bd432-970d-4463-b87f-973f0b252b60.jpg)
 
 This site will explain and explore a **Pragmatic Orienting Philosophy**.
+
+My system was developed over time and it was influenced and inspired by what I read. I will mention and present some of those authors and their writings on this site.
+
+Two thinkers I want to single out are Alfred Korzybski and William James, from whose writings I borrowed some key tools.
 
 A way to understand your self and where you come from. Once you have insight into who you are you, what ideas shaped you, what things and people from your past and from the culture you were raised in you will have insights into your unconscious biases which perhaps now can be brought into the light of conscious awareness.
 
