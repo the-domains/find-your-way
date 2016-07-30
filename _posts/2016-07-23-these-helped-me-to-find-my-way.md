@@ -1,21 +1,22 @@
 ---
-datePublished: '2016-07-23T16:15:12.713Z'
+datePublished: '2016-07-30T17:33:47.732Z'
+sourcePath: _posts/2016-07-23-these-helped-me-to-find-my-way.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d8897f-5d09-452a-8555-14f85478a58a.jpg
 author: []
 via: {}
-dateModified: '2016-07-23T16:15:01.193Z'
-title: ''
+dateModified: '2016-07-30T17:33:46.626Z'
+title: Guide books that helped me to find my way
 publisher: {}
-description: These helped me to find my way
+description: ''
 starred: false
-sourcePath: _posts/2016-07-23-these-helped-me-to-find-my-way.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+# Guide books that helped me to find my way
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d8897f-5d09-452a-8555-14f85478a58a.jpg)
 
-These helped me to find my way
+Here I will present some of the books that helped and inspired me.
