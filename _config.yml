@@ -32,4 +32,7 @@ navigation:
   - name: ‘Not all those who wander '
     id: 7ae0d620-e3b9-47fd-ba69-1c9a6ff90ee6
     type: content
+  - name: The word is not the thing.
+    id: 202979bf-1ede-4221-b896-f895c981ef27
+    type: content
 title: 'A Pragmatic Orienting Philosophic System '
