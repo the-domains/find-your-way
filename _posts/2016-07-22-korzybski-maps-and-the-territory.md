@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-31T15:32:38.232Z'
+datePublished: '2016-08-05T19:29:32.641Z'
 sourcePath: _posts/2016-07-22-korzybski-maps-and-the-territory.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb8937b-75e8-45a7-807f-817a4beec5f5.jpg
 author: []
 via: {}
-dateModified: '2016-07-31T15:32:37.381Z'
+dateModified: '2016-08-05T19:29:32.141Z'
 title: ''
 publisher: {}
 description: 'Korzybski: Maps and the Territory'
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: korzybski-maps-and-the-territory/index.html
 _type: MediaObject
 
 ---
