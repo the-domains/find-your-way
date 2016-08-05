@@ -50,4 +50,7 @@ navigation:
   - name: 'Excerpt # 1 from Zen and the Art'
     id: 53311f7f-b182-4732-9726-11d7eaa2d0f5
     type: content
+  - name: James on Pragmatism
+    id: 6904afe5-2e15-4c33-b30a-6c4d7344997b
+    type: content
 title: 'A Pragmatic Orienting Philosophic System '
