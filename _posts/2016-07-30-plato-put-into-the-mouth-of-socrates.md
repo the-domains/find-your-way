@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-30T17:48:46.757Z'
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6b0a9bf-efdc-43fb-bdbf-097ae5b89074.jpg
+datePublished: '2016-08-05T19:30:10.612Z'
 author: []
 via: {}
-dateModified: '2016-07-30T17:44:28.449Z'
+dateModified: '2016-08-05T19:30:10.261Z'
 title: ''
 publisher: {}
 description: 'Plato put into the mouth of Socrates:'
-starred: false
 sourcePath: _posts/2016-07-30-plato-put-into-the-mouth-of-socrates.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: plato-put-into-the-mouth-of-socrates/index.html
 _type: MediaObject
 
 ---
