@@ -1,16 +1,15 @@
 ---
 description: 'From: Pragmatism'
-dateModified: '2016-07-16T22:08:31.145Z'
-datePublished: '2016-07-16T22:09:18.123Z'
+dateModified: '2016-08-05T19:38:06.938Z'
+datePublished: '2016-08-05T19:38:07.455Z'
 title: ''
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/18ee4ba0-749c-43af-bcef-c6b85e24e518.jpg
 sourcePath: _posts/2016-07-15-lecture-vi-pragmatisms-conception-of-truth.md
+hasPage: true
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: from-pragmatism/index.html
 _type: MediaObject
 
 ---
