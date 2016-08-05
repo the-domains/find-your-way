@@ -1,16 +1,15 @@
 ---
 description: ''
-dateModified: '2016-07-16T22:06:07.812Z'
-datePublished: '2016-07-16T22:08:57.549Z'
+dateModified: '2016-08-05T19:29:10.799Z'
+datePublished: '2016-08-05T19:29:11.256Z'
 title: The word is not the thing.
 author: []
 sourcePath: _posts/2016-07-15-the-word-is-not-the-thing.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f56ce09b-2068-490e-ae0e-383739a2881a.jpg
+hasPage: true
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: the-word-is-not-the-thing/index.html
 _type: MediaObject
 
 ---
