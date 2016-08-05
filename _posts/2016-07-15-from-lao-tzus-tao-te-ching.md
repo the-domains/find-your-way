@@ -1,18 +1,15 @@
 ---
-datePublished: '2016-07-22T23:22:30.353Z'
+datePublished: '2016-08-05T19:34:39.275Z'
 sourcePath: _posts/2016-07-15-from-lao-tzus-tao-te-ching.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d16716b4-497c-4bd5-941e-ccbe22d84ddf.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T23:22:29.946Z'
+dateModified: '2016-08-05T19:34:38.862Z'
 title: From Lao Tzu’s Tao Te Ching
 publisher: {}
 description: Chapter One
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: from-lao-tzus-tao-te-ching/index.html
 _type: MediaObject
 
 ---
