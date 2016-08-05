@@ -47,4 +47,7 @@ navigation:
   - name: The Measure of all things
     id: ec416ea0-191a-4b47-8623-234b052f8f3f
     type: content
+  - name: 'Excerpt # 1 from Zen and the Art'
+    id: 53311f7f-b182-4732-9726-11d7eaa2d0f5
+    type: content
 title: 'A Pragmatic Orienting Philosophic System '
