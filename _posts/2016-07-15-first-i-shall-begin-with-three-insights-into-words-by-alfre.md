@@ -4,18 +4,17 @@ description: >-
   and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics,
   (original copyright 1933) International Non-Aristotelian Library Publishing
   Company, 4th ed. 5th 1973 printing.
-dateModified: '2016-07-16T22:07:37.817Z'
-datePublished: '2016-07-16T22:09:04.225Z'
+dateModified: '2016-08-05T19:38:50.700Z'
+datePublished: '2016-08-05T19:38:51.177Z'
 title: ''
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/935f3a4d-da2a-4467-b5d6-68ba1d911d57.jpg
 sourcePath: >-
   _posts/2016-07-15-first-i-shall-begin-with-three-insights-into-words-by-alfre.md
+hasPage: true
+publisher: {}
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: i-shall-begin-with-three-insights-into-words-by-alfred-korzy/index.html
 _type: MediaObject
 
 ---
