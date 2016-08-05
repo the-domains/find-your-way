@@ -56,4 +56,7 @@ navigation:
   - name: Korzbski on words and things
     id: b450f9d0-a77f-4eaa-8da5-0537145b82c2
     type: content
+  - name: Guidebooks
+    id: f739ce58-0a51-4cb4-a45d-2c20ae703eb4
+    type: content
 title: 'A Pragmatic Orienting Philosophic System '
