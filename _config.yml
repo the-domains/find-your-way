@@ -41,14 +41,14 @@ navigation:
   - name: True Tao? True Name?
     id: 46f3e198-c8f1-49eb-9bdc-4fab9efbd1b5
     type: content
-  - name: Maps and the Territory
-    id: 0349a9eb-93e7-4ec6-a577-5b602c59a5ea
-    type: content
   - name: The Measure of all things
     id: ec416ea0-191a-4b47-8623-234b052f8f3f
     type: content
   - name: Guidebooks
     id: f739ce58-0a51-4cb4-a45d-2c20ae703eb4
+    type: content
+  - name: Maps and the Territory
+    id: 0349a9eb-93e7-4ec6-a577-5b602c59a5ea
     type: content
   - name: James on Pragmatism
     id: 6904afe5-2e15-4c33-b30a-6c4d7344997b
