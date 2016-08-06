@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-08-05T19:29:10.799Z'
-datePublished: '2016-08-05T19:29:11.256Z'
+dateModified: '2016-08-06T05:37:26.726Z'
+datePublished: '2016-08-06T05:37:26.850Z'
 title: The word is not the thing.
 author: []
 sourcePath: _posts/2016-07-15-the-word-is-not-the-thing.md
