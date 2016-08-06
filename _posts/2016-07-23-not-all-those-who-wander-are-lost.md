@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-06T05:37:33.584Z'
+datePublished: '2016-08-06T05:37:37.303Z'
 author: []
 via: {}
-dateModified: '2016-08-06T05:37:33.456Z'
+dateModified: '2016-08-06T05:37:37.168Z'
 title: '‘Not all those who wander are lost.’ '
 publisher: {}
 description: 'J R R Tolkien, The Lord of The Ring, Book One, Chapter Ten, 2004 ed. p 170.'
