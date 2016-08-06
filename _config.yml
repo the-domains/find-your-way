@@ -47,11 +47,11 @@ navigation:
   - name: Korzbski on words and things
     id: b450f9d0-a77f-4eaa-8da5-0537145b82c2
     type: content
-  - name: The Measure of all things
-    id: ec416ea0-191a-4b47-8623-234b052f8f3f
-    type: content
   - name: James on Pragmatism
     id: 6904afe5-2e15-4c33-b30a-6c4d7344997b
+    type: content
+  - name: The Measure of all things
+    id: ec416ea0-191a-4b47-8623-234b052f8f3f
     type: content
   - name: 'Excerpt # 1 from Zen and the Art'
     id: 53311f7f-b182-4732-9726-11d7eaa2d0f5
