@@ -1,7 +1,7 @@
 ---
 description: A selection of the guidebooks that helped me to find my way.
-dateModified: '2016-08-05T19:39:15.485Z'
-datePublished: '2016-08-05T19:39:15.839Z'
+dateModified: '2016-08-06T05:38:17.026Z'
+datePublished: '2016-08-06T05:38:17.134Z'
 title: ''
 author: []
 publisher: {}
