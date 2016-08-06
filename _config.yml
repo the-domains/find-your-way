@@ -41,6 +41,9 @@ navigation:
   - name: True Tao? True Name?
     id: 46f3e198-c8f1-49eb-9bdc-4fab9efbd1b5
     type: content
+  - name: what is a pragmatic orienting system?
+    id: 099176eb-3e3a-491f-9b13-ccc6705b9caa
+    type: content
   - name: The Measure of all things
     id: ec416ea0-191a-4b47-8623-234b052f8f3f
     type: content
@@ -49,9 +52,6 @@ navigation:
     type: content
   - name: Maps and the Territory
     id: 0349a9eb-93e7-4ec6-a577-5b602c59a5ea
-    type: content
-  - name: what is a pragmatic orienting system?
-    id: 099176eb-3e3a-491f-9b13-ccc6705b9caa
     type: content
   - name: Korzbski on words and things
     id: b450f9d0-a77f-4eaa-8da5-0537145b82c2
