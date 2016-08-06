@@ -4,8 +4,8 @@ description: >-
   and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics,
   (original copyright 1933) International Non-Aristotelian Library Publishing
   Company, 4th ed. 5th 1973 printing.
-dateModified: '2016-08-05T19:38:50.700Z'
-datePublished: '2016-08-05T19:38:51.177Z'
+dateModified: '2016-08-06T05:38:12.025Z'
+datePublished: '2016-08-06T05:38:12.195Z'
 title: ''
 author: []
 sourcePath: >-
