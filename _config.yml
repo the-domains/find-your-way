@@ -35,14 +35,14 @@ navigation:
   - name: The Unexamined Life
     id: e814ee6f-164c-4385-9e1d-f511c74597d3
     type: content
+  - name: what is a pragmatic orienting system?
+    id: 099176eb-3e3a-491f-9b13-ccc6705b9caa
+    type: content
   - name: The word is not the thing.
     id: 202979bf-1ede-4221-b896-f895c981ef27
     type: content
   - name: True Tao? True Name?
     id: 46f3e198-c8f1-49eb-9bdc-4fab9efbd1b5
-    type: content
-  - name: what is a pragmatic orienting system?
-    id: 099176eb-3e3a-491f-9b13-ccc6705b9caa
     type: content
   - name: The Measure of all things
     id: ec416ea0-191a-4b47-8623-234b052f8f3f
