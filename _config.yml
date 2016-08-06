@@ -50,14 +50,14 @@ navigation:
   - name: The Measure of all things
     id: ec416ea0-191a-4b47-8623-234b052f8f3f
     type: content
+  - name: James on Pragmatism
+    id: 6904afe5-2e15-4c33-b30a-6c4d7344997b
+    type: content
   - name: 'Excerpt # 1 from Zen and the Art'
     id: 53311f7f-b182-4732-9726-11d7eaa2d0f5
     type: content
   - name: Religion is a metaphor
     id: e8dc8b5f-d14e-476b-9c2f-ccc2b3dec5fe
-    type: content
-  - name: James on Pragmatism
-    id: 6904afe5-2e15-4c33-b30a-6c4d7344997b
     type: content
   - name: Guidebooks
     id: f739ce58-0a51-4cb4-a45d-2c20ae703eb4
