@@ -38,11 +38,11 @@ navigation:
   - name: The word is not the thing.
     id: 202979bf-1ede-4221-b896-f895c981ef27
     type: content
-  - name: Maps and the Territory
-    id: 0349a9eb-93e7-4ec6-a577-5b602c59a5ea
-    type: content
   - name: True Tao? True Name?
     id: 46f3e198-c8f1-49eb-9bdc-4fab9efbd1b5
+    type: content
+  - name: Maps and the Territory
+    id: 0349a9eb-93e7-4ec6-a577-5b602c59a5ea
     type: content
   - name: The Measure of all things
     id: ec416ea0-191a-4b47-8623-234b052f8f3f
