@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-05T19:27:23.835Z'
+datePublished: '2016-08-06T05:38:09.339Z'
 sourcePath: _posts/2016-07-15-find-your-way.md
 author: []
 via: {}
-dateModified: '2016-08-05T19:27:23.292Z'
+dateModified: '2016-08-06T05:38:09.229Z'
 title: ''
 publisher: {}
 description: This site will explain and explore a Pragmatic Orienting Philosophy.
