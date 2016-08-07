@@ -4,21 +4,20 @@ description: >-
   enterprise of world-building. Religion implies the farthest reach of man’s
   self-externalization, of his infusion of reality with his own meanings.
   Religion implies that human order is projected into the totality of being. 
-dateModified: '2016-08-07T15:31:19.179Z'
-datePublished: '2016-08-07T15:32:09.864Z'
+dateModified: '2016-08-07T15:34:23.262Z'
+datePublished: '2016-08-07T15:34:23.727Z'
 title: >-
   Put differently, religion is the audacious attempt to conceive of the entire
   universe as being humanly significant.’
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-07-put-differently-religion-is-the-audacious-attempt-to-concei.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: put-differently-religion-is-the-audacious-attempt-to-concei/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f86f294-9ead-4db7-92a4-43a0e8f24c57.jpg)
