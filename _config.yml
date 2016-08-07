@@ -53,6 +53,9 @@ navigation:
   - name: Maps and the Territory
     id: 0349a9eb-93e7-4ec6-a577-5b602c59a5ea
     type: content
+  - name: '''...the audacious attempt...'' '
+    id: 0d28c937-9c93-41db-b49e-68ff4568ca98
+    type: content
   - name: Korzbski on words and things
     id: b450f9d0-a77f-4eaa-8da5-0537145b82c2
     type: content
@@ -64,8 +67,5 @@ navigation:
     type: content
   - name: Religion is a metaphor
     id: e8dc8b5f-d14e-476b-9c2f-ccc2b3dec5fe
-    type: content
-  - name: '''...the audacious attempt...'' '
-    id: 0d28c937-9c93-41db-b49e-68ff4568ca98
     type: content
 title: 'A Pragmatic Orienting Philosophic System '
