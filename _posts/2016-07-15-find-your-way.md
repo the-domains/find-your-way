@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-08-06T16:32:55.965Z'
+datePublished: '2016-08-16T21:11:18.572Z'
 sourcePath: _posts/2016-07-15-find-your-way.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-06T16:23:29.120Z'
+dateModified: '2016-08-16T21:11:18.006Z'
 title: ''
 publisher: {}
 description: This site will explain and explore a Pragmatic Orienting Philosophy.
-hasPage: true
 starred: true
 url: find-your-way-by-gary-m-jaron/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e0bd432-970d-4463-b87f-973f0b252b60.jpg)
