@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-17T19:07:30.395Z'
+datePublished: '2016-08-17T19:07:52.238Z'
 sourcePath: _posts/2016-07-22-korzybski-maps-and-the-territory.md
 author: []
 via: {}
-dateModified: '2016-08-13T16:47:57.111Z'
+dateModified: '2016-08-17T19:07:50.637Z'
 title: ''
 publisher: {}
 description: 'Korzybski: Maps and the Territory'
