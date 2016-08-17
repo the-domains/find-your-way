@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-08-17T15:12:58.856Z'
+datePublished: '2016-08-17T18:06:03.546Z'
+sourcePath: _posts/2016-07-30-plato-put-into-the-mouth-of-socrates.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T02:19:37.934Z'
+dateModified: '2016-08-17T18:06:03.105Z'
 title: ''
 publisher: {}
 description: 'Plato put into the mouth of Socrates:'
-sourcePath: _posts/2016-07-30-plato-put-into-the-mouth-of-socrates.md
-hasPage: true
 starred: false
 url: plato-put-into-the-mouth-of-socrates/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![The death of Socrates by Jacques-Louis David, 1787](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30977759-c49b-4280-86d8-6b44abd23525.jpg)
