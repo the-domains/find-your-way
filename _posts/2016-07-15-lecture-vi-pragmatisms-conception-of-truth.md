@@ -1,7 +1,7 @@
 ---
 description: 'From: Pragmatism'
-dateModified: '2016-08-09T02:11:47.449Z'
-datePublished: '2016-08-17T19:09:17.266Z'
+dateModified: '2016-08-17T19:09:47.497Z'
+datePublished: '2016-08-17T19:09:47.876Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-15-lecture-vi-pragmatisms-conception-of-truth.md
