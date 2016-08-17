@@ -20,16 +20,14 @@ keywords:
 description: Academia.edu is a place to share and follow research.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://independent.academia.edu/GaryJaron'
 title: Gary M Jaron - Academia.edu
-datePublished: '2016-08-17T22:14:30.676Z'
-dateModified: '2016-08-17T22:14:05.878Z'
+datePublished: '2016-08-17T22:16:57.129Z'
+dateModified: '2016-08-17T22:16:56.533Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-17-gary-m-jaron-academiaedu.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: gary-m-jaron-academiaedu/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
