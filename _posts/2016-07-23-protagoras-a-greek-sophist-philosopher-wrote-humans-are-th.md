@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-17T18:05:08.021Z'
+datePublished: '2016-08-17T19:18:40.643Z'
 sourcePath: >-
   _posts/2016-07-23-protagoras-a-greek-sophist-philosopher-wrote-humans-are-th.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T18:05:07.567Z'
+dateModified: '2016-08-17T19:18:40.538Z'
 title: >-
   Protagoras, a Greek Sophist philosopher wrote “Humans are the measure of all
   things".
