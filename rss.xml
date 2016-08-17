@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A Pragmatic Orienting Philosophic System ]]></title>
         <description><![CDATA[A Pragmatic Orienting Philosophic System ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/find-your-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 18:06:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 18:06:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/find-your-way/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The word is not the thing.]]></title>
+            <description><![CDATA[<article><h1>The word is not the thing.</h1><h2>The map is not the Territory.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f56ce09b-2068-490e-ae0e-383739a2881a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/find-your-way/the-word-is-not-the-thing/index.html</link>
+            <guid isPermaLink="false">202979bf-1ede-4221-b896-f895c981ef27</guid>
+            <pubDate>Wed, 17 Aug 2016 18:06:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30977759-c49b-4280-86d8-6b44abd23525.jpg" alt="The death of Socrates by Jacques-Louis David, 1787">]]></description>
-            <link>undefinedplato-put-into-the-mouth-of-socrates/index.html</link>
+            <link>https://thegrid.ai/find-your-way/plato-put-into-the-mouth-of-socrates/index.html</link>
             <guid isPermaLink="false">e814ee6f-164c-4385-9e1d-f511c74597d3</guid>
             <pubDate>Wed, 17 Aug 2016 18:06:03 GMT</pubDate>
         </item>
