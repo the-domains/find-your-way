@@ -1,19 +1,20 @@
 ---
-datePublished: '2016-08-17T15:13:15.275Z'
+datePublished: '2016-08-17T18:07:30.583Z'
 sourcePath: _posts/2016-07-15-from-lao-tzus-tao-te-ching.md
+inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-09T02:19:58.489Z'
+dateModified: '2016-08-17T18:07:30.102Z'
 title: From Lao Tzu’s Tao Te Ching
 publisher: {}
 description: Chapter One
-hasPage: true
 starred: false
 url: from-lao-tzus-tao-te-ching/index.html
-_type: MediaObject
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f128312-544c-49a1-8502-5a67879bdbc8.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f96dc6aa5ef170606bf9ba894a498b05/croprotate.jpg?cropheight=395&cropwidth=1181&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5f128312-544c-49a1-8502-5a67879bdbc8.jpg&x=0&y=0)
 
 # From Lao Tzu's _**Tao Te Ching**_
 
