@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-16T23:09:34.035Z'
+datePublished: '2016-08-17T01:43:59.098Z'
 sourcePath: _posts/2016-07-23-not-all-those-who-wander-are-lost.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-16T23:09:33.454Z'
+dateModified: '2016-08-17T01:43:58.645Z'
 title: ‘Not all those who wander are lost.’
 publisher: {}
 description: 'J R R Tolkien, The Lord of The Ring, Book One, Chapter Ten, 2004 ed. p 170.'
