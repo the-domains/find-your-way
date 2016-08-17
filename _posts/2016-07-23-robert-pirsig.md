@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-17T19:12:05.915Z'
+datePublished: '2016-08-17T19:13:06.144Z'
 sourcePath: _posts/2016-07-23-robert-pirsig.md
 author: []
 via: {}
-dateModified: '2016-08-09T02:11:53.601Z'
+dateModified: '2016-08-17T19:13:05.380Z'
 title: 'An excerpt from Zen and the Art of Motorcycle Maintenance. #1'
 publisher: {}
 description: Robert Pirsig
