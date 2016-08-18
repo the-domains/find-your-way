@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-17T19:07:52.238Z'
+datePublished: '2016-08-18T22:10:16.477Z'
 sourcePath: _posts/2016-07-22-korzybski-maps-and-the-territory.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T19:07:50.637Z'
+dateModified: '2016-08-18T22:10:15.874Z'
 title: ''
 publisher: {}
 description: 'Korzybski: Maps and the Territory'
-hasPage: true
 starred: false
 url: korzybski-maps-and-the-territory/index.html
 _type: MediaObject
@@ -17,7 +17,7 @@ _type: MediaObject
 
 Korzybski: Maps and the Territory
 
-One of the most important orienting concepts inspired by the writings of Alfred Korzybski is the terms, and the relationship between the terms, maps and Territory. The term territory beginning with a lower case letter t refers to any single specific empirical and actual geographic location. Whereas the term Territory with an upper case letter t refers to the totality to the complete and entire space-time empirical existence, it refers to the infinite universe in all its dimensions. The term maps refer to any and all attempt to describe any aspect of the Territory by the use of any and all symbols or collections of symbols. Therefore the term maps can refer to a single word or a single symbol, or picture, etc. as well as referring to a collection of words and or symbols. Maps are crafted to describe some finite aspect of the infinite Territory.
+One of the most important orienting concepts inspired by the writings of Alfred Korzybski is the terms, and the relationship between the terms, maps and Territory. The term territory beginning with a lower case letter t refers to any single specific empirical and actual geographic location. Whereas the term Territory with an upper case letter t refers to the to the complete and entire space-time empirical existence, it refers to the infinite universe in all its dimensions. The term maps refer to any and all attempt to describe any aspect of the Territory by the use of any and all symbols or collections of symbols. Therefore the term maps can refer to a single word or a single symbol, or picture, etc. as well as referring to a collection of words and or symbols. Maps are crafted to describe some finite aspect of the infinite Territory.
 
 Let me now present some excerpts from Korzybski's book Science and Sanity wherein he describes his idea behind maps and map making and I will comment on those excerpts.
 
