@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-17T01:42:03.016Z'
+datePublished: '2016-08-18T15:16:20.003Z'
 sourcePath: _posts/2016-07-15-find-your-way.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T01:42:02.454Z'
+dateModified: '2016-08-18T15:16:19.520Z'
 title: ''
 publisher: {}
-description: This site will explain and explore a Pragmatic Orienting Philosophy.
+description: This site will explain and explore my Pragmatic Orienting Philosophy.
 starred: true
 url: find-your-way-by-gary-m-jaron/index.html
 _type: MediaObject
@@ -16,7 +16,7 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e0bd432-970d-4463-b87f-973f0b252b60.jpg)
 
-This site will explain and explore a **Pragmatic Orienting Philosophy**.
+This site will explain and explore my **Pragmatic Orienting Philosophy**.
 
 My system was developed over time and it was influenced and inspired by what I read. I will mention and present some of those authors and their writings on this site.
 
@@ -33,6 +33,10 @@ words---things
 maps---Territory
 
 truth---true
+
+inspiration---information
+
+symbolic---sensory
 
 internal reality---external reality
 
