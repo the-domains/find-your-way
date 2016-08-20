@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T17:12:02.672Z'
+datePublished: '2016-08-20T17:12:44.543Z'
 sourcePath: _posts/2016-08-20-people-shape-and-are-shaped-by-ideas.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T17:12:02.028Z'
+dateModified: '2016-08-20T17:12:36.489Z'
 title: ''
 publisher: {}
 description: 'People Shape, and are Shaped by, Ideas'
