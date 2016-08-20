@@ -1,20 +1,22 @@
 ---
-datePublished: '2016-08-17T01:43:34.474Z'
+datePublished: '2016-08-20T14:19:48.244Z'
 sourcePath: _posts/2016-08-06-what-is-a-pragmatic-orienting-system.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T01:43:33.794Z'
+dateModified: '2016-08-20T14:19:47.541Z'
 title: ''
 publisher: {}
-description: What is a ‘pragmatic orienting system’?
+description: 'Second entry: August 2 2016'
 starred: false
 url: what-is-a-pragmatic-orienting-system/index.html
 _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8178a6-b472-480a-91af-9fa1e3979034.jpg)
+
+Second entry: August 2 2016
 
 **What is a 'pragmatic orienting system'?**
 
