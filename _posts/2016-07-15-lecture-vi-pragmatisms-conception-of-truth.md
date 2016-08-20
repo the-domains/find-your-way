@@ -1,19 +1,21 @@
 ---
-description: 'From: Pragmatism'
-dateModified: '2016-08-17T19:09:47.497Z'
-datePublished: '2016-08-17T19:09:47.876Z'
-title: ''
-author: []
+datePublished: '2016-08-20T14:22:13.349Z'
 sourcePath: _posts/2016-07-15-lecture-vi-pragmatisms-conception-of-truth.md
 hasPage: true
-publisher: {}
+author: []
 via: {}
+dateModified: '2016-08-20T14:22:12.001Z'
+title: ''
+publisher: {}
+description: 'Fifth entry: August 10th 2016'
 starred: false
 url: from-pragmatism/index.html
 _type: MediaObject
 
 ---
 ![William James](https://the-grid-user-content.s3-us-west-2.amazonaws.com/514e411c-19e8-4bde-a880-da4cc04803fa.jpg)
+
+Fifth entry: August 10th 2016
 
 From: _**Pragmatism**_
 
