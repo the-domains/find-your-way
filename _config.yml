@@ -1,4 +1,3 @@
-layout_spectrum: 0.7765580085106194
 typography_spectrum: 0.33731566090136766
 color:
   brandStrength: 0.6024315257091075
@@ -16,6 +15,7 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
   appId: 'https://www.facebook.com/garyjaron'
+layout_spectrum: 0.7765580085106194
 analytics:
   google: UA-81696929-1
 author:
@@ -46,6 +46,9 @@ navigation:
     type: content
   - name: See some of my posted papers at Academia.edu
     id: 1d77ba8f-0b71-4b5f-8932-c99ac8a90e99
+    type: content
+  - name: James on how we shape our sensory experience
+    id: 6b0e81c3-e1c2-4406-9317-20b8c6720952
     type: content
 title: Gary Jaron's Blog
 description: Find Your Way
