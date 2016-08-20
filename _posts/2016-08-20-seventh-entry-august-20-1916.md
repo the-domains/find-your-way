@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-20T16:36:51.642Z'
+datePublished: '2016-08-20T16:37:35.884Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T16:36:42.883Z'
+dateModified: '2016-08-20T16:37:34.910Z'
 title: ''
 publisher: {}
 description: 'Seventh entry: August 20 1916'
-starred: false
 sourcePath: _posts/2016-08-20-seventh-entry-august-20-1916.md
+starred: false
 url: seventh-entry-august-20-1916/index.html
 _type: Blurb
 
