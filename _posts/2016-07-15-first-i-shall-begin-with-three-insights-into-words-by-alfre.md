@@ -1,24 +1,43 @@
 ---
-description: >-
-  I shall begin with three insights into words by Alfred Korzybski, from Science
-  and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics,
-  (original copyright 1933) International Non-Aristotelian Library Publishing
-  Company, 4th ed. 5th 1973 printing.
-dateModified: '2016-08-17T19:06:39.407Z'
-datePublished: '2016-08-17T19:06:39.846Z'
+id: 8aace2ea-d6a4-41b9-bc33-2072c3524f34
+metadata:
+  datePublished: '2016-08-17T19:06:39.846Z'
+  sourcePath: >-
+    _posts/2016-07-15-first-i-shall-begin-with-three-insights-into-words-by-alfre.md
+  isBasedOnUrl: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/935f3a4d-da2a-4467-b5d6-68ba1d911d57.jpg
+  hasPage: true
+  author: []
+  via: {}
+  dateModified: '2016-08-17T19:06:39.846Z'
+  title: ''
+  publisher: {}
+  description: >-
+    I shall begin with three insights into words by Alfred Korzybski, from
+    Science and Sanity: An Introduction to Non-Aristotelian Systems and General
+    Semantics, (original copyright 1933) International Non-Aristotelian Library
+    Publishing Company, 4th ed. 5th 1973 printing.
+dateModified: '2016-08-20T14:20:35.856Z'
 title: ''
+datePublished: '2016-08-20T14:20:36.581Z'
 author: []
-sourcePath: >-
-  _posts/2016-07-15-first-i-shall-begin-with-three-insights-into-words-by-alfre.md
-hasPage: true
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/935f3a4d-da2a-4467-b5d6-68ba1d911d57.jpg
+description: 'Third entry: August 3 2016'
 publisher: {}
 via: {}
 starred: false
-url: i-shall-begin-with-three-insights-into-words-by-alfred-korzy/index.html
+sourcePath: >-
+  _posts/2016-07-15-first-i-shall-begin-with-three-insights-into-words-by-alfre.md
+inFeed: true
+hasPage: false
+inNav: false
 _type: MediaObject
 
 ---
 ![Alfred Korzybski](https://the-grid-user-content.s3-us-west-2.amazonaws.com/935f3a4d-da2a-4467-b5d6-68ba1d911d57.jpg)
+
+Third entry: August 3 2016
 
 I shall begin with three insights into words by Alfred Korzybski, from _Science and Sanity: An Introduction to Non-Aristotelian Systems and General Semantics_, (original copyright 1933) International Non-Aristotelian Library Publishing Company, 4th ed. 5th 1973 printing.
 
@@ -30,6 +49,6 @@ Korzybski's second insight, "_I want to make clear only that words are not the t
 
 I take this to refer to the fact that words act as symbolic placeholders pointing towards objects on a continuum of abstract to concrete. Words that point toward concrete terms are the non-verbal things found in space-time. Whereas abstract words point to concepts that are not found in space-time but rather found in people's conceptual imaginings. Also, note the fact that no single thing is in isolation, which I believe means that the universe functions as a dynamic interconnected flux of part/whole infinite collection of things.
 
-Korzybski's third insight is about words being involved in the process of mapmaking. "_We must realize that structure, and structure alone is the only link between languages and the empirical world._" (p. 50) 
+Korzybski's third insight is about words being involved in the process of mapmaking. "_We must realize that structure, and structure alone is the only link between languages and the empirical world._" (p. 50)
 
 I take this to refer to the idea that our finite minds can only abstract, from the flux of reality that we encounter, a limited finite set of data. This data has a corresponding relationship via a similarity of structure that we impose on this abstracted data set. This relationship corresponds to the structure we believe is found in the space-time of the Territory. This is a fancy way to say that in order to describe and understand reality, aka The Territory, we make maps.
