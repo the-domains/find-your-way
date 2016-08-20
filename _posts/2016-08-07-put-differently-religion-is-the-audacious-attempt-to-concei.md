@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-20T01:46:38.571Z'
+datePublished: '2016-08-20T01:48:03.986Z'
 sourcePath: >-
   _posts/2016-08-07-put-differently-religion-is-the-audacious-attempt-to-concei.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T01:46:38.310Z'
+dateModified: '2016-08-20T01:48:03.474Z'
 title: >-
   Put differently, religion is the audacious attempt to conceive of the entire
   universe as being humanly significant.’
@@ -27,4 +27,4 @@ _type: Article
 
 ## Put differently, religion is the audacious attempt to conceive of the entire universe as being humanly significant.'
 
-From Peter L. Berger's The Sacred Canopy: Elements of a Sociological Theory of Religion. Original copyright 1967, Anchor Books Edition 1969, p 27-28\.
+**From Peter L. Berger's The Sacred Canopy:** Elements of a Sociological Theory of Religion. Original copyright 1967, Anchor Books Edition 1969, p 27-28\.
