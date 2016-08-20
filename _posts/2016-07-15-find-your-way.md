@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-20T14:19:12.102Z'
+datePublished: '2016-08-20T16:39:17.860Z'
 sourcePath: _posts/2016-07-15-find-your-way.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T14:19:11.195Z'
+dateModified: '2016-08-20T16:39:16.553Z'
 title: ''
 publisher: {}
 description: First Entry August 1 2016
@@ -37,6 +37,8 @@ maps---Territory
 truth---true
 
 inspiration---information
+
+agreement---verification
 
 symbolic---sensory
 
