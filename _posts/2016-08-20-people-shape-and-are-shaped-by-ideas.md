@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T17:27:03.359Z'
+datePublished: '2016-08-20T17:36:07.664Z'
 sourcePath: _posts/2016-08-20-people-shape-and-are-shaped-by-ideas.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T17:27:01.874Z'
+dateModified: '2016-08-20T17:36:05.229Z'
 title: ''
 publisher: {}
 description: 'People Shape, and are Shaped by, Ideas'
@@ -17,7 +17,7 @@ _type: Blurb
 
 **People Shape, and are Shaped by, Ideas**
 
-**By Gary Jaron**
+\[From an unpublished manuscript 2012 draft\]
 
 As a result of my mystic vision as a young child this phrase came to mind, "People shape, and are shaped by, ideas". It came to sum up the meaning of that vision.
 
