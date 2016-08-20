@@ -1,17 +1,16 @@
 ---
-description: 'People Shape, and are Shaped by, Ideas'
-dateModified: '2016-08-20T17:11:20.822Z'
-datePublished: '2016-08-20T17:11:38.409Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-20T17:12:02.672Z'
 sourcePath: _posts/2016-08-20-people-shape-and-are-shaped-by-ideas.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-20T17:12:02.028Z'
+title: ''
+publisher: {}
+description: 'People Shape, and are Shaped by, Ideas'
+starred: false
+url: people-shape-and-are-shaped-by-ideas/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7baf6d8-96a6-452d-9235-8e07f412447d.jpg)
@@ -105,6 +104,6 @@ _The Alphabet versus the Goddess: the Conflict Between Word and Images_ by Leona
 [0]: ab4fc871-2d77-405f-b86d-206e5b6bbfaa#_ftn1
 [1]: ab4fc871-2d77-405f-b86d-206e5b6bbfaa#_ftn2
 [2]: ab4fc871-2d77-405f-b86d-206e5b6bbfaa#_ftn3
-[3]: #_ftnref1
+[3]: ab4fc871-2d77-405f-b86d-206e5b6bbfaa#_ftnref1
 [4]: ab4fc871-2d77-405f-b86d-206e5b6bbfaa#_ftnref2
 [5]: ab4fc871-2d77-405f-b86d-206e5b6bbfaa#_ftnref3
