@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-17T19:20:57.969Z'
+datePublished: '2016-08-20T01:46:38.571Z'
 sourcePath: >-
   _posts/2016-08-07-put-differently-religion-is-the-audacious-attempt-to-concei.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T19:20:57.482Z'
+dateModified: '2016-08-20T01:46:38.310Z'
 title: >-
   Put differently, religion is the audacious attempt to conceive of the entire
   universe as being humanly significant.’
