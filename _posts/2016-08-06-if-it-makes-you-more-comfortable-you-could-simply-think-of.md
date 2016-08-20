@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T01:48:28.959Z'
+datePublished: '2016-08-20T15:09:38.440Z'
 sourcePath: >-
   _posts/2016-08-06-if-it-makes-you-more-comfortable-you-could-simply-think-of.md
 author: []
@@ -26,7 +26,7 @@ metadata:
       only interest is to make sure your football team, army, business, or
       marriage thrives, prospers. and triumphs over all opposition.
   dateModified: '2016-08-18T15:18:41.072Z'
-dateModified: '2016-08-20T01:48:28.308Z'
+dateModified: '2016-08-20T15:09:37.785Z'
 title: ''
 id: e8dc8b5f-d14e-476b-9c2f-ccc2b3dec5fe
 publisher: {}
