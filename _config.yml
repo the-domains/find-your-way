@@ -44,11 +44,11 @@ navigation:
   - name: 'Pirsig on the analytic knife (ZMM excerpt #1)'
     id: 53311f7f-b182-4732-9726-11d7eaa2d0f5
     type: content
-  - name: See some of my posted papers at Academia.edu
-    id: 1d77ba8f-0b71-4b5f-8932-c99ac8a90e99
-    type: content
   - name: James on how we shape our sensory experience
     id: 6b0e81c3-e1c2-4406-9317-20b8c6720952
+    type: content
+  - name: See some of my posted papers at Academia.edu
+    id: 1d77ba8f-0b71-4b5f-8932-c99ac8a90e99
     type: content
 title: Gary Jaron's Blog
 description: Find Your Way
