@@ -1,4 +1,5 @@
-typography_spectrum: 0.5645591784268618
+layout_spectrum: 0.9379903515800834
+typography_spectrum: 0.1996176578104496
 color:
   brandStrength: 0.6024315257091075
   lightness: 0.738469586474821
@@ -15,7 +16,6 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
   appId: 'https://www.facebook.com/garyjaron'
-layout_spectrum: 0.40735491807572544
 analytics:
   google: UA-81696929-1
 author:
