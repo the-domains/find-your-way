@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-17T19:13:06.144Z'
+datePublished: '2016-08-20T14:23:03.788Z'
 sourcePath: _posts/2016-07-23-robert-pirsig.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-17T19:13:05.380Z'
+dateModified: '2016-08-20T14:23:03.241Z'
 title: 'An excerpt from Zen and the Art of Motorcycle Maintenance. #1'
 publisher: {}
-description: Robert Pirsig
-hasPage: true
+description: 'Sixth entry: August 15 2016'
 starred: false
 url: an-excerpt-from-zen-and-the-art-of-motorcycle-maintenance/index.html
 _type: MediaObject
@@ -15,6 +15,8 @@ _type: MediaObject
 ---
 # An excerpt from Zen and the Art of Motorcycle Maintenance. \#1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/590f0bc3-9120-4000-810b-f6b37c806a5d.jpg)
+
+Sixth entry: August 15 2016
 
 Robert Pirsig
 
