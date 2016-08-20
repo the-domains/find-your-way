@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-20T14:32:15.193Z'
+datePublished: '2016-08-20T14:36:18.989Z'
 sourcePath: >-
   _posts/2016-07-15-first-i-shall-begin-with-three-insights-into-words-by-alfre.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/935f3a4d-da2a-4467-b5d6-68ba1d911d57.jpg
-hasPage: false
+hasPage: true
 author: []
 via: {}
 metadata:
@@ -24,12 +22,13 @@ metadata:
     Science and Sanity: An Introduction to Non-Aristotelian Systems and General
     Semantics, (original copyright 1933) International Non-Aristotelian Library
     Publishing Company, 4th ed. 5th 1973 printing.
-dateModified: '2016-08-20T14:32:14.645Z'
+dateModified: '2016-08-20T14:36:18.415Z'
 title: ''
 id: 8aace2ea-d6a4-41b9-bc33-2072c3524f34
 publisher: {}
 description: 'Third entry: August 3 2016'
 starred: false
+url: third-entry-august-3-2016/index.html
 _type: MediaObject
 
 ---
