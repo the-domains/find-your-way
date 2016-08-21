@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-08-20T23:47:43.487Z'
+datePublished: '2016-08-20T23:48:03.907Z'
 inFeed: true
-isBasedOnUrl: 'https://independent.academia.edu/GaryJaron'
 keywords:
   - logic
   - aristotle
@@ -16,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T23:47:30.160Z'
+dateModified: '2016-08-20T23:48:03.354Z'
 title: Gary M Jaron - Academia.edu
 app_links: []
 publisher:
@@ -26,8 +25,10 @@ publisher:
   domain: independent.academia.edu
 description: Academia.edu is a place to share and follow research.
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-20-gary-m-jaron-academiaedu.md
+hasPage: true
+starred: false
+url: gary-m-jaron-academiaedu/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
