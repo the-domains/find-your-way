@@ -53,5 +53,8 @@ navigation:
   - name: Gary M Jaron - Academia.edu
     id: 224de37a-1c28-42e4-ab96-932804d9e7dc
     type: content
+  - name: Contact information
+    id: ddd705cf-500e-4298-baec-7b6bb3def78d
+    type: content
 title: Find Your way
 description: Gary Jaron's blog
