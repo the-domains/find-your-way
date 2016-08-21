@@ -11,7 +11,7 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 opengraph:
-  type: ''
+  type: home page
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
   appId: 'https://www.facebook.com/garyjaron'
