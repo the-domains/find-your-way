@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T17:36:07.664Z'
+datePublished: '2016-08-21T15:22:42.045Z'
 sourcePath: _posts/2016-08-20-people-shape-and-are-shaped-by-ideas.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T17:36:05.229Z'
+dateModified: '2016-08-21T15:22:41.258Z'
 title: ''
 publisher: {}
 description: 'People Shape, and are Shaped by, Ideas'
@@ -58,8 +58,6 @@ _Cosmos_ by Carl Sagan
 _The Day the Universe Changed _by James Burke
 
 _The Power of Myth with Bill Moyers_ by Joseph Campbell
-
-_Natural Symbols: Explorations in Cosmology_ by Mary Douglas
 
 _The Passion of the Western Mind: Understanding the Ideas that have Shaped Our World View _by Richard Tarnas
 
