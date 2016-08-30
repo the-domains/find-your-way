@@ -1,9 +1,10 @@
-typography_spectrum: 0.33731566090136766
+layout_spectrum: 0.7396936709992588
+typography_spectrum: 0.7266761960927397
 color:
-  brandStrength: 0.6024315257091075
-  lightness: 0.738469586474821
-  saturation: 0.6780581788625568
-  rhythmicContrast: 0.5313768910709769
+  brandStrength: 0.05118187773041427
+  lightness: 0.9388774659018964
+  saturation: 0.8995065339840949
+  rhythmicContrast: 0.34452974726445973
   brandColors:
     - '#16193B'
     - '#35478C'
@@ -15,7 +16,6 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
   appId: 'https://www.facebook.com/garyjaron'
-layout_spectrum: 0.7765580085106194
 analytics:
   google: UA-81696929-1
 author:
