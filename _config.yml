@@ -1,4 +1,3 @@
-layout_spectrum: 0.7396936709992588
 typography_spectrum: 0.7266761960927397
 color:
   brandStrength: 0.05118187773041427
@@ -16,6 +15,7 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
   appId: 'https://www.facebook.com/garyjaron'
+layout_spectrum: 0.7396936709992588
 analytics:
   google: UA-81696929-1
 author:
@@ -55,6 +55,9 @@ navigation:
     type: content
   - name: Gary M Jaron - Academia.edu
     id: 224de37a-1c28-42e4-ab96-932804d9e7dc
+    type: content
+  - name: Who questions reality and why?
+    id: c99e1fbf-6d14-4c36-b54c-a7c51b7bd174
     type: content
 title: Find Your way
 description: Gary Jaron's blog
