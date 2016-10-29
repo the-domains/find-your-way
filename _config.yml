@@ -1,63 +1,72 @@
-typography_spectrum: 0.7266761960927397
+typography_spectrum: 0.6641644241762265
 color:
-  brandStrength: 0.05118187773041427
-  lightness: 0.9388774659018964
-  saturation: 0.8995065339840949
-  rhythmicContrast: 0.34452974726445973
+  brandStrength: 0.4851854533710434
+  lightness: 0.9486476932381196
+  saturation: 0.885512970296832
+  rhythmicContrast: 0.49153220093135935
   brandColors:
     - '#16193B'
     - '#35478C'
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+github: true
 opengraph:
   type: home page
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
   appId: 'https://www.facebook.com/garyjaron'
-layout_spectrum: 0.7396936709992588
+layout_spectrum: 0.9281595169048351
 analytics:
   google: UA-81696929-1
 author:
   name: Gary M Jaron
   email: grayravensf@gmail.com
-  url: 'https://www.facebook.com/garyjaron'
+  url: 'https://independent.academia.edu/GaryJaron'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fcb971e-34c9-432e-8f4f-fdf8f05df68d.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/189e5d04-96db-4b12-b750-96182c02129d.jpg
 name: Find Your Way
 navigation:
-  - name: 1) find your way intro
+  - name: 'Read this first: A Guide to this blog site'
+    id: a9a439b6-60e1-45ec-b4a5-c6c2d2beee17
+    type: content
+  - name: Blog 1)Why I updated this site on Sept 9 2016
+    id: f857d3ea-c342-4308-8978-692af10abb92
+    type: content
+  - name: Blog 2) a map to future posts
     id: f6a660e3-3f36-4358-bc0c-842d759915ef
     type: content
-  - name: 2) what is a pragmatic orienting system?
-    id: 099176eb-3e3a-491f-9b13-ccc6705b9caa
+  - name: Blog 3) Who is Alfred Korzybski and why should I care?
+    id: 5e4178de-7190-4329-8137-669ad610b28a
     type: content
-  - name: 3) Korzybski on words and structure
-    id: 8aace2ea-d6a4-41b9-bc33-2072c3524f34
+  - name: 'Blog 4) Bias: the shaping influence of ideas and experienece'
+    id: 449c8686-8a6d-4128-8079-05296ed3fe4a
     type: content
-  - name: '4) Korzybski: Maps and the Territory'
-    id: 094541d6-c0b4-497a-91f2-7e0861d13f3b
+  - name: Blog 5) Poincare and bias and shaping ideas
+    id: 14837bf9-96b3-4daf-8af1-61563e3e52e0
     type: content
-  - name: 5) James on pragmatic truth
+  - name: 'Blog 6) Where bias comes from: Neural Beings Must Categorize'
+    id: 74416eab-8e8b-49c1-a33f-f4d2c6bc5e2f
+    type: content
+  - name: Blog 7) Pragmatic Wisdom
+    id: f9d8fb87-3af9-4595-bbf6-06375ff9626e
+    type: content
+  - name: Blog 8) William James and why you should know something about him.
     id: 7871c60a-4137-4d15-9b2e-f9725627e2f2
     type: content
-  - name: '6) Pirsig on the analytic knife (ZMM excerpt #1)'
-    id: 53311f7f-b182-4732-9726-11d7eaa2d0f5
+  - name: Contact info
+    id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
-  - name: 7) James on how we shape our sensory experience
-    id: 6b0e81c3-e1c2-4406-9317-20b8c6720952
+  - name: 'Jarons and Jermanoks: It’s a family thing….'
+    id: 636895ce-040a-4542-b066-ae5ed3a01c00
     type: content
-  - name: '8) people shape, and are shaped by, ideas'
-    id: ab4fc871-2d77-405f-b86d-206e5b6bbfaa
-    type: content
-  - name: 9) Fixed points of references
-    id: 5af9d35c-0c6e-413d-8ee7-5fdaa9e05810
-    type: content
-  - name: 10) Who questions reality and why?
-    id: c99e1fbf-6d14-4c36-b54c-a7c51b7bd174
-    type: content
-  - name: Gary M Jaron - Academia.edu
-    id: 224de37a-1c28-42e4-ab96-932804d9e7dc
-    type: content
-title: Find Your way
+title: Find Your Way
+content: []
 description: Gary Jaron's blog
+purpose:
+  - type: contact
+    url: 'mailto:gmjaron@uw.edu'
+    label: Contact me
+  - type: external
+    url: 'https://www.facebook.com/garyjaron'
+    label: Gary Jaron Facebook page
