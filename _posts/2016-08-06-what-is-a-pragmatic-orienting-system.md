@@ -1,22 +1,20 @@
 ---
-datePublished: '2016-08-20T14:19:48.244Z'
+datePublished: '2016-11-05T17:28:45.721Z'
 sourcePath: _posts/2016-08-06-what-is-a-pragmatic-orienting-system.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-20T14:19:47.541Z'
+dateModified: '2016-11-05T17:28:45.087Z'
 title: ''
 publisher: {}
-description: 'Second entry: August 2 2016'
+description: What is a ‘pragmatic orienting system’?
 starred: false
 url: what-is-a-pragmatic-orienting-system/index.html
 _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd8178a6-b472-480a-91af-9fa1e3979034.jpg)
-
-Second entry: August 2 2016
 
 **What is a 'pragmatic orienting system'?**
 
@@ -32,4 +30,6 @@ Second entry: August 2 2016
 
 **An orienting system is a tool. Three of the most common orienting tools are the compass, the clock and its companion the calendar. Together these three tell us where we are in space and time and help us to recall where we were in space and time. They point the way.**
 
-**My system is a practical set of tools to point the way. They can help you examine your other beliefs and ideas and to do the same with any new ones you encounter as well.**
+**My system is a practical set of tools to point the way. They can help you examine your other beliefs and ideas and to do the same with any new ones you encounter as well. I'll explain how this system works in a later blog. Stay tuned.**
+
+First posted on August 2nd 2016\. Re-posted October 23 2016
