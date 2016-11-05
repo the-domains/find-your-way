@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-11-05T17:48:22.078Z'
+datePublished: '2016-11-05T17:57:13.250Z'
+sourcePath: >-
+  _posts/2016-11-05-in-1933-alfred-korzybski-discussed-the-relationship-between.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-05T17:48:09.170Z'
+dateModified: '2016-11-05T17:57:12.693Z'
 title: ''
 publisher: {}
 description: >-
@@ -19,8 +21,6 @@ description: >-
   in essentially the same way but he links it and roots it to the physiological
   processes of the brain/body.
 starred: false
-sourcePath: >-
-  _posts/2016-11-05-in-1933-alfred-korzybski-discussed-the-relationship-between.md
 _type: Blurb
 
 ---
