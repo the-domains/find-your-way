@@ -54,14 +54,14 @@ navigation:
   - name: Blog 8) William James and why you should know something about him.
     id: 7871c60a-4137-4d15-9b2e-f9725627e2f2
     type: content
+  - name: Blog 9) What is a pragmatic orienting system?
+    id: 099176eb-3e3a-491f-9b13-ccc6705b9caa
+    type: content
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
   - name: 'Jarons and Jermanoks: It’s a family thing….'
     id: 636895ce-040a-4542-b066-ae5ed3a01c00
-    type: content
-  - name: Blog 9) What is a pragmatic orienting system?
-    id: 099176eb-3e3a-491f-9b13-ccc6705b9caa
     type: content
 title: Gary Jaron_Find Your Way
 content: []
