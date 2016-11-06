@@ -1,19 +1,21 @@
 ---
-datePublished: '2016-11-06T01:06:43.355Z'
+datePublished: '2016-11-06T16:08:53.061Z'
 sourcePath: _posts/2016-10-02-my-meetings-with-remarkable-books.md
 inFeed: true
+isBasedOnUrl: >-
+  https://the-grid.github.io/ed-userhtml/?g=eJxLz89Pz0nVLc4sSdUtSy3KTMtMTizJzM-zUkgHy6QZGJibWxolpiUapaUlWaTpZZTk5gAAFVcTDw
 author: []
 via: {}
-dateModified: '2016-11-06T01:06:42.860Z'
+dateModified: '2016-11-06T16:08:51.837Z'
 title: ''
 publisher: {}
 description: My Meetings with Remarkable Books
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJxLz89Pz0nVLc4sSdUtSy3KTMtMTizJzM-zUkgHy6QZGJibWxolpiUapaUlWaTpZZTk5gAAFVcTDw
 starred: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29a1f53f-829f-4001-a041-b48d99a363e8.jpg)
+
 My Meetings with Remarkable Books
 
 Here is a semi-random listing of books for you to wander through... (remember to use your browser's back arrow to return to this website page.)
