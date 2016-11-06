@@ -1,19 +1,17 @@
 ---
-datePublished: '2016-08-21T15:23:18.672Z'
+datePublished: '2016-11-06T15:45:32.765Z'
 sourcePath: >-
   _posts/2016-07-23-protagoras-a-greek-sophist-philosopher-wrote-humans-are-th.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T15:23:18.153Z'
-title: >-
-  Protagoras, a Greek Sophist philosopher wrote “Humans are the measure of all
-  things".
+dateModified: '2016-09-17T16:11:45.451Z'
+title: 'Protagoras, a Greek Sophist philosopher wrote:'
 publisher: {}
 description: The Measure of all things?
 starred: false
-url: protagoras-a-greek-sophist-philosopher-wrote-humans-are-th/index.html
+url: protagoras-a-greek-sophist-philosopher-wrote/index.html
 _type: Article
 
 ---
@@ -21,7 +19,9 @@ _type: Article
 
 The Measure of all things?
 
-## Protagoras, a Greek Sophist philosopher wrote "_Humans are the measure of all things"_.
+## Protagoras, a Greek Sophist philosopher wrote:
+
+## **"**_**Humans are the measure of all things"**_.
 
 This quotation is restated in Plato's _[Theaetetus ][0]_at [152a][1]. [Sextus Empiricus ][2]gives a direct quotation in_Adv. math._7.60: πάντων χρημάτων μέτρον ἐστὶν ἄνθρωπος, τῶν μὲν ὄντων ὡς ἔστιν, τῶν δὲ οὐκ ὄντων ὡς οὐκ ἔστιν. ... Similarly, in Ancient Greek, Protagoras used the Greek word _anthrōpos _(_human being, person_), making a general statement about human beings.
 
