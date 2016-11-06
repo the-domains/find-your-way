@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-06T16:08:53.061Z'
+datePublished: '2016-11-06T16:21:00.998Z'
 sourcePath: _posts/2016-10-02-my-meetings-with-remarkable-books.md
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid.github.io/ed-userhtml/?g=eJxLz89Pz0nVLc4sSdUtSy3KTMtMTizJzM-zUkgHy6QZGJibWxolpiUapaUlWaTpZZTk5gAAFVcTDw
 author: []
 via: {}
-dateModified: '2016-11-06T16:08:51.837Z'
+dateModified: '2016-11-06T16:21:00.438Z'
 title: ''
 publisher: {}
 description: My Meetings with Remarkable Books
@@ -129,10 +129,6 @@ Here is a semi-random listing of books for you to wander through... (remember to
 [https://www.amazon.com/Science-Sanity-Introduction-Non-Aristotelian-Semantics/dp/0937298018][33]
 
 These are some of the books I will be referring to on this Blog.
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxLz89Pz0nVLc4sSdUtSy3KTMtMTizJzM-zUkgHy6QZGJibWxolpiUapaUlWaTpZZTk5gAAFVcTDw" height="244" style=""></iframe>
-
-
 
 [0]: https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance
 [1]: https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469/ref=mt_paperback?_encoding=UTF8&me
