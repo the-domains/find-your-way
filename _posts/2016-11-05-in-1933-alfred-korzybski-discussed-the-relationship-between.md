@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-06T00:51:11.247Z'
+datePublished: '2016-11-06T01:08:35.909Z'
 sourcePath: >-
   _posts/2016-11-05-in-1933-alfred-korzybski-discussed-the-relationship-between.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-06T00:51:10.945Z'
+dateModified: '2016-11-06T01:08:35.372Z'
 title: ''
 publisher: {}
 description: >-
@@ -24,6 +24,8 @@ starred: false
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2e8214d-cd2f-4b6e-9f5e-fa9255080fdc.jpg)
+
 In 1933 Alfred Korzybski discussed the relationship between maps and the non-symbolic Territory in his book _Science and Sanity_. He used this metaphor of maps as a way to describe any human creation that attempts to illustrate our analysis and understanding of our experience of living and being. He used the word map to point towards other terms such as ideas, images, theories, metaphors, symbols, models, systems, etc. Basically he meant the term map to point toward any and all mental construction and mental tool that we make. Map making is the process of understanding and experiencing life. Seventy-seven years later the Antonio Damasio, a professor of neuroscience, uses the term map in essentially the same way but he links it and roots it to the physiological processes of the brain/body.
 
 _**Self Comes to Mind: Constructing the Conscious Brain**_ by [Antonio Damasio][0], Pantheon Books, 2010
