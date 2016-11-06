@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-06T00:50:54.283Z'
+datePublished: '2016-11-06T01:06:43.355Z'
 sourcePath: _posts/2016-10-02-my-meetings-with-remarkable-books.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-06T00:50:53.868Z'
+dateModified: '2016-11-06T01:06:42.860Z'
 title: ''
 publisher: {}
 description: My Meetings with Remarkable Books
