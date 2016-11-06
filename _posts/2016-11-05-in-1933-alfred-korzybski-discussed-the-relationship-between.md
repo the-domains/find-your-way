@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-05T17:57:13.250Z'
+datePublished: '2016-11-06T00:50:43.508Z'
 sourcePath: >-
   _posts/2016-11-05-in-1933-alfred-korzybski-discussed-the-relationship-between.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-05T17:57:12.693Z'
+dateModified: '2016-11-06T00:50:42.940Z'
 title: ''
 publisher: {}
 description: >-
@@ -17,14 +17,14 @@ description: >-
   metaphors, symbols, models, systems, etc. Basically he meant the term map to
   point toward any and all mental construction and mental tool that we make. Map
   making is the process of understanding and experiencing life. Seventy-seven
-  years later the Antonio Damasio, a professor of neuroscience uses the term map
-  in essentially the same way but he links it and roots it to the physiological
-  processes of the brain/body.
+  years later the Antonio Damasio, a professor of neuroscience, uses the term
+  map in essentially the same way but he links it and roots it to the
+  physiological processes of the brain/body.
 starred: false
 _type: Blurb
 
 ---
-In 1933 Alfred Korzybski discussed the relationship between maps and the non-symbolic Territory in his book _Science and Sanity_. He used this metaphor of maps as a way to describe any human creation that attempts to illustrate our analysis and understanding of our experience of living and being. He used the word map to point towards other terms such as ideas, images, theories, metaphors, symbols, models, systems, etc. Basically he meant the term map to point toward any and all mental construction and mental tool that we make. Map making is the process of understanding and experiencing life. Seventy-seven years later the Antonio Damasio, a professor of neuroscience uses the term map in essentially the same way but he links it and roots it to the physiological processes of the brain/body.
+In 1933 Alfred Korzybski discussed the relationship between maps and the non-symbolic Territory in his book _Science and Sanity_. He used this metaphor of maps as a way to describe any human creation that attempts to illustrate our analysis and understanding of our experience of living and being. He used the word map to point towards other terms such as ideas, images, theories, metaphors, symbols, models, systems, etc. Basically he meant the term map to point toward any and all mental construction and mental tool that we make. Map making is the process of understanding and experiencing life. Seventy-seven years later the Antonio Damasio, a professor of neuroscience, uses the term map in essentially the same way but he links it and roots it to the physiological processes of the brain/body.
 
 _**Self Comes to Mind: Constructing the Conscious Brain**_ by [Antonio Damasio][0], Pantheon Books, 2010
 
