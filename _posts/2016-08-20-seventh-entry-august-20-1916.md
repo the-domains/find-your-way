@@ -1,25 +1,27 @@
 ---
-datePublished: '2016-08-27T14:38:03.072Z'
+datePublished: '2016-11-15T16:52:58.103Z'
 sourcePath: _posts/2016-08-20-seventh-entry-august-20-1916.md
-hasPage: true
+inFeed: true
+hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-27T14:38:02.071Z'
+dateModified: '2016-11-15T16:52:43.153Z'
 title: ''
 publisher: {}
-description: 'Seventh entry: August 20 1916'
+description: >-
+  William James realized that our biology interacts with our mind and thus can
+  shape how we think about ourselves and the world
 starred: false
-url: seventh-entry-august-20-1916/index.html
 _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be642f42-05c3-4d44-a4da-b9702643b5af.jpg)
 
-Seventh entry: August 20 1916
+William James realized that our biology interacts with our mind and thus can shape how we think about ourselves and the world
 
 William James
 
-From Pragmatism: A New Name for Some Old Ways of Thinking, original copyright 1907, Harvard University Press, 1978 edition
+From _Pragmatism: A New Name for Some Old Ways of Thinking_, original copyright 1907, Harvard University Press, 1978 edition
 
 Lecture VII Pragmatism and Humanism
 
