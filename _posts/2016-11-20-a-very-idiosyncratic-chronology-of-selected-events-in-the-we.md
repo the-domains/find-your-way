@@ -1,10 +1,12 @@
 ---
-datePublished: '2016-11-20T05:38:17.528Z'
+datePublished: '2016-11-20T05:41:34.599Z'
+sourcePath: >-
+  _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T05:38:15.754Z'
+dateModified: '2016-11-20T05:41:33.204Z'
 title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness
@@ -13,10 +15,7 @@ description: >-
   [Compiled from Wikipedia article on the history of anti-Semitism
   https://en.wikipedia.org/wiki/Timeline_of_antisemitism and A timeline of
   Western music, http://www.infoplease.com/ipea/A0151192.html and Richard
-  Tarnas’s  The Passion of the Western Mind, amongst other sources and
-  research.]
-sourcePath: >-
-  _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
+  Tarnas’s The Passion of the Western Mind, amongst other sources and research.]
 starred: false
 url: a-very-idiosyncratic-chronology-of-selected-events-in-the-we/index.html
 _type: Blurb
@@ -34,11 +33,11 @@ Patriarchs (Abraham, Isaac & Jacob 2000-1800)
 
 Hebrews in Egypt 1700-1600
 
-**1500-1200 ** Late Bronze Age
+**1500-1200** Late Bronze Age
 
 Hebrew leave Egypt 1250 (?)
 
-**1200- 900 ** Early Iron Age
+**1200- 900** Early Iron Age
 
 Twelve Tribes 1200 - 1025
 
@@ -94,7 +93,7 @@ Rise of Judaism the invention of the Rabbis alongside Judahism the remnant of Mo
 
 **198-167+** Seleucids (Syrian based Hellenists) control of Jerusalem Territory
 
-**167 ** Maccabean Revolt with desecration of 2nd Temple
+**167** Maccabean Revolt with desecration of 2nd Temple
 
 **164**: Recapture & rededication of 2nd Temple by Maccabees
 
@@ -106,7 +105,7 @@ In the later part of the Second Temple period (2nd century BC), the Second Commo
 
 **63** Pompey establishes Roman Rule
 
-**44 ** Caesar murdered, factional strife for control of Roman rule of Palestine
+**44** Caesar murdered, factional strife for control of Roman rule of Palestine
 
 40 Roman Senate appoints Herod, aka the great, King of Judea
 
@@ -162,7 +161,7 @@ During the time of the Composition of the Talmud, references are noted in the ev
 
 **248**: Origen's _Constra Celsum_ defends Christianity against pagan intellectuals.
 
-**250-260** Persecution of Christians by Roman emperors Decius and Valerian 
+**250-260** Persecution of Christians by Roman emperors Decius and Valerian
 
 **265**: Plotinus writing and teaching in Rome, emergence of Neoplatonisim.
 
@@ -190,7 +189,7 @@ During the time of the Composition of the Talmud, references are noted in the ev
 
 **524** Boethius's _Consolation of Philosophy_
 
-**529** Closing of the Platonic Academy in Athens by Justinian. 
+**529** Closing of the Platonic Academy in Athens by Justinian.
 
 **600**: Pope Gregory the Great codifies and collects the chant, which is used in Roman Catholic services and is named the Gregorian chant in his honor.
 
@@ -272,7 +271,7 @@ During the time of the Composition of the Talmud, references are noted in the ev
 
 **1209: **Raymond VI, Count of Toulouse and Marquis of Provence , humiliated and forced by the Catholic Pope to swear that he would implement social restrictions against Jews.
 
-**1210** Wolfram von Eschenbach's _Parzival_. Gottfried von Strassburg's _Tristan und Isolde_. 
+**1210** Wolfram von Eschenbach's _Parzival_. Gottfried von Strassburg's _Tristan und Isolde_.
 
 **1215** The English Nobles force their reigning King to sign the _Magna Carta_ limiting the power of the king. The Fourth Lateran Council headed by Pope Innocent III declares: "Jews and Saracens of both sexes in every Christian province and at all times shall be marked off in the eyes of the public from other peoples through the character of their dress." (Canon 68). See Judenhut. The Fourth Lateran Council also noted that the Jews' own law required the wearing of identifying symbols. Pope Innocent III also reiterated papal injunctions against forcible conversions, and added: "No Christian shall do the Jews any personal injury...or deprive them of their possessions...or disturb them during the celebration of their festivals...or extort money from them by threatening to exhume their dead."
 
@@ -414,7 +413,7 @@ During the time of the Composition of the Talmud, references are noted in the ev
 
 **1438:** Establishment of mellahs (ghettos) in Morocco.
 
-**1440** Nicholas of Cusa's On Learned Ignorance. 
+**1440** Nicholas of Cusa's On Learned Ignorance.
 
 **1442 **a deck of playing cards with a fifth suit called carte da trionfi appears in court records in Ferrara Italy.
 
@@ -810,7 +809,7 @@ c. 1600: The Baroque period, characterized by strict musical forms and highly or
 
 **1855 **Walt Whitman publishes first edition of Leaves of Grass.
 
-**1856**: A French translation of Maimonides's _Guide for the Perplexed_ accompanied the first critical edition, published by Salomon Munk in three volumes from 1856 (Le Guide des égarés: Traité de Théologie et de Philosophie par Moïse ben Maimoun dit Maïmonide. Publié Pour la première fois dans l'arabe original et accompagné d'une traduction française et notes des critiques littéraires et explicatives par S. Munk). 
+**1856**: A French translation of Maimonides's _Guide for the Perplexed_ accompanied the first critical edition, published by Salomon Munk in three volumes from 1856 (Le Guide des égarés: Traité de Théologie et de Philosophie par Moïse ben Maimoun dit Maïmonide. Publié Pour la première fois dans l'arabe original et accompagné d'une traduction française et notes des critiques littéraires et explicatives par S. Munk).
 
 **1858: **Edgardo Mortara, a six-year-old Jewish boy whom a maid had baptised during an illness, is taken from his parents in Bologna, an episode which aroused universal indignation in liberal circles.
 
