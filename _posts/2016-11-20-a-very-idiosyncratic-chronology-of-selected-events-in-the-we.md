@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-20T15:47:33.295Z'
+datePublished: '2016-11-20T15:49:05.086Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T15:47:16.339Z'
+dateModified: '2016-11-20T15:49:04.124Z'
 title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness
@@ -409,7 +409,7 @@ During the time of the Composition of the Talmud, references are noted in the ev
 
 **1430**: The Renaissance begins. This rebirth favors the simplistic virtues of Greek and Roman Classic styles, moves from polyphony to one harmonized melody and sees the increased importance and popularity of secular music. Josquin Desprez, often called the Prince of Music, is a leading composer of the Renaissance. He worked for ducal courts in Italy and France, at the Sistine Chapel and for kings Louis XI and Louis XII.
 
-**1432 ** Lorenzo Valla's _On the True Good_. Valla presents a discussion between an "Epicurean," a "Stoic," and a "Christian" on an age-old question: what is the highest ethical good? The result of this confrontation between pagan and Christian moral thought is a combination of Pauline fideism and Epicurean hedonism, in which the Christian concepts of charity and beatitude are identified with hedonist pleasure, and the "Stoic" concept of virtue is rejected (Valla, _De vero falsoque bono_). Valla thus treats Epicureanism as a stepping-stone to the development of a Christian morality based on the concept of pleasure, and repudiates the traditional synthesis of Stoicism and Christianity, popular among scholastics and humanists alike. \[source: online Stanford Encyclopedia of Philosophy \]
+**1432** Lorenzo Valla's _On the True Good_. Valla presents a discussion between an "Epicurean," a "Stoic," and a "Christian" on an age-old question: what is the highest ethical good? The result of this confrontation between pagan and Christian moral thought is a combination of Pauline fideism and Epicurean hedonism, in which the Christian concepts of charity and beatitude are identified with hedonist pleasure, and the "Stoic" concept of virtue is rejected (Valla, _De vero falsoque bono_). Valla thus treats Epicureanism as a stepping-stone to the development of a Christian morality based on the concept of pleasure, and repudiates the traditional synthesis of Stoicism and Christianity, popular among scholastics and humanists alike. \[source: online Stanford Encyclopedia of Philosophy \]
 
 **1434**: Council of Basel, Sessio XIX: Jews are forbidden to obtain academic degrees and to act as agents in the conclusion of contracts between Christians. Accession to power of Cosimo de'Medici in Florence.
 
@@ -985,7 +985,7 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1938**: Anschluss, pogroms in Vienna, anti-Jewish legislation, deportations to Nazi concentration camps. Decree authorizing local authorities to bar Jews from the streets on certain days. Decree empowering the justice Ministry to void wills offending the "sound judgment of the people". Decree providing for compulsory sale of Jewish real estate. Decree providing for liquidation of Jewish real estate agencies, brokerage agencies, and marriage agencies catering to non-Jews. Directive providing for concentration of Jews in houses. Father Charles E. Coughlin, Roman Catholic priest, starts antisemitic weekly radio broadcasts in the United States. Jean Paul Sartre's _Nausea_. Bertolt Brecht's _Galileo_
 
-**1938** November 9--10:Kristallnacht (Night of The Broken Glass). In one night most German synagogues and hundreds of Jewish-owned German businesses are destroyed. Almost 100 Jews are killed, and 10,000 are sent to concentration camps. July 6--15: Evian Conference: 31 countries refuse to accept Jews trying to escape Nazi Germany (with exception of Dominican Republic). Most find temporary refuge in Poland. See also Bermuda Conference November 17: Racial legislation introduced in Italy. Anti Jewish economic legislation in Hungary. Aleister Crowley begins work on his own Tarot deck. 
+**1938** November 9--10:Kristallnacht (Night of The Broken Glass). In one night most German synagogues and hundreds of Jewish-owned German businesses are destroyed. Almost 100 Jews are killed, and 10,000 are sent to concentration camps. July 6--15: Evian Conference: 31 countries refuse to accept Jews trying to escape Nazi Germany (with exception of Dominican Republic). Most find temporary refuge in Poland. See also Bermuda Conference November 17: Racial legislation introduced in Italy. Anti Jewish economic legislation in Hungary. Aleister Crowley begins work on his own Tarot deck.
 
 **1941 **Rhinehold Neibuhr's _The Nature and Destiny of Man_. Erich Fromm's _Escape From Freedom._ Jorge Luis Borges's _Ficciones_.
 
