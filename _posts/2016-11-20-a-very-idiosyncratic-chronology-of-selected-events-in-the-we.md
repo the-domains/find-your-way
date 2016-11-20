@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-20T05:41:34.599Z'
+datePublished: '2016-11-20T06:01:56.019Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T05:41:33.204Z'
+dateModified: '2016-11-20T06:01:55.015Z'
 title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness
@@ -479,7 +479,7 @@ During the time of the Composition of the Talmud, references are noted in the ev
 
 **1511 **June 6: Eight Roman Catholic converts from Judaism burned at the stake for allegedly reverting.
 
-**1512-14** Copernicus's in _Commentariohs_, outlines his heliocentric theory. **1513** Machiavelli writes _The Prince_.
+**1512-14** Copernicus's in _Commentariolus_, outlines his heliocentric theory. **1513** Machiavelli writes _The Prince_.
 
 **1516** Thomas More writes the book _Utopia. _The first ghetto is established, on one of the islands in Venice.
 
@@ -513,7 +513,7 @@ During the time of the Composition of the Talmud, references are noted in the ev
 
 **1542** Establishment of the Roman Inquisition by Catholic Church.
 
-**1543**: In his pamphlet _On the Jews and Their Lies_ Martin Luther advocates an eight-point plan to get rid of the Jews as a distinct group either by religious conversion or by expulsion:
+**1543**: Copernicus's _De Revolutinibus Orbium Coelestium_. Vesalius' _On the Structure of the Human Body_. Martin Luther In his pamphlet _On the Jews and Their Lies_ advocates an eight-point plan to get rid of the Jews as a distinct group either by religious conversion or by expulsion:
 
 "...set fire to their synagogues or schools..."
 
@@ -543,29 +543,29 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1553**: Pope Julius III forbids Talmud printing and orders burning of any copy found. Rome's Inquisitor-General, Cardinal Carafa (later Pope Paul IV) has Talmud publicly burnt in Rome on Rosh Hashanah, starting a wave of Talmud burning throughout Italy. About 12,000 copies were destroyed.
 
-1554: Cornelio da Montalcino, a Franciscan Friar who converted to Judaism, is burned alive in Rome.
+**1554**: Cornelio da Montalcino, a Franciscan Friar who converted to Judaism, is burned alive in Rome.
 
 **1555: **_The Peace of Augsburg_ a treaty between Charles V of the Catholic Holy Roman Empire and the forces of an alliance of Lutheran princes is signed on September 25, 1555, at the imperial city of Augsburg, now in present-day Bavaria, Germany. It officially ends the first religious war between the two groups and made the legal division of Christendom permanent within the territories controlled by the Holy Roman Empire. In Papal Bull Cum nimis absurdum, Pope Paul IV writes: "It appears utterly absurd and impermissible that the Jews, whom God has condemned to eternal slavery for their guilt, should enjoy our Christian love." He renews anti-Jewish legislation and installs a locked nightly ghetto in Rome. The Bull also forces Jewish males to wear a yellow hat, females -- yellow kerchief. Owning real estate or practicing medicine on Christians is forbidden. It also limits Jewish communities to only one synagogue.
 
-1557: Jews are temporarily banished from Prague.
+**1557**: Jews are temporarily banished from Prague.
 
 **1558 The Zohar first published edition**. Recanati, Italy: a baptized Jew Joseph Paul More enters synagogue on Yom Kippur under the protection of Pope Paul IV and tries to preach a conversion sermon. The congregation evicts him. Soon after, the Jews are expelled from Recanati.
 
-1559: Pope Pius IV allows Talmud on conditions that it is printed by a Christian and the text is censored.
+**1559**: Pope Pius IV allows Talmud on conditions that it is printed by a Christian and the text is censored.
 
-1561 Joseph Gikatilla's _Sha' are Orah_ published.
+**1561 **Joseph Gikatilla's _Sha' are Orah_ published.
 
 **1562: **The _editio princeps_ of the _Sefer Yetzirah_ (Mantua, 1562) contains two recensions, which were used in the main by the commentators of the book as early as the middle of the 10th century. The shorter version (Mantua I.) was annotated by Dunash ibn Tamim or by Jacob b. Nissim, while Saadia and Donnolo wrote commentaries on the longer recension (Mantua II.). The shorter version was also used by most of the later commentators, such as Judah b. Barzillai and Nahmanides, and it was, therefore, published in the ordinary editions. The longer recension, on the other hand, was little known, the form given in the editio princeps of the Sefer Yetzirah being probably a copy of the text found in Donnolo's commentary. In addition to these two principal recensions of the text, both versions contain a number of variant readings which have not yet been examined critically.In Pope Pius IV's Counter-Reformation, he restores church music to its pure vocal form by eliminating all instruments except the organ, any evidence of secularism, harmony and folk melody. Giovanni Da Palestrina satisfies the pope's rigid requirements and creates a new spiritual style that legend says "saved polyphony" when he writes Pope Marcellus Mass, his most famous and enchanting piece.
 
-1563 February: Russian troops take Polotsk from Lithuania, Jews are given ultimatum: embrace Russian Orthodox Church or die. Around 300 Jewish men, women and children were thrown into ice holes of Dvina river.
+**1563** February: Russian troops take Polotsk from Lithuania, Jews are given ultimatum: embrace Russian Orthodox Church or die. Around 300 Jewish men, women and children were thrown into ice holes of Dvina river.
 
-1564: Brest-Litovsk: the son of a wealthy Jewish tax collector is accused of killing the family's Christian servant for ritual purposes. He is tortured and executed in line with the law. King Sigismund II of Poland forbids future charges of ritual murder, calling them groundless.
+**1564**: Brest-Litovsk: the son of a wealthy Jewish tax collector is accused of killing the family's Christian servant for ritual purposes. He is tortured and executed in line with the law. King Sigismund II of Poland forbids future charges of ritual murder, calling them groundless.
 
-1565: Jews are temporarily banished from Prague. In Italian music, castration emerges as a way of preserving high male singing voices. St. Paul's dictum prohibited women from singing on stage and in churches. The practice becomes commonplace by 1574\.
+**1565:** Jews are temporarily banished from Prague. In Italian music, castration emerges as a way of preserving high male singing voices. St. Paul's dictum prohibited women from singing on stage and in churches. The practice becomes commonplace by 1574\.
 
-1566: Antonio Ghislieri elected and, as Pope Pius V, reinstates the harsh anti-Jewish laws of Pope Paul IV. In 1569 he expels Jews dwelling outside of the ghettos of Rome, Ancona, and Avignon from the Papal States, thus ensuring that they remain city-dwellers.
+**1566**: Antonio Ghislieri elected and, as Pope Pius V, reinstates the harsh anti-Jewish laws of Pope Paul IV. In 1569 he expels Jews dwelling outside of the ghettos of Rome, Ancona, and Avignon from the Papal States, thus ensuring that they remain city-dwellers.
 
-1567: Jews are reauthorised to live in France.
+**1567:** Jews are reauthorised to live in France.
 
 **1569:** Rabbi Isaac Luria moves to Safed, Palestine.
 
@@ -573,75 +573,93 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1572 **Isaac Luria dies in Safed**. **Tycho Brahe records the observation of a supernova
 
-**1584 **Giordano Bruno (born in Nola Italy 1548) publishes _La Cene de le Ceneeri _(_The Ash Wednesday Supper_) and _De la Causa, Principio et Uno_ (_On Cause, Principle and Unity_)
+**1584 **Giordano Bruno (born in Nola Italy 1548) publishes _The Ash Wednesday Supper_ and _On Cause, Principle and Unity_, and _On the Infinite Universe and Worlds._
 
-1588: The English Madrigal School is firmly established. The movement, led by Thomas Morley, produces some of the most delightful secular music ever heard. Madrigals often told stories of love or grief.
+**1588**: The English Madrigal School is firmly established. The movement, led by Thomas Morley, produces some of the most delightful secular music ever heard. Madrigals often told stories of love or grief.
 
-**1590 **Dutch spectacle makers Hans Jansen and his son Zacharias Jansen, claimed by later writers Pierre Borel or William Borel, to have invented a device to study small objects by looking through the compound lenses, and thus created his version of what will be called the microscope. Jewish quarter of Mikulov (Nikolsburg) burns to ground and 15 people die while Christians watch or pillage. King Philip II of Spain orders expulsion of Jews from Lombardy. His order is ignored by local authorities until 1597, when 72 Jewish families are forced into exile.
+**1590 **Dutch spectacle makers Hans Jansen and his son Zacharias Jansen, claimed by later writers Pierre Borel or William Borel, to have invented a device to study small objects by looking through the compound lenses, and thus created his version of what will be called the microscope. Jewish quarter of Mikulov (Nikolsburg) burns to ground and 15 people die while Christians watch or pillage. King Philip II of Spain orders expulsion of Jews from Lombardy. His order is ignored by local authorities until 1597, when 72 Jewish families are forced into exile. William Shakespeare's Henry VI.
 
 **1590- 1607 **These are the years when William Shakespeare wrote and had his first performances of his plays, such as _The Taming of the Shrew, Romeo and Juliet, The Merchant of Venice, Hamlet, A Midsummer's Night Dream, _and _Macbeth_.
 
-1590--1604:A group of musicians and intellectuals gather in Count Giovanni de Bardi's camerata (salon) and discuss and experiment with music drama. It is during this period that opera is born. Jacopo Peri's _Dafne_, the first Italian opera, is produced in 1598 and _Euridice_ in 1600\.
+**1590--1604**:A group of musicians and intellectuals gather in Count Giovanni de Bardi's camerata (salon) and discuss and experiment with music drama. It is during this period that opera is born. Jacopo Peri's _Dafne_, the first Italian opera, is produced in 1598 and _Euridice_ in 1600\.
 
 **1591 **Moses Cordevero's _Pardes Rimonim_ is first published
 
-1593 February 25: Pope Clement VIII confirms the Papal bull of Paul III that expels Jews from Papal states except ghettos in Rome and Ancona and issues Caeca et obdurata ("Blind Obstinacy"): "All the world suffers from the usury of the Jews, their monopolies and deceit. ... Then as now Jews have to be reminded intermittently anew that they were enjoying rights in any country since they left Palestine and the Arabian desert, and subsequently their ethical and moral doctrines as well as their deeds rightly deserve to be exposed to criticism in whatever country they happen to live."
+**1593** February 25: Pope Clement VIII confirms the Papal bull of Paul III that expels Jews from Papal states except ghettos in Rome and Ancona and issues Caeca et obdurata ("Blind Obstinacy"): "All the world suffers from the usury of the Jews, their monopolies and deceit. ... Then as now Jews have to be reminded intermittently anew that they were enjoying rights in any country since they left Palestine and the Arabian desert, and subsequently their ethical and moral doctrines as well as their deeds rightly deserve to be exposed to criticism in whatever country they happen to live."
 
-**1600 **Giordano Bruno burned at the stake for heresy by the Catholic Church.
+**1596 **Kepler's _Mysterium Cosmographicum_ and Spenser's _Faerie Queene_.
 
-c. 1600: The Baroque period, characterized by strict musical forms and highly ornamental works, begins in Europe. This period signals the end of the Renaissance.
+**1600 **Giordano Bruno burned at the stake for heresy by the Catholic Church. Shakespeare's _Hamle_t. Gilbert _On the Magnet_.
+
+**c. 1600: **The Baroque period, characterized by strict musical forms and highly ornamental works, begins in Europe. This period signals the end of the Renaissance.
 
 **1601/02 **Athanasius Kircher born in Geisa Germa**ny**
 
-1603: Frei Diogo da Assumpcão, a partly Jewish friar who embraced Judaism, burned alive in Lisbon.
+**1603**: Frei Diogo da Assumpcão, a partly Jewish friar who embraced Judaism, burned alive in Lisbon.
 
-1604 Johannes Kelpler _Supplement to Witelo_. This helped to establish the geometry of optics of the human eye.
+**1604** Johannes Kelpler _Supplement to Witelo_. This helped to establish the geometry of optics of the human eye.
 
-1607:Italian master composer Claudio Monteverdi writes the opera Orfeo, Favola in Musica, a work deemed to be a prime example of the early Baroque musical form
+**1605 **Bacon's _Advancement of Learning_. Cervantes _Don Quixote_.
 
-1608: The Jesuit order forbids admission to anyone descended from Jews to the fifth generation, a restriction lifted in the 20th century. Three years later Pope Paul V applies the rule throughout the Church, but his successor revokes it.
+**1607**:Italian master composer Claudio Monteverdi writes the opera Orfeo, Favola in Musica, a work deemed to be a prime example of the early Baroque musical form
 
-**1609 **Galileo Galilei develops a magnifying device to study small objects with a convex and a concave lens.
+**1608**: The Jesuit order forbids admission to anyone descended from Jews to the fifth generation, a restriction lifted in the 20th century. Three years later Pope Paul V applies the rule throughout the Church, but his successor revokes it.
 
-1612: The Hamburg Senate decides to officially allow Jews to live in Hamburg on the condition there is no public worship.
+**1609 **Galileo Galilei develops a magnifying device to study small objects with a convex and a concave lens. Kepler's _Astronomia Nova_, first two laws of planetary motion.
 
-1614: Vincent Fettmilch, who called himself the "new Haman of the Jews", leads a raid on Frankfurt synagogue that turned into an attack which destroyed the whole community.
+**1610** Galileo announces telescopic discoveries in _Sidereus Nuncius._
 
-1615: King Louis XIII of France decrees that all Jews must leave the country within one month on pain of death. The Guild led by Dr. Chemnitz, "non-violently" forced the Jews from Worms.
+**1611** Shakespeare's _The Tempest_. King James translation of Bible into English.
+
+**1612:** The Hamburg Senate decides to officially allow Jews to live in Hamburg on the condition there is no public worship.
+
+**1614**: Vincent Fettmilch, who called himself the "new Haman of the Jews", leads a raid on Frankfurt synagogue that turned into an attack which destroyed the whole community.
+
+**1615**: King Louis XIII of France decrees that all Jews must leave the country within one month on pain of death. The Guild led by Dr. Chemnitz, "non-violently" forced the Jews from Worms.
 
 **1616** Catholic Church declares Copernican theory of heliocentric solar system false and erroneous.
 
 **1618** The beginning of what will be known as the Thirty Year War; a religious war between the forces of Protestant Christian governments with the forces of Catholic Holy Roman Empire in Europe.
 
-**1619 **Cornelius Drebbel presents in London a compound devise to study small objects with two convex lenses, his version of what will be called the microscope. Shah Abbasi of the Persian Sufi Dynasty increases persecution against the Jews, forcing many to outwardly practice Islam. Many keep practicing Judaism in secret.
+**1619 **Cornelius Drebbel presents in London a compound devise to study small objects with two convex lenses, his version of what will be called the microscope. Shah Abbasi of the Persian Sufi Dynasty increases persecution against the Jews, forcing many to outwardly practice Islam. Many keep practicing Judaism in secret. Kepler's _Harmonia Mundi_, third law of planetary motion. Descartes's revelatory vision of a new science.
 
-1624: Ghetto established in Ferrara, Italy.
+**1624**: Ghetto established in Ferrara, Italy.
 
 **1625 **Giovanni Faber coins the word microscope by analogy to the telescope for these devices that magnify small objects that Jansen, Galileo and Drebbel had invented. Philippe d'Aquin publishes the _Tree of Kabbalah_. Francesca Caccini, who most historians say is the first female composer, finishes the opera-ballet La Liberazione di Ruggiero, which is performed at a reception for Wladyslaw IV of Poland.
 
 **1631 :**Professional female singers appear for the first time on the English stage in the production of _Chloridia_, a court masque produced by Ben Jonson and Inigo Jones.
 
-1632: King Ladislaus IV of Poland forbids antisemitic books and printings.
+**1632**: King Ladislaus IV of Poland forbids antisemitic books and printings. Galileo's _Dialogue Concerning the Two Chief World Systems._
 
-1639: The first comic opera, _Chi Soffre Speri_ by Virgilio Mazzocchi and Marco Marazzoli, premieres in Rome.
+**1633** Galileo's condemned by Inquisition.
+
+**1637** Descartes's _Discourse on Method_.
+
+**1638** Galileo's _Two New Sciences_.
+
+**1639**: The first comic opera, _Chi Soffre Speri_ by Virgilio Mazzocchi and Marco Marazzoli, premieres in Rome.
+
+**1644** Descartes's _Principia Philosopiae_.
 
 **1648 **The end of what will be known as The Thirty Year War between Protestant Christian forces and the Catholic Christian forces of the Holy Roman Empire in Europe.
 
-1648--1655: The Ukrainian Cossacks led by Bohdan Chmielnicki massacre about 100,000 Jews and similar number of Polish nobles, 300 Jewish communities destroyed.
+**1648--1655:** The Ukrainian Cossacks led by Bohdan Chmielnicki massacre about 100,000 Jews and similar number of Polish nobles, 300 Jewish communities destroyed.
 
 **1650 -- 1654 **Athanasius Kircher, S.J. was a German Jesuit scholar , he publishes _Oedipus Aegyptiacus_
 
-1656 : Henry Lawes and Matthew Locke add music to William Davenant's libretto The Siege of Rhodes, which is performed at the Rutland House in London. Davenant helps make the opera-masque a form of public entertainment.
+**1656 **: Henry Lawes and Matthew Locke add music to William Davenant's libretto The Siege of Rhodes, which is performed at the Rutland House in London. Davenant helps make the opera-masque a form of public entertainment.
 
-1664 May: Jews of Lemberg (now Lvov) ghetto organize self-defense against impending assault by students of Jesuit seminary and Cathedral school. The militia sent by the officials to restore order, instead joined the attackers. About 100 Jews killed.
+**1660** Boyle's _New Experiments Physico-Mechanical_
 
-1655: Oliver Cromwell readmits Jews to England. Robert Hooke publishes _Micropraphia_, a collection of biological micrographs. He coins the word cell for the structures he discovers in cork bark.
+**1664** May: Jews of Lemberg (now Lvov) ghetto organize self-defense against impending assault by students of Jesuit seminary and Cathedral school. The militia sent by the officials to restore order, instead joined the attackers. About 100 Jews killed.
 
-1666: The first signed Stradivarius violins emerge from Antonio Stradivari's workshop in Cremona, Italy.
+**1665:** Oliver Cromwell readmits Jews to England. Robert Hooke publishes _Micropraphia_, a collection of biological micrographs. He coins the word cell for the structures he discovers in cork bark.
 
-1670: Jews expelled from Vienna.
+**1666**: The first signed Stradivarius violins emerge from Antonio Stradivari's workshop in Cremona, Italy.
 
-1678: Forced mass conversions in Yemen.
+**1670**: Jews expelled from Vienna.
+
+**1678**: Forced mass conversions in Yemen.
 
 1672 Isaac Newton publishes his first presentation of the theory of light and color in the Philosophical Transactions of the Royal Society.
 
