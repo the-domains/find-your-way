@@ -60,6 +60,9 @@ navigation:
   - name: Blog 10) How we biologically make maps of the Territory
     id: 2bf3b48e-3b62-47cd-9913-852c1d837678
     type: content
+  - name: Blog 11) William James On the Biology of Mind
+    id: 6b0e81c3-e1c2-4406-9317-20b8c6720952
+    type: content
   - name: ' A selective and brief history of the Western World :natural light, the hidden light, and the ever-present darkness'
     id: 668fb842-6358-479a-b26c-299713e4ab95
     type: content
@@ -68,9 +71,6 @@ navigation:
     type: content
   - name: 'Jarons and Jermanoks: It’s a family thing….'
     id: 636895ce-040a-4542-b066-ae5ed3a01c00
-    type: content
-  - name: Blog 11) William James On the Biology of Mind
-    id: 6b0e81c3-e1c2-4406-9317-20b8c6720952
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
