@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-24T18:14:05.941Z'
+datePublished: '2016-11-24T21:04:49.705Z'
 sourcePath: _posts/2016-08-20-seventh-entry-august-20-1916.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-24T18:14:04.096Z'
+dateModified: '2016-11-24T21:04:47.771Z'
 title: ''
 publisher: {}
 description: >-
