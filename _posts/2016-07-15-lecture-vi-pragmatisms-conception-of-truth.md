@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-06T01:06:49.488Z'
+datePublished: '2016-11-24T18:14:06.373Z'
 sourcePath: _posts/2016-07-15-lecture-vi-pragmatisms-conception-of-truth.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-06T01:06:48.785Z'
+dateModified: '2016-11-24T18:14:04.096Z'
 title: Who is William James and why should you care?
 publisher: {}
 description: From the Internet Encyclopedia of Philosophy
