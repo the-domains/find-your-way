@@ -63,11 +63,6 @@ navigation:
   - name: Blog 11) William James On the Biology of Mind
     id: 6b0e81c3-e1c2-4406-9317-20b8c6720952
     type: content
-  - name: >-
-      Blog 12)  A selective and brief history of the Western World :natural
-      light, the hidden light, and the ever-present darkness
-    id: 668fb842-6358-479a-b26c-299713e4ab95
-    type: content
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
