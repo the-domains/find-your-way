@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-24T21:09:39.917Z'
+datePublished: '2016-11-24T21:39:42.923Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-24T21:09:37.693Z'
+dateModified: '2016-11-24T21:39:41.229Z'
 title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness Part
