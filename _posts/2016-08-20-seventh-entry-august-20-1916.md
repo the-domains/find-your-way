@@ -1,17 +1,18 @@
 ---
-datePublished: '2016-11-15T16:52:58.103Z'
+datePublished: '2016-11-24T18:08:02.138Z'
 sourcePath: _posts/2016-08-20-seventh-entry-august-20-1916.md
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-15T16:52:43.153Z'
+dateModified: '2016-11-24T18:08:01.395Z'
 title: ''
 publisher: {}
 description: >-
   William James realized that our biology interacts with our mind and thus can
   shape how we think about ourselves and the world
 starred: false
+url: william-james-realized-that-our-biology-interacts-with-our-m/index.html
 _type: Blurb
 
 ---
