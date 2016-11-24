@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-20T15:49:05.086Z'
+datePublished: '2016-11-24T18:01:43.879Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T15:49:04.124Z'
+dateModified: '2016-11-24T18:01:42.435Z'
 title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness
@@ -711,9 +711,13 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1725**: Antonio Vivaldi writes _The Four Seasons_.
 
+**1726**: Jonathan Swift's _Gulliver's Travels_.
+
 **1727:** Edict of Catherine I of Russia: "The Jews... who are found in Ukraine and in other Russian provinces are to be expelled at once beyond the frontiers of Russia."
 
 **1733**: The comic opera, La Serva Padrona, from Battista Pergolesi's serious opera Il Prigionier Superbo, wows Europe with its humorous story and enchanting music.
+
+**1734**: Alexander Pope's _Essay on Man_ and Voltaire's _Letters Philosophiques._
 
 **1734-1736:** The Haidamaks, paramilitary bands in Polish Ukraine, attack Jews.
 
@@ -725,6 +729,10 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1744**: Frederick II The Great limits Breslau to ten "protected" Jewish families, on the grounds that otherwise they will "transform it into complete Jerusalem". He encourages this practice in other Prussian cities. In 1750 he issues Revidiertes General Privilegium und Reglement vor die Judenschaft: "protected" Jews had an alternative to "either abstain from marriage or leave Berlin" (Simon Dubnow). Archduchess of Austria Maria Theresa orders: "... no Jew is to be tolerated in our inherited duchy of Bohemia" by the end of Feb. 1745\. In December 1748 she reverses her position, on condition that Jews pay for readmission every ten years. This extortion was known as malke-geld (queen's money).
 
+**1748 **David Hume's _Enquiry Concerning Human Understanding_
+
+**1749** Henry Fieldings _Tom Jones_
+
 **1750** : Johann Sebastian Bach dies. The end of the Baroque period is often seen in conjunction with his death. The highly ornate style of the Baroque period gives rise to the more simple, clarified styles of the Classical period, which sees the emergence of symphonies and string quartets.
 
 **1752** Benjamin Franklin demonstrates that lightning is a form of electricity. Archduchess of Austria Maria Theresa introduces the law limiting each Jewish family to one son.
@@ -735,45 +743,47 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1762**: Rhode Island refuses to grant Jews Aaron Lopez and Isaac Eliezer citizenship stating "no person who is not of the Christian religion can be admitted free to this colony."
 
-**1768: **Haidamaks massacre the Jews of Uman, Poland.
+**1768: **Haidamaks massacre the Jews of Uman, Poland. _Encyclopedia Britannica_ is published for the first time.
 
 **1770 **Parisian occultist Jean-Baptiste Alliette, publishes _Etteilla, or a Method of Entertaining Oneself with a Pack of Cards_, therein he describes his method of divination using the common four suit deck of playing cards. He also briefly mentions the Tarot deck, those with the fifth suit of trumps as a divination tool.
 
-**1775**: Pope Pius VI issues a severe _Editto sopra gli ebrei_ (Edict concerning the Jews). Previously lifted restrictions are reimposed, Judaism is suppressed.
-
-**1768: **_Encyclopedia Britannica_ is published for the first time.
-
 **April 11, 1772 **first major excommunication against Hasidism issued by the GRA. Maggid's pupils Menachem Mendel of Vitebsk and Rabbi Shneur Zalman of Liadi visit the GRA and try to bring reconciliation between the GRA's Mitnagdim and Hassidism. This fails. Rabbi Shneur Zalman founds Chabad Hassdic movement Rabbi Dov Ber December 1772 dies Hanipol.
+
+**1775**: Pope Pius VI issues a severe _Editto sopra gli ebrei_ (Edict concerning the Jews). Previously lifted restrictions are reimposed, Judaism is suppressed.
 
 **1775** The American Revolution begins.
 
-**1776** Thomas Jefferson et al, drafts the _Declaration of Independence_. Adam Smith publishes his economic treatise describing the hidden hand of capitalism in the _Wealth of Nations_.
+**1776** Thomas Jefferson et al, drafts the _Declaration of Independence_. Adam Smith publishes his economic treatise describing the hidden hand of capitalism in the _Wealth of Nations_. Edward Gibbon's _Decline and Fall of the Roman Empire_.
 
 **1778 **Antoine Court de Gebelin's nine volumes set _Le Monde Primitif Analyse et Compare avec le Monde Moderne, _published in Paris. His essay presents the idea that the Tarot was of Egyptian origin based on his fake 'translation' of Egyptian hieroglyphics. Gebelin invites Louis-Raphael-Lucrece de Fayolle, le Comte de Mellet to publish an essay on the Tarot as well. De Mellet begins the process of matching the Tarot's Major Arcana can be linked to the letters of the Hebrew alphabet.
 
-**1779 **Elijah ben Shlomo Zalmen Kremer (GRA) dies in Vilna.
+**1779 **Elijah ben Shlomo Zalmen Kremer (GRA) dies in Vilna. David Hume's _Dialogue Concerning Natural Religion_.
 
 **1781** Immanuel Kant, in response to the work of Hume, and Berkeley, publishes his _Critique of Pure Reason._
 
 **1782**: Holy Roman Emperor Joseph II abolishes most of persecution practices in Toleranzpatent on condition that Yiddish and Hebrew are eliminated from public records and judicial autonomy is annulled. Judaism is branded "quintessence of foolishness and nonsense". Moses Mendelssohn writes: "Such a tolerance... is even more dangerous play in tolerance than open persecution".
 
-**1785 **Etteilla publishes _A Way to Entertain Oneself with a Pack of Cards Called Tarots_. Etteilla repeats the Egyptian origin story of the Tarot calling the deck the book of Thoth.
+**1785 **Etteilla publishes _A Way to Entertain Oneself with a Pack of Cards Called Tarots_. Etteilla repeats the Egyptian origin story of the Tarot calling the deck _The book of Thoth_.
 
 **1786**: Amadeus Mozart's _The Marriage of Figaro_ premieres in Vienna.
 
 **1787-88** In America, James Madison, Alexander Hamilton, and John Jay publish and distribute _The Federalist Papers_. Mozart performs his _Don Giovanni_.
 
-**1788** In July the final 11th state assembly ratifies the U. S. constitution.
+**1788** In July the final 11th state assembly ratifies the U. S. constitution. Amadeus Mozart's _Jupiter _Symphony.
 
-**1789** On March 4, 1789, the United States of America government began operations. The French revolution begins. James Madison introduces the first ten amendments to the new constitution to the first congress of the United States of America. Etteilla publishes his first new Tarot deck specifically made for divination. He calls this deck the Book of Thoth.
+**1789** On March 4, 1789, the United States of America government began operations. The French revolution begins. James Madison introduces the first ten amendments to the new constitution to the first congress of the United States of America. Etteilla publishes his first new Tarot deck specifically made for divination. He calls this deck _The Book of Thoth_. William Blake's _Songs of Innocence_.
 
 **1790 **May 20: Eleazer Solomon is quartered for the alleged murder of a Christian girl in Grodno.
 
 **1790--1792:** Destruction of most of the Jewish communities of Morocco.
 
-**1791:** Catherine II of Russia confines Jews to the Pale of Settlement and imposes them with double taxes. The eleventh United States' state assembly ratifies the 10 amendments, also known as The Bill of Rights, to the U. S. Constitution. These amendments now become law.
+**1791:** Catherine II of Russia confines Jews to the Pale of Settlement and imposes them with double taxes. The eleventh United States' state assembly ratifies the 10 amendments, also known as _The Bill of Rights_, to the U. S. Constitution. These amendments now become law.
 
 **1792** Mary Wollstonecraft publishes _Vindication of the Rights of Woman_.
+
+**1793** William Blake's _Marriage of Heaven and Hell_.
+
+**1798** Thomas Robert Malthus's _Essay on the Principles of Population._
 
 **1799** Napoleon Bonaparte becomes first consul in France officially ending the French Revolution.
 
@@ -785,23 +795,31 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1807 **G W F Hegel publishes _The Phenomenology of Spirit_. Beethoven completes his Symphony No. 5\.
 
-**1811-1813 **Jane Austen publishes her novels_Sense and Sensibility_ and _Pride and Prejudice_.
+**1808** Jonathan Wolfgang Von Goethe's _Faust I_
 
-**1815:** Franz Schubert writes "_Der Erlkönig_," his first public success and most famous song. Pope Pius VII reestablishes the ghetto in Rome after the defeat of Napoleon.
+**1811-1813 **Jane Austen publishes her novels _Sense and Sensibility_ and _Pride and Prejudice_.
+
+**1815:** Franz Schubert writes "_Der Erlkönig_," his first public success and most famous song. Pope Pius VII reestablishes the ghetto in Rome after the defeat of Napoleon at Waterloo.
 
 **1816 :** Gioacchino Rossini's The Barber of Seville, based on Pierre Beaumarchais's play, debuts in Rome. His _Otello_ opens in Naples
 
 **1818 **Mary Shelley publishes her novel _Frankenstein; or, The Modern Prometheus_.
 
-**1822** Jean Francois Champollion announces that he has translated the Rosetta Stone and translate Egyptian hieroglyphs for the first time.
+**1819 **Arthur Schopenhauer's _The World as Will and Idea._ A series of anti-Jewish riots in Germany that spread to several neighboring countries: Denmark, Latvia and Bohemia known as Hep-Hep riots, from the derogatory rallying cry against the Jews in Germany.
 
-**1819: **A series of anti-Jewish riots in Germany that spread to several neighboring countries: Denmark, Latvia and Bohemia known as Hep-Hep riots, from the derogatory rallying cry against the Jews in Germany.
+**1820 **Percy Bysshe Shelley's _Prometheus Unbound_.
 
-**1824: **Ludwig van Beethoven finishes and performs his _Symphony no. 9\._
+**1822** Jean Francois Champollion announces that he has translated the Rosetta Stone and translate Egyptian hieroglyphs for the first time. Joseph Fourier's _The Analytical Theory of Heat._
+
+**1824: **Ludwig van Beethoven finishes and performs his _Symphony no. 9\. _George Gordon Byron's _Don Juan_. Fredrick Gauss postulates non-Euclidean geometry.
 
 **1826**: Moses Mendelssohn writes the overture to _A Midsummer Night's Dream_, which debuts in Stettin in 1827\.
 
 **1827** August 26: Compulsory military service for the Jews of Russia: Jewish boys under 18 years of age, known as the Cantonists, were placed in preparatory military training establishments for 25 years. Cantonists were encouraged and sometimes forced to baptize.
+
+**1830** Hector Berlioz's _Symphonie Fantastique_.
+
+**1831** Michael Faraday discovers electromagnetic induction.
 
 **1834 **Edgar Allan Poe publishes the poem _To One in Paradise_.
 
@@ -809,15 +827,17 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1836 **Ralph Waldo Emerson publishes his essay _Nature, _begins the Transcendentalism philosophic tradition.
 
-**1838 **Oliver Twist published by Charles Dickens.
+**1837** Charles Dickens _The Pickwick Papers_. Emerson "_American Scholar_" address.
 
-**1839**: The New York Philharmonic is established.
+**1838 **_Oliver Twist_ published by Charles Dickens.
 
-**1840**: The Damascus affair: false accusations cause arrests and atrocities, culminating in the seizure of sixty-three Jewish children and attacks on Jewish communities throughout the Middle East.
+**1839**: The New York Philharmonic is established. Charles Dickens _Nicholas Nickleby_.
 
 **1839- 1842 **Edgar Allan Poe publishes _The Fall of the House of Usher, Murder in the Rue Morgue, and Masque of the Red Death_
 
-**1843 **John Stuart Mill publishes his_System of Logic. _Edgar Allan Poe publishes _The Tell Tale Heart_.
+**1840**: The Damascus affair: false accusations cause arrests and atrocities, culminating in the seizure of sixty-three Jewish children and attacks on Jewish communities throughout the Middle East.
+
+**1843 **John Stuart Mill publishes his_System of Logic. _Edgar Allan Poe publishes _The Tell Tale Heart_. Charles Dicken's _A Christmas Carol_. Soren Kierkegaard's _Either/Or, Fear and Trembling_.
 
 **1844** Samuel F B Morse dispatches the first telegram. Karl Marx praises Bruno Bauer's essays containing demands that the Jews abandon Judaism, and publishes his work On the Jewish Question: "What is the worldly cult of the Jew? Huckstering. What is his worldly god? Money... Money is the jealous God of Israel, besides which no other god may exist... The god of the Jews has been secularized and has become the god of this world", "In the final analysis, the emancipation of the Jews is the emancipation of mankind from Judaism." This probably led to the antisemitic feeling within communism.
 
@@ -829,23 +849,25 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1848** Karl Mark and Engels write and publish _Communist Manifesto_. The Women's suffrage movement begins in the United States. Henry David Thoreau publishes '_Resistance to Civil Government_' that became known as '_Civil Disobediences_'.
 
-**1851** Herman Melville publishes Moby Dick. Giuseppe Fortunino FrancescoVerdi's _Rigoletto_ debuts in Venice.
+**1850** Charles Dickens _David Copperfield_. Nathaniel Hawthorne's _Scarlet Letter_.
+
+**1851** Herman Melville publishes _Moby Dick_. Giuseppe Fortunino FrancescoVerdi's _Rigoletto_ debuts in Venice.
 
 **1853:** Blood libels in Saratov and throughout Russia. Richard Wagner publishes the librettos to _Der Ring des Nibelungen_ (The Ring Cycle): _Das Rheingold_, _Die Walküre_, _Seigfried_ and _Die Götterdämerung_. The Ring Cycle is considered one of the most ambitious musical projects ever undertaken by a single person.
 
 **1854 **Eliphas Levi's first book _Dogma et Rituel de la Haute Magie: The Dogma and Rituals of High Magic published. _Levi fleshes out the idea that the Major Arcana is matched to the Hebrew alphabet. Henry David Thoreau publishes _Walden_**. **Franz Liszt conducts the first performance of his symphonic poems in Weimar. The symphonic poem is an orchestral work, often in one movement, and is usually based on a literary idea. Liszt is credited with creating the genre. His symphonic poems include _Orpheus,Les Preludes_ and _Mazeppa_.
 
-**1855 **Walt Whitman publishes first edition of Leaves of Grass.
+**1855 **Walt Whitman publishes first edition of _Leaves of Grass_.
 
-**1856**: A French translation of Maimonides's _Guide for the Perplexed_ accompanied the first critical edition, published by Salomon Munk in three volumes from 1856 (Le Guide des égarés: Traité de Théologie et de Philosophie par Moïse ben Maimoun dit Maïmonide. Publié Pour la première fois dans l'arabe original et accompagné d'une traduction française et notes des critiques littéraires et explicatives par S. Munk).
+**1856**: A French translation of Maimonides's _Guide for the Perplexed_ accompanied the first critical edition, published by Salomon Munk in three volumes from 1856 (Le Guide des égarés: Traité de Théologie et de Philosophie par Moïse ben Maimoun dit Maïmonide. Publié Pour la première fois dans l'arabe original et accompagné d'une traduction française et notes des critiques littéraires et explicatives par S. Munk). Gustave Flaubert's _Madame Bovary._
 
 **1858: **Edgardo Mortara, a six-year-old Jewish boy whom a maid had baptised during an illness, is taken from his parents in Bologna, an episode which aroused universal indignation in liberal circles.
 
-**1859** Charles Darwin publishes the _Origin of Species_. John Stuart Mill publishes _On Liberty_. Charles Dickens publishes A Tale of Two Cities.
+**1859** Charles Darwin publishes the _Origin of Species_. John Stuart Mill publishes _On Liberty_. Charles Dickens publishes _A Tale of Two Cities_.
 
 **1860** Robert Bunsen and Gustav Kirchhoff observe dark lines in the spectrum of a light source pass through burning substances.
 
-**1861** Within the United States of America the Civil War begins. James Clark Maxwell, using Thomas Young's theory of color and vision, produces the first color photograph image. Elipahs Levi publishes _La Clef des Grands Mysteres._
+**1861** Within the United States of America the Civil War begins. James Clark Maxwell, using Thomas Young's theory of color and vision, produces the first color photograph image. Elipahs Levi publishes _La Clef des Grands Mysteres. _Charles Dickens _Great Expectations_.
 
 **1862** James Clark Maxwell realizes that electricity and magnetism has to be related to light when he discovers that they all traveled at the same speed. Maxwell uses Robert Faraday's ideas and work to build a mathematical theory of the unified field of magnets and electricity. Victor Hugo Publishes _Les Miserables_. During the American Civil War General Grant issues General Order № 11, ordering all Jews out of his military district, suspecting them of pro-Confederate sympathy. President Lincoln directs him to rescind the order. Polish Jews are given equal rights. Old privileges forbidding Jews to settle in some Polish cities are abolished.
 
@@ -855,31 +877,33 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1865** Gregor Mendel proposes his theory of genetic inheritance. Jules Verne publishes his novel _From Earth to the Moon_. President Abraham Lincoln assassinated.
 
-**1867** Karl Marx publishes Das Kapital.
+**1867** Karl Marx publishes _Das Kapital_.
 
 **1868** John Chalmers publishes the first complete English translation of the _Tao Te Ching_. Samuel Bierfield is believed to be the first Jew lynched in the United States. Bierfield and his African-American clerk, Lawrence Bowman, were apprehended in Bierfield's store in Franklin, Tennessee and fatally shot by a group of masked men believed to belong to the Ku Klux Klan, on August 15, 1868\. No one was ever convicted of the crime, however.
 
-**1869** Russian Chemist Dmitry Mendeleyv, using the work of John Dalton and others, first charts the elements and organize them in order of their atomic weights, thus establishing the Periodic Table of Elements. Leo Tolstoy publishes War and Peace
+**1869** Russian Chemist Dmitry Mendeleyv, using the work of John Dalton and others, first charts the elements and organize them in order of their atomic weights, thus establishing the Periodic Table of Elements. Leo Tolstoy publishes _War and Peace_
 
 **1870** Jules Verne publishes his novel _Twenty Thousand Leagues Under the Sea_.
 
 **1871** Charles Darwin publishes _The Descent of Man_. Speech of Pope Pius IX in regard to Jews: "of these dogs, there are too many of them at present in Rome, and we hear them howling in the streets, and they are disturbing us in all places." Giuseppe Fortunino FrancescoVerdi's _Aïda_ premieres in Cairo.
 
+**1872 **Fredrick Nietzsche's _The Birth of Tragedy_
+
 **1873** Maxwell publishes his paper _Electricity and Magnetism._
 
 **1874**: Verdi's _Requiem_, his most respected work, premieres in Milan.
 
-**1875** Mark Twain publishes The Adventures of Tom Sawyer.
+**1875** Mark Twain publishes _The Adventures of Tom Sawyer_. Madame Blavatsky founds the Theosophical Society.
 
-**1876** Alexander Graham Bell invents the telephone. Pyotr Ilyich Tchaikovsky completes Swan Lake. It opens in 1877 at Moscow's Bolshoi Theatre. Richard Wagner's The Ring Cycle is performed in full at the Bayreuth Festival. The opera house was built to accommodate Wagner's works. Johannes Brahms completes his First Symphony. Twenty years in the making, the symphony received mixed reviews but would become one of the most popular ever written.
+**1876** Alexander Graham Bell invents the telephone. Pyotr Ilyich Tchaikovsky completes _Swan Lake_. It opens in 1877 at Moscow's Bolshoi Theatre. Richard Wagner's _The Ring Cycle_ is performed in full at the Bayreuth Festival. The opera house was built to accommodate Wagner's works. Johannes Brahms completes his First Symphony. Twenty years in the making, the symphony received mixed reviews but would become one of the most popular ever written.
 
-**1877** Alexander Graham Bell invents the phonograph. Camille Saint-Saën's Samson et Dalila debuts in Weimar.
+**1877** Alexander Graham Bell invents the phonograph. Camille Saint-Saën's Samson _et Dalila_ debuts in Weimar.
 
 **1878**: Adolf Stoecker, German antisemitic preacher and politician, founds the Christian Social Party, which marks the beginning of the political antisemitic movement in Germany.
 
 **1879**: Heinrich von Treitschke, German historian and politician, justifies the antisemitic campaigns in Germany, bringing antisemitism into learned circles. Wilhelm Marr coins the term Anti-Semitism to distinguish himself from religious Anti-Judaism
 
-**1880**: John Paine's symphony, In Spring, debuts in Cambridge, Massachusetts. It is the first American symphony published in the United States. Tchaikovsky writes the _1812 Overture_, commemorating Russia's defeat of Napoleon.
+**1880**: John Paine's symphony, _In Spring_, debuts in Cambridge, Massachusetts. It is the first American symphony published in the United States. Tchaikovsky writes the _1812 Overture_, commemorating Russia's defeat of Napoleon. Fyodor Dostoevsky's _The Brother Karamazov_.
 
 **1881** First wave of Jewish immigration to Palestine. The Boston Symphony Orchestra is established. The first complete English translation of Maimonides's _Guide for the Perplexed_ by M. Friedländer, with Mr. Joseph Abrahams and Reverend H. Gollancz. It was originally published in a three volume edition with footnotes.
 
@@ -887,95 +911,109 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1882**: The Tiszaeszlár blood libel in Hungary arouses public opinion throughout Europe. First International Anti-Jewish Congress convenes at Dresden, Germany. May:A series of "temporary laws" by Tsar Alexander III of Russia (the May Laws), which adopted a systematic policy of discrimination, with the object of removing the Jews from their economic and public positions, in order to "cause one-third of the Jews to emigrate, one-third to accept baptism and one-third to starve" (according to a remark attributed to Konstantin Pobedonostsev). The Berlin Philharmonic is established.
 
-**1883**: The Metropolitan Opera House opens in New York.
+**1883**: The Metropolitan Opera House opens in New York. Nietzsche's _Thus Spoke Zarathustra, _finishes in 1884\.
 
-**1884**_Sefer Yetzirah_ Warsaw edition published.
+**1884 **_Sefer Yetzirah_ Warsaw edition published. Mark Twain's _Huckleberry Finn_.
 
 **1885**: Gilbert and Sullivan finish _The Mikado_, which premieres in London.
 
-**1887**: Russia introduces measures to limit Jews access to education, known as the quota. S. L. MacGregor Mather publishes _The Kabbalah Unveiled. _Arthur Conan Doyle publishes The Study in Scarlet.
+**1886** Nietzsche's _Beyond Good and Evil_.
+
+**1887**: Russia introduces measures to limit Jews access to education, known as the quota. S. L. MacGregor Mather publishes _The Kabbalah Unveiled. _Arthur Conan Doyle publishes _The Study in Scarlet_.
 
 **1888** William Wynn Westcott together with Samuel Liddell MacGregor Mathers founded the Hermetic Order of the Golden Dawn. Jack the Ripper murders occur in Whitechapel London England. Johann Strauss writes the symphonic poem_, Don Juan_
 
-**1889 **The next Tarot deck to be invented for Occult divination was by Oswald Wirth. Gerard Encausse writes under the name, Papus, and he used Wirth's deck in his own book _Le Tarot des Bohemiens_. He also designs a Tarot deck.
+**1889 **The next Tarot deck to be invented for Occult divination was by Oswald Wirth. Gerard Encausse writes under the name, Papus, and he used Wirth's deck in his own book _Le Tarot des Bohemiens_. He also designs a Tarot deck. Vincent Van Gogh's _Starry Night._
 
-**1890** Oscar Wilde publishes _The Pictures of Dorian Gray_. Pyotr Ilyish Tchaikovsky's _The Sleeping Beauty_ debuts in St. Petersburg.
+**1890** Oscar Wilde publishes _The Pictures of Dorian Gray_. Pyotr Ilyish Tchaikovsky's _The Sleeping Beauty_ debuts in St. Petersburg. William James publishes his two volume _Principles of Psychology_. James George Frazer's _The Golden Bough: A Study in Comparative Religion._
 
-**1891** Arthur Conan Doyle publishes The Adventures of Sherlock Holmes. Blood libel in Xanten, Germany. Expulsion of 20,000 Jews from Moscow, Russia. The Congress of the United States eases immigration restrictions for Jews from the Russian Empire. Carnegie Hall opens in New York.
+**1891** Arthur Conan Doyle publishes _The Adventures of Sherlock Holmes_. Blood libel in Xanten, Germany. Expulsion of 20,000 Jews from Moscow, Russia. The Congress of the United States eases immigration restrictions for Jews from the Russian Empire. Carnegie Hall opens in New York.
 
 **1892** Tchaikovsky performs _The Nutcracker Suite_. Justinas Bonaventure Pranaitis writes _The Talmud Unmasked_ an antisemitic and misleading inaccurate anti-Talmudic work.
 
-**1893**: Karl Lueger establishes antisemitic Christian Social Party and becomes the Mayor of Vienna in 1897\. Antonin Dvorak composes his best and most popular work, From the New World
+**1893**: Karl Lueger establishes antisemitic Christian Social Party and becomes the Mayor of Vienna in 1897\. Antonin Dvorak composes his best and most popular work, _From the New World_. F. H. Bradley's _Appearance and Reality_.
 
-**1894**: The Dreyfus Affair in France. In 1898 Émile Zola publishes open letter J'accuse!, in Dreyfus's defense.
+**1894**: The Dreyfus Affair in France. In 1898 Émile Zola publishes open letter _J'accuse!_, in Dreyfus's defense. Heinrich Hertz's _Principles of Mechanics_.
 
-**1895** Herbert George Wells publishes The Time Machine. A. C. Cuza organizes the Alliance Anti-semitique Universelle in Bucharest, Romania. January 5: Captain Alfred Dreyfus being dishonorably discharged in France.
+**1895** Herbert George Wells publishes _The Time Machine_. A. C. Cuza organizes the Alliance Anti-semitique Universelle in Bucharest, Romania. January 5: Captain Alfred Dreyfus being dishonorably discharged in France. Oscar Wilde's _The Importance of Being Earnest_. Emile Durkheim's _Rules of Sociological Method_.
 
-**1896** Theodore Hertzl publishes _The Jewish State_, and with it creates the concept of Zionist movement within Judaism. Ragtime, a combination of West Indian rhythm and European musical form, is born.
+**1896** Theodore Hertzl publishes _The Jewish State_, and with it creates the concept of Zionist movement within Judaism. Ragtime, a combination of West Indian rhythm and European musical form, is born. William James address the Philosophical Club of Yale and Brown University, his talk is _The Will to Believe_.
+
+**1897** William James publishes book of essays _The Will to Believe_
 
 **1898** Herbert George Wells publishes _The War of the Worlds._
 
 **1899**: Houston Stewart Chamberlain, racist and antisemitic author, publishes his _Die Grundlagen des 19 Jahrhunderts_ which later became a basis of National-Socialist ideology.
 
-**1901**: Gustav Mahler's _Fourth Symphony_, his most popular, debuts in Munich.
+**1900** Sigmund Freud's _The Interpretation of Dreams_.
 
-**1902** : Claude Debussy introduces impressionism to music in _Pelléas_ and _Mélisande_ at the Opéra Comique in Paris
+**1901**: Gustav Mahler's _Fourth Symphony_, his most popular, debuts in Munich. William James gives his Gifford Lectures on Natural Religion in Edinburgh.
 
-**1903** Oliver and Wilbur Wright have the first successful airplane flight. Jack London publishes _The Call of the Wild_. The Kishinev pogrom: 49 Jews murdered. The first publication of _The Protocols of the Elders of Zion_ hoax in St. Petersburg, Russia (by Pavel Krushevan).
+**1902** : Claude Debussy introduces impressionism to music in _Pelléas_ and _Mélisande_ at the Opéra Comique in Paris. Willaim James publishes his Gifford lectures, the book is _The Varieties of Religious Experience_.
+
+**1903** Oliver and Wilbur Wright have the first successful airplane flight. Jack London publishes _The Call of the Wild_. The Kishinev pogrom: 49 Jews murdered. The first publication of _The Protocols of the Elders of Zion_ hoax in St. Petersburg, Russia (by Pavel Krushevan). George Bernard Shaw's _Man and Superman_.
 
 **1904** In February Aleister Crowley and Rose Edith Kelly arrived in Cario. In a burst of inspiration Crowley transcribes his book _Liber Al vel Legis, sub figura CCXX_, _The Book of the Law_. The London Symphony Orchestra is established. The English translation of Maimonides's _The Guide for the Perplexed_, by M. Friedländer, was republished in a less expensive one volume edition, without footnotes, with revisions. The second edition is still in use today (2016), sold through Dover Publications.
 
-**1905** The Russian Revolution begins. Albert Einstein publishes his Theory of Special Relativity. Pogrom in Dnipropetrovsk.
+**1905** The Russian Revolution begins. Albert Einstein publishes his _Theory of Special Relativity_. Pogrom in Dnipropetrovsk. Sigmund Freud's _Three Essays on the Theory of Sexuality._ Max Weber's _The Protestant Ethic and the Spirit of Capitalism._
 
-**1906** Alfred Dreyfus was exonerated and reinstated as a major in the French Army.
+**1906** Alfred Dreyfus was exonerated and reinstated as a major in the French Army. William James give a series of lectures at the Lowell Institute of Columbia University in Boston, November - January of 1907\.
 
-**1907**: Crowley claimed to have been contacted once again by Aiwass in late October and November adding that Aiwass dictated two further texts to him, "_Liber VII_" and "_Liber Cordis Cincti Serpente"_, both of which were later classified in the corpus of _Holy Books of Thelema_. Crowley wrote down more Thelemic Holy Books during the last two months of the year, including "_Liber LXVI_", "_Liber Arcanoru_m", "_Liber Porta Lucis_, _Sub Figura X_", "_Liber Tau_", "_Liber Trigrammato_n" and "_Liber DCCCXIII vel Ararita_".
+**1907**: Crowley claimed to have been contacted once again by Aiwass in late October and November adding that Aiwass dictated two further texts to him, "_Liber VII_" and "_Liber Cordis Cincti Serpente"_, both of which were later classified in the corpus of _Holy Books of Thelema_. Crowley wrote down more Thelemic Holy Books during the last two months of the year, including "_Liber LXVI_", "_Liber Arcanoru_m", "_Liber Porta Lucis_, _Sub Figura X_", "_Liber Tau_", "_Liber Trigrammato_n" and "_Liber DCCCXIII vel Ararita_". William James publishes his Lowell Institute lectures in a book, _Pragmatism: A New Name for Some Old Ways of Thinking._ William James gives the Hibbert Lectures at Manchester College on the present situation in philosophy. D. T. Suzuki's _Outline of Mahayana Buddhism_, introduces Buddhism to a Western Audience.
 
-**1909** Aleister Crowley's composes _Liber 777\. _Arthur Edward Waite and Pamela Colman Smith publish their Tarot deck with the William Rider and Son of London publishing company. The National Association for the Advancement of Colored People founded in the United States. Salomon Reinach and Florence Simmonds refer to "this new antisemitism, masquerading as patriotism, which was first propagated at Berlin by the court chaplain Stöcker, with the connivance of Bismarck." Similarly, Peter N. Stearns comments that "the ideology behind the new anti-Semitism \[in Germany\] was more racist than religious.".
+**1909** Aleister Crowley's composes _Liber 777\. _Arthur Edward Waite and Pamela Colman Smith publish their Tarot deck with the William Rider and Son of London publishing company. The National Association for the Advancement of Colored People founded in the United States. Salomon Reinach and Florence Simmonds refer to "this new antisemitism, masquerading as patriotism, which was first propagated at Berlin by the court chaplain Stöcker, with the connivance of Bismarck." Similarly, Peter N. Stearns comments that "the ideology behind the new anti-Semitism \[in Germany\] was more racist than religious.". William James publishes _The Meaning of Truth: A Sequel to 'Pragmatism'._ he publishes his Hibbert lectures as _A Pluralistic Universe._
 
-**1910 **Arthur Edward Waite's book _The Pictorial Key to the Tarot_ published using the drawings of his collaborator Pamela Coleman Smith. Igor Stravinsky completes _The Firebird_ for Sergei Diaghilev's Ballets Russes.
+**1910 **Arthur Edward Waite's book _The Pictorial Key to the Tarot_ published using the drawings of his collaborator Pamela Coleman Smith. Igor Stravinsky completes _The Firebird_ for Sergei Diaghilev's Ballets Russes. William James dies. Bertrand Russell and Alfred North Whitehead's _Principia Mathematica_ first parts published, finish in 1913\.
 
 **1911**: RichardStrauss's _Der Rosenkavalier_ premieres in Dresden. The Blood libel trial of Menahem Mendel Beilis in Kiev.
 
-**1912 **Aleister Crowley begins his first set of commentaries to his _Book of Law. _The HMS Titanic sinks.
+**1912 **Aleister Crowley begins his first set of commentaries to his _Book of Law. _The HMS Titanic sinks. _Essays in Radical Empiricism_ by William James is posthumously published out of a collection of separately published essays as per his plans before his death. Carl Jung's _Psychology of the Unconscious_.
 
-**1913 **Aleister Crowley translated and published Eliphas Levi's _The Key to the Great Mysteries_ in Equinox volume Ten in the fall. Billboard magazine, in the U.S., publishes a list of the most popular vaudeville songs.
+**1913 **Aleister Crowley translated and published Eliphas Levi's _The Key to the Great Mysteries_ in Equinox volume Ten in the fall. Billboard magazine, in the U.S., publishes a list of the most popular vaudeville songs. Igor Stravinsky's _Rite of Spring_. D. H. Lawrence's _Sons and Lovers_. Henry Ford begins mass production of automobiles.
 
-**1914** The Archduke of Austria assassinated in Serbia and is the spark that sets off World War I.
+**1914** The Archduke of Austria assassinated in Serbia and is the spark that sets off World War I. James Joyce's _Portrait of the Artist as a Young Man_. Franz Kafka's _The Trail_
 
 **1915** Albert Einstein publishes _The Theory of General Relativity_. The World War I prompts expulsion of 250,000 Jews from Western Russia. The Leo Frank trial and lynching in Atlanta, Georgia turns the spotlight on antisemitism in the United States and leads to the founding of the Anti-Defamation League.
 
 **1916**: Charles Ives finishes his _Fourth Symphony_.
 
-**1917--1921**: Attacked for being revolutionaries or counter-revolutionaries, unpatriotic pacifists or warmongers, religious zealots or godless atheists, capitalist exploiters or bourgeois profiteers, masses of Jewish civilians (by various estimates 70,000 to 250,000, the number of orphans exceeded 300,000) were murdered in pogroms in the course of Russian Civil War.
+**1917--1921**: Attacked for being revolutionaries or counter-revolutionaries, unpatriotic pacifists or warmongers, religious zealots or godless atheists, capitalist exploiters or bourgeois profiteers, masses of Jewish civilians (by various estimates 70,000 to 250,000, the number of orphans exceeded 300,000) were murdered in pogroms in the course of Russian Civil War. Rudolf Otto's _The Idea of the Holy._
+
+**1918** Oswald Spengler's _The Decline of the West._
 
 **1919** World War I ends and the formation of the League of Nations. After moving from its southern rural roots, jazz establishes Chicago as its capital. The city will become home to such jazz greats as trumpeter Louis Armstrong and pianist Jelly Roll Morton. In February a brigade of UNR troops killed 1500 Jews in Proskurov. In Tetiev on March 25, 1919, Cossack troops under the command of Colonels Cherkovsky, Kurovsky and Shliatoshenko murdered 4000 Jews.
 
 **1919-1920**: During the Russian Civil War the Jews of Uman in eastern Podolia were subjected to two pogroms in 1919, as the town changed hands several times. The first pogrom, in spring, claimed 170 victims; the second one, in summer, more than 90\. This time the Christian inhabitants helped to hide the Jews. The Council for Public Peace, with a Christian majority and a Jewish minority, saved the city from danger several times. In 1920, for example, it stopped the pogrom initiated by the troops of General Denikin. Soviet Yevsektsiya (the Jewish section of the Communist Party) attacks Bund and Zionist parties for "Jewish cultural particularism". In April 1920, the All-Russian Zionist Congress is broken up by Cheka led by Bolsheviks, whose leadership and ranks included many anti-Jewish Jews. Thousands are arrested and sent to Gulag for "counter-revolutionary... collusion in the interests of Anglo-French bourgeoisie... to restore the Palestine state." Hebrew language is banned, Judaism is suppressed, along with other religions.
 
-**1920** Paul Foster Case's_An Introduction to the Study of the Tarot._The Jerusalem pogrom of April 1920 of old Yishuv. The idea that the Bolshevik revolution was a Jewish conspiracy for the world domination sparks worldwide interest in _The Protocols of the Elders of Zion_. In a single year, five editions are sold out in England alone. In the US Henry Ford prints 500,000 copies. In Spring 1920, Henry Ford made his personal newspaper, _The Dearborn Independent,_ chronicle what he considered the "Jewish menace". Every week for 91 issues, the paper exposed some sort of Jewish-inspired evil major story in a headline. The most popular and aggressive stories were then chosen to be reprinted into four volumes called The International Jew
+**1920** Paul Foster Case's_An Introduction to the Study of the Tarot._The Jerusalem pogrom of April 1920 of old Yishuv. The idea that the Bolshevik revolution was a Jewish conspiracy for the world domination sparks worldwide interest in _The Protocols of the Elders of Zion_. In a single year, five editions are sold out in England alone. In the US Henry Ford prints 500,000 copies. In Spring 1920, Henry Ford made his personal newspaper, _The Dearborn Independent,_ chronicle what he considered the "Jewish menace". Every week for 91 issues, the paper exposed some sort of Jewish-inspired evil major story in a headline. The most popular and aggressive stories were then chosen to be reprinted into four volumes called The International Jew. William Butler Yeat's "_The Second Coming_". Freud's _Beyond the Pleasure Principle._
 
-**1921 **Crowley completes his commentary on his _Book of Law_. May 1--4: Jaffa riots in Palestine. Throughout 1921--1925:Outbreak of antisemitism in United States, led by Ku Klux Klan.
+**1921 **Crowley completes his commentary on his _Book of Law_. May 1--4: Jaffa riots in Palestine. Throughout 1921--1925:Outbreak of antisemitism in United States, led by Ku Klux Klan. Bertrand Russell's _The Analysis of Mind_. Ludwig Wittgenstein's _Tractaus Logico-Philosphicus_.
 
-**1923** Charles Stansfeld Jones aka Frater Achad's _Q.B.L. or The Bride's Reception. "Queen of the Blues_" Bessie Smith records her first song,_"Down Hearted Blues."_ Der Stürmer (pronounced \[deːɐ̯ ˈʃtʏʁmɐ\], lit. "the Attacker") was a weekly tabloid-format Nazi newspaper published by Julius Streicher (a prominent official in the Nazi Party) from 1923 to the end of World War II, with brief suspensions in publication due to legal difficulties. It was a significant part of Nazi propaganda and was vehemently anti-Semitic
+**1922** T. S. Eliot's _The Waste Land. _James Joyce's _Ulysses._ Max Weber's _Economy and Society_.
 
-**1924** Arthur Edward Waite's _The Holy Kabbalah. _The Juilliard School opens in New York. Maurice Ravel's _Bolero_ opens in Paris. George Gershwin's _Rhapsody in Blue_ premieres in New York. In the U.S. The National Origins Quota of 1924 and Immigration Act of 1924 largely halted immigration to the U.S. from Eastern Europe and Russia; many later saw these governmental policies as having antisemitic undertones, as a great many of these immigrants coming from Russia and Eastern Europe were Jews (the "outbreak of antisemitism" mentioned in the above entry may have also played a part in the passage of these acts).
+**1923** Charles Stansfeld Jones aka Frater Achad's _Q.B.L. or The Bride's Reception. "Queen of the Blues_" Bessie Smith records her first song,_"Down Hearted Blues."_ Der Stürmer (pronounced \[deːɐ̯ ˈʃtʏʁmɐ\], lit. "the Attacker") was a weekly tabloid-format Nazi newspaper published by Julius Streicher (a prominent official in the Nazi Party) from 1923 to the end of World War II, with brief suspensions in publication due to legal difficulties. It was a significant part of Nazi propaganda and was vehemently anti-Semitic. Freud's _The Ego and the Id_. Martin Buber's _I and Thou_. Ivan Pavlov's _Conditional Reflexes._
 
-**1925**: _The Ku Klux Klan In Prophecy_ is a 144-page book written by Bishop Alma Bridwell White in 1925 and illustrated by Reverend Branford Clarke. This book primarily espouses White's deep fear and hatred of the Roman Catholic Church while also promoting antisemitism, racism against African Americans, white supremacy, and women's equality. Adolf Hitler publishes _Mein Kampf_.
+**1924** Arthur Edward Waite's _The Holy Kabbalah. _The Juilliard School opens in New York. Maurice Ravel's _Bolero_ opens in Paris. George Gershwin's _Rhapsody in Blue_ premieres in New York. In the U.S. The National Origins Quota of 1924 and Immigration Act of 1924 largely halted immigration to the U.S. from Eastern Europe and Russia; many later saw these governmental policies as having antisemitic undertones, as a great many of these immigrants coming from Russia and Eastern Europe were Jews (the "outbreak of antisemitism" mentioned in the above entry may have also played a part in the passage of these acts). Jean Piaget's _Judgement and Reasoning in the Child_. Otto Rank's _The Trauma of Birth._
 
-**1927 **Paul Foster Case published _A Brief Analysis of the Tarot_. The Schwartzbard trial was a sensational 1927 French murder trial that resulted in a mistrial of international proportions. At the trial Sholom Schwartzbard was accused of murdering the Ukrainian immigrant and head of the Ukrainian government-in-exile Symon Petlura in Paris. While the defendant fully admitted to the crime the trial at the end turned in accusation of Petlura's responsibility for the massive 1919--1920 pogroms in Ukraine in which Schwartzbard had lost all 15 members of his family. Instead of Schwartzbard's murder case the trial was turned into a political case against the Ukrainian government. Schwartzbard was acquitted.
+**1925**: _The Ku Klux Klan In Prophecy_ is a 144-page book written by Bishop Alma Bridwell White in 1925 and illustrated by Reverend Branford Clarke. This book primarily espouses White's deep fear and hatred of the Roman Catholic Church while also promoting antisemitism, racism against African Americans, white supremacy, and women's equality. Adolf Hitler publishes _Mein Kampf_. Whitehead's _Science and the Modern World._
 
-**1929** August 23: The ancient Jewish community of Hebron is destroyed in the Hebron massacre
+**1926** Erwin Schrodinger develops wave equation underlying quantum mechanics.
 
-**1931 **Paul Foster Case published _Highlights of Tarot_.
+**1927 **Paul Foster Case published _A Brief Analysis of the Tarot_. The Schwartzbard trial was a sensational 1927 French murder trial that resulted in a mistrial of international proportions. At the trial Sholom Schwartzbard was accused of murdering the Ukrainian immigrant and head of the Ukrainian government-in-exile Symon Petlura in Paris. While the defendant fully admitted to the crime the trial at the end turned in accusation of Petlura's responsibility for the massive 1919--1920 pogroms in Ukraine in which Schwartzbard had lost all 15 members of his family. Instead of Schwartzbard's murder case the trial was turned into a political case against the Ukrainian government. Schwartzbard was acquitted. Werner Heisenberg formulates principle of uncertainty. Niels Bohr formulates principle of complementarity. Martin Heidegger's _Being and Time_. Herman Hesse's _Der Steppenwolf_.
 
-**1932** Israel Regardie's _A Garden of Pomegranates _and Israel Regardie's _The Tree of Life: A Study in Magic. _Jazz composer Duke Ellington writes _"It Don't Mean a Thing, If It Ain't Got That Swing,_"
+1928: Yeat's _The Tower_. Rudolf Carnap's _The Logical Structure of the World. _Jung's _The Spiritual Problem of Modern Man._
 
-**1933: **Laurens Hammond introduces his Hammond organ. In a series of lectures delivered at the University of Virginia in 1933, published under the title _After Strange Gods: A Primer of Modern Heresy_ (1934), T.S. Eliot wrote of societal tradition and coherence, "What is still more important \[than cultural homogeneity\] is unity of religious background, and reasons of race and religion combine to make any large number of free-thinking Jews undesirable."Eliot never re-published this book/lecture.
+**1929** August 23: The ancient Jewish community of Hebron is destroyed in the Hebron massacre. Whitehead's _Process and Reality_. Virginia Woolf's _A Room of One's Own. _William Faulkner's _The Sound and the Fury. _Vienna Circle of logical empiricism manifesto: _Scientific Conception of the World._
 
-**1933** In Germany Jews are stripped of their rights not only as citizens: Law against Overcrowding of German Schools and Universities. Law for the Reestablishment of the Professional Civil Service (ban on professions). The Reich Flight Tax is used to expropriate funds from Jewish emigres.
+**1930**: Freud's _Civilization and It's Discontents_. Ortega y Gasset's _The Revolt of the Masses_. Rudolf Bultmann's _The Historicity of Man and Faith_.
 
-**1934**: In his pageant play _The Rock_, T.S. Eliot distances himself from Fascist movements of the thirties by caricaturing Oswald Mosley's Blackshirts, who 'firmly refuse/ To descend to palaver with anthropoid Jews'. The "new evangels"of totalitarianism are presented as antithetic to the spirit of Christianity. 2,000 of Afghani Jews expelled from their towns and forced to live in the wilderness. The first appearance of _The Franklin Prophecy_ on the pages of William Dudley Pelley's pro-Nazi weekly magazine Liberation. According to the US Congress report: "The Franklin "Prophecy" is a classic antisemitic canard that falsely claims that American statesman Benjamin Franklin made anti-Jewish statements during the Constitutional Convention of 1787\. It has found widening acceptance in Muslim and Arab media, where it has been used to criticize Israel and Jews..."\[
+**1931 **Paul Foster Case published _Highlights of Tarot_. Kurt Godel's Theorem proves undecidability of propositions in formalized mathematical systems. Ernst Cassirer's _Philosophy of Symbolic Forms_.
+
+**1932** Israel Regardie's _A Garden of Pomegranates _and Israel Regardie's _The Tree of Life: A Study in Magic. _Jazz composer Duke Ellington writes _"It Don't Mean a Thing, If It Ain't Got That Swing._" Carl Jasper's _Philosophy_.
+
+**1933: **Laurens Hammond introduces his Hammond organ. In a series of lectures delivered at the University of Virginia in 1933, published under the title _After Strange Gods: A Primer of Modern Heresy_ (1934), T.S. Eliot wrote of societal tradition and coherence, "What is still more important \[than cultural homogeneity\] is unity of religious background, and reasons of race and religion combine to make any large number of free-thinking Jews undesirable." Eliot never re-published this book/lecture. In Germany Jews are stripped of their rights not only as citizens: Law against Overcrowding of German Schools and Universities. Law for the Reestablishment of the Professional Civil Service (ban on professions). The Reich Flight Tax is used to expropriate funds from Jewish emigres.
+
+**1934**: In his pageant play _The Rock_, T.S. Eliot distances himself from Fascist movements of the thirties by caricaturing Oswald Mosley's Blackshirts, who 'firmly refuse/ To descend to palaver with anthropoid Jews'. The "new evangels"of totalitarianism are presented as antithetic to the spirit of Christianity. 2,000 of Afghani Jews expelled from their towns and forced to live in the wilderness. The first appearance of _The Franklin Prophecy_ on the pages of William Dudley Pelley's pro-Nazi weekly magazine Liberation. According to the US Congress report: "The Franklin "Prophecy" is a classic antisemitic canard that falsely claims that American statesman Benjamin Franklin made anti-Jewish statements during the Constitutional Convention of 1787\. It has found widening acceptance in Muslim and Arab media, where it has been used to criticize Israel and Jews..." Arnold Toynbee's _A Study of History_. Carl Popper's _Logic of Scientific Discovery_. Jung's _Archetypes of the Collective Unconscious_. Lewis Mumford's _Technics and Civilization._
 
 **1935** Dion Fortune's _The Mystical Qabalah_.. Nuremberg Laws introduced. Jewish rights rescinded. The Reich Citizenship Law strips them of citizenship. The Law for the Protection of German Blood and German Honor: Marriages between Jews and citizens of German or kindred blood are forbidden. Sexual relations outside marriage between Jews and nationals of German or kindred blood are forbidden. Jews will not be permitted to employ female citizens of German or kindred blood as domestic servants. Jews are forbidden to display the Reich and national flag or the national colors. On the other hand they are permitted to display the Jewish colors.
 
@@ -983,9 +1021,7 @@ Luther "got the Jews expelled from Saxony in 1537, and in the 1540s he drove the
 
 **1937**: The Glenn Miller Band debuts in New York. "The Eternal Jew" was the title of an exhibition of degenerate art (entartete Kunst) displayed at the Library of the German Museum in Munich from 8 November 1937 to 31 January 1938\. The exhibition attracted 412,300 visitors, over 5,000 per day. Anna Freud's _The Ego and the Mechanism of Defense_. Turing's _On Computable Numbers_.
 
-**1938**: Anschluss, pogroms in Vienna, anti-Jewish legislation, deportations to Nazi concentration camps. Decree authorizing local authorities to bar Jews from the streets on certain days. Decree empowering the justice Ministry to void wills offending the "sound judgment of the people". Decree providing for compulsory sale of Jewish real estate. Decree providing for liquidation of Jewish real estate agencies, brokerage agencies, and marriage agencies catering to non-Jews. Directive providing for concentration of Jews in houses. Father Charles E. Coughlin, Roman Catholic priest, starts antisemitic weekly radio broadcasts in the United States. Jean Paul Sartre's _Nausea_. Bertolt Brecht's _Galileo_
-
-**1938** November 9--10:Kristallnacht (Night of The Broken Glass). In one night most German synagogues and hundreds of Jewish-owned German businesses are destroyed. Almost 100 Jews are killed, and 10,000 are sent to concentration camps. July 6--15: Evian Conference: 31 countries refuse to accept Jews trying to escape Nazi Germany (with exception of Dominican Republic). Most find temporary refuge in Poland. See also Bermuda Conference November 17: Racial legislation introduced in Italy. Anti Jewish economic legislation in Hungary. Aleister Crowley begins work on his own Tarot deck.
+**1938**: Anschluss, pogroms in Vienna, anti-Jewish legislation, deportations to Nazi concentration camps. Decree authorizing local authorities to bar Jews from the streets on certain days. Decree empowering the justice Ministry to void wills offending the "sound judgment of the people". Decree providing for compulsory sale of Jewish real estate. Decree providing for liquidation of Jewish real estate agencies, brokerage agencies, and marriage agencies catering to non-Jews. Directive providing for concentration of Jews in houses. Father Charles E. Coughlin, Roman Catholic priest, starts antisemitic weekly radio broadcasts in the United States. Jean Paul Sartre's _Nausea_. Bertolt Brecht's _Galileo. _November 9--10:Kristallnacht (Night of The Broken Glass). In one night most German synagogues and hundreds of Jewish-owned German businesses are destroyed. Almost 100 Jews are killed, and 10,000 are sent to concentration camps. July 6--15: Evian Conference: 31 countries refuse to accept Jews trying to escape Nazi Germany (with exception of Dominican Republic). Most find temporary refuge in Poland. See also Bermuda Conference November 17: Racial legislation introduced in Italy. Anti Jewish economic legislation in Hungary. Aleister Crowley begins work on his own Tarot deck.
 
 **1941 **Rhinehold Neibuhr's _The Nature and Destiny of Man_. Erich Fromm's _Escape From Freedom._ Jorge Luis Borges's _Ficciones_.
 
