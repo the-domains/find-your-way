@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-24T18:01:43.879Z'
+datePublished: '2016-11-24T18:13:56.871Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-24T18:01:42.435Z'
+dateModified: '2016-11-24T18:13:55.327Z'
 title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness
@@ -18,7 +18,7 @@ description: >-
   Tarnas’s The Passion of the Western Mind, amongst other sources and research.]
 starred: false
 url: a-very-idiosyncratic-chronology-of-selected-events-in-the-we/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a809298-8b47-432b-84f3-fe153a922934.jpg)
