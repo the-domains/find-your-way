@@ -1,14 +1,16 @@
 ---
-datePublished: '2016-11-25T18:46:31.638Z'
+datePublished: '2016-11-25T18:52:37.077Z'
+sourcePath: >-
+  _posts/2016-11-25-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:46:27.662Z'
+dateModified: '2016-11-25T18:52:36.484Z'
 title: >-
-  A very idiosyncratic chronology of selected events in the Western World: A
-  history of natural light, the hidden light, and the ever-present darkness.
-  Part III
+  Part III of A very idiosyncratic chronology of selected events in the Western
+  World: A history of natural light, the hidden light, and the ever-present
+  darkness.
 publisher: {}
 description: >-
   1501 Aldus Manutius, a printer, introduces his new standard format for the
@@ -18,14 +20,12 @@ description: >-
   published in this format was Virgil’s Opera. This format is the invention of
   the comparatively inexpensive hand held book. Manutius is also the first
   publisher of the Greek classic texts.
-sourcePath: >-
-  _posts/2016-11-25-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 starred: false
 url: a-very-idiosyncratic-chronology-of-selected-events-in-the-we/index.html
 _type: Article
 
 ---
-## **A very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness.**_**Part III**_
+## **Part III of A very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness.**
 
 1501 Aldus Manutius, a printer, introduces his new standard format for the printed book. He creates the pocket book, an octavio (eight inch tall) size book, with a title page stating the author's name, each page was numbered, and the text had an index. He also invents italic font. The first book he published in this format was Virgil's Opera. This format is the invention of the comparatively inexpensive hand held book. Manutius is also the first publisher of the Greek classic texts.
 
