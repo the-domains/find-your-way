@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-25T18:56:01.385Z'
+datePublished: '2016-11-25T18:57:20.851Z'
 sourcePath: _posts/2016-10-02-the-embodied-mind-neural-beings-must-categorize.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:56:00.131Z'
+dateModified: '2016-11-25T18:57:19.120Z'
 title: ''
 publisher: {}
 description: 'The Embodied Mind: Neural Beings Must Categorize'
