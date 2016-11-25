@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-24T21:09:28.434Z'
+datePublished: '2016-11-25T18:56:09.615Z'
 sourcePath: _posts/2016-09-14-who-was-alfred-korzybski-and-why-should-i-know-him.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-24T21:09:26.265Z'
+dateModified: '2016-11-25T18:56:07.963Z'
 title: ''
 publisher: {}
 description: Who was Alfred Korzybski and why should I know something about him?
