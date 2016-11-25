@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-25T18:04:07.702Z'
+datePublished: '2016-11-25T18:13:22.723Z'
 sourcePath: >-
   _posts/2016-11-24-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:04:05.947Z'
+dateModified: '2016-11-25T18:13:20.945Z'
 title: ''
 publisher: {}
 description: >-
