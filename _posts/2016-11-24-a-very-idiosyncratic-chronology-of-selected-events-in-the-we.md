@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-25T18:53:32.557Z'
+datePublished: '2016-11-25T18:53:34.508Z'
 sourcePath: >-
   _posts/2016-11-24-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
