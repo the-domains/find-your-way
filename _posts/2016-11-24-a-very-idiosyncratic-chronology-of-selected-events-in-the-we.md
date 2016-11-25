@@ -1,22 +1,22 @@
 ---
-datePublished: '2016-11-25T18:13:22.723Z'
+datePublished: '2016-11-25T18:29:02.068Z'
 sourcePath: >-
   _posts/2016-11-24-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:13:20.945Z'
-title: ''
-publisher: {}
-description: >-
+dateModified: '2016-11-25T18:29:01.400Z'
+title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness.
   Part II
+publisher: {}
+description: Circa 1201- 1300 Gerona Spain School of Kabbalah
 starred: false
 _type: Blurb
 
 ---
-_**A very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness. Part II**_
+## **A very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness.**_**Part II**_
 
 **Circa 1201- 1300** Gerona Spain School of Kabbalah
 
