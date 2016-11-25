@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-11-25T18:46:31.639Z'
+datePublished: '2016-11-25T18:53:21.787Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:46:27.662Z'
+dateModified: '2016-11-25T18:53:21.272Z'
 title: >-
-  A very idiosyncratic chronology of selected events in the Western World: A
-  history of natural light, the hidden light, and the ever-present darkness Part
-  I
+  Part I of a very idiosyncratic chronology of selected events in the Western
+  World: A history of natural light, the hidden light, and the ever-present
+  darkness
 publisher: {}
 description: >-
   [Compiled from Wikipedia article on the history of anti-Semitism
@@ -22,7 +22,7 @@ url: a-very-idiosyncratic-chronology-of-selected-events-in-the-we/index.html
 _type: Article
 
 ---
-# _A very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness Part I_
+# _Part I of a very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness_
 
 \[Compiled from Wikipedia article on the history of anti-Semitism https://en.wikipedia.org/wiki/Timeline\_of\_antisemitism and A timeline of Western music, http://www.infoplease.com/ipea/A0151192.html and Richard Tarnas's _The Passion of the Western Mind_, amongst other sources and research.\]
 
@@ -190,7 +190,7 @@ During the time of the Composition of the Talmud, references are noted in the ev
 
 **476** end of Roman empire in West.
 
-**C. 500** The completion of the Babylonian Talmud. 
+**C. 500** The completion of the Babylonian Talmud.
 
 **524** Boethius's _Consolation of Philosophy_
 
