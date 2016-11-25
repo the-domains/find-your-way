@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-24T21:09:31.572Z'
+datePublished: '2016-11-25T18:56:25.475Z'
 sourcePath: _posts/2016-09-11-a-guide-to-this-blog-site.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-24T21:09:30.501Z'
+dateModified: '2016-11-25T18:56:22.245Z'
 title: A Guide to this blog site
 publisher: {}
 description: So…what’s the point of it all?
