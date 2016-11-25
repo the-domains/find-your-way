@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-25T18:46:25.571Z'
+datePublished: '2016-11-25T18:46:31.638Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:46:23.968Z'
+dateModified: '2016-11-25T18:46:27.662Z'
 title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness.
