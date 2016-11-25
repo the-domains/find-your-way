@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-25T18:46:02.500Z'
+datePublished: '2016-11-25T18:46:16.288Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:45:55.638Z'
+dateModified: '2016-11-25T18:46:14.906Z'
 title: >-
   A very idiosyncratic chronology of selected events in the Western World: A
   history of natural light, the hidden light, and the ever-present darkness.
@@ -18,9 +18,9 @@ description: >-
   published in this format was Virgil’s Opera. This format is the invention of
   the comparatively inexpensive hand held book. Manutius is also the first
   publisher of the Greek classic texts.
-starred: false
 sourcePath: >-
   _posts/2016-11-25-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
+starred: false
 url: a-very-idiosyncratic-chronology-of-selected-events-in-the-we/index.html
 _type: Article
 
