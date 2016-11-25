@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-25T18:46:31.623Z'
+datePublished: '2016-11-25T18:53:32.546Z'
 sourcePath: _posts/2016-09-18-people-shape-and-are-shaped-by-ideas.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:46:27.662Z'
+dateModified: '2016-11-25T18:53:31.503Z'
 title: ''
 publisher: {}
 description: 'A few of my guiding principles:'
