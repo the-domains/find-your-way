@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-11-26T18:46:34.696Z'
+datePublished: '2016-11-26T18:49:19.047Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-26T18:23:52.757Z'
+dateModified: '2016-11-26T18:49:17.822Z'
 title: >-
   1000- 1100’s a timeline of natural light, the hidden light, and the
   ever-present darkness in the Western World
@@ -13,8 +13,8 @@ description: >-
   against Jews in the Fatimid Empire. All Jews are forced to wear a heavy wooden
   "golden calf" around their necks. Christians had to wear a large wooden cross
   and members of both groups had to wear black hats.
-starred: false
 sourcePath: _posts/2016-11-26-1000-1100s-a-timeline-of-natural-light-the-hidden-light.md
+starred: false
 _type: Blurb
 
 ---
