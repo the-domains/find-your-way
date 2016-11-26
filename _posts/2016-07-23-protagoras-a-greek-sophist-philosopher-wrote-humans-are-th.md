@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-25T18:56:01.389Z'
+datePublished: '2016-11-26T18:50:11.091Z'
 sourcePath: >-
   _posts/2016-07-23-protagoras-a-greek-sophist-philosopher-wrote-humans-are-th.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:56:00.131Z'
+dateModified: '2016-11-26T18:50:07.001Z'
 title: 'Protagoras, a Greek Sophist philosopher wrote:'
 publisher: {}
 description: The Measure of all things?
