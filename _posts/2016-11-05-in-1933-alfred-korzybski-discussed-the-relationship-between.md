@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-26T18:50:11.113Z'
+datePublished: '2016-11-26T18:50:24.600Z'
 sourcePath: >-
   _posts/2016-11-05-in-1933-alfred-korzybski-discussed-the-relationship-between.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-26T18:50:07.001Z'
+dateModified: '2016-11-26T18:50:22.446Z'
 title: ''
 publisher: {}
 description: >-
