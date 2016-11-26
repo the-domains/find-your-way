@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-11-25T18:58:12.239Z'
+datePublished: '2016-11-26T16:37:47.557Z'
 sourcePath: >-
   _posts/2016-11-24-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:58:10.777Z'
+dateModified: '2016-11-26T16:37:46.298Z'
 title: ''
 publisher: {}
 description: >-
-  Part IV of a very idiosyncratic chronology of selected events in the Western
+  Part VI of a very idiosyncratic chronology of selected events in the Western
   World: A history of natural light, the hidden light, and the ever-present
   darkness
 starred: false
@@ -20,7 +20,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eac9cf53-6990-48ac-a2af-259b40569cc8.jpg)
 
-_**Part IV of a very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness**_
+_**Part VI of a very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness**_
 
 **1803** Ludwig van Beethoven composes and performs Eroica Symphony no. 3\. This piece marks the beginning of the Romantic period, in which the formality of the Classical period is replaced by subjectivity.
 
