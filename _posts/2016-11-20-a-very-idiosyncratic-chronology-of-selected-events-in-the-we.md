@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-26T18:49:19.053Z'
+datePublished: '2016-11-26T18:50:24.600Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-26T18:49:17.822Z'
+dateModified: '2016-11-26T18:50:22.446Z'
 title: >-
   2000 BCE - 900 CE a timeline a history of natural light, the hidden light, and
   the ever-present darkness in the Western World.
