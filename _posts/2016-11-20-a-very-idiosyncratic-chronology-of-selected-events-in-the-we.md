@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-25T18:58:12.224Z'
+datePublished: '2016-11-26T16:40:11.661Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:58:10.777Z'
+dateModified: '2016-11-26T16:40:07.798Z'
 title: >-
   Part I of a very idiosyncratic chronology of selected events in the Western
   World: A history of natural light, the hidden light, and the ever-present
@@ -22,7 +22,7 @@ url: a-very-idiosyncratic-chronology-of-selected-events-in-the-we/index.html
 _type: Article
 
 ---
-# _Part I of a very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness_
+## _Part I of a very idiosyncratic chronology of selected events in the Western World: A history of natural light, the hidden light, and the ever-present darkness_
 
 \[Compiled from Wikipedia article on the history of anti-Semitism https://en.wikipedia.org/wiki/Timeline\_of\_antisemitism and A timeline of Western music, http://www.infoplease.com/ipea/A0151192.html and Richard Tarnas's _The Passion of the Western Mind_, amongst other sources and research.\]
 
