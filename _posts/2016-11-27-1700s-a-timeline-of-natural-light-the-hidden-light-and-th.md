@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-27T17:21:25.248Z'
+datePublished: '2016-11-27T17:38:30.078Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:19:27.849Z'
+dateModified: '2016-11-27T17:38:28.990Z'
 title: >-
   1700’s a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
@@ -12,8 +12,8 @@ publisher: {}
 description: >-
   1700-1750: Johann Sebastian Bach composes and performs approximately 650+
   musical pieces during his lifetime.
-starred: false
 sourcePath: _posts/2016-11-27-1700s-a-timeline-of-natural-light-the-hidden-light-and-th.md
+starred: false
 url: 1700s-a-timeline-of-natural-light-the-hidden-light-and-th/index.html
 _type: Blurb
 
