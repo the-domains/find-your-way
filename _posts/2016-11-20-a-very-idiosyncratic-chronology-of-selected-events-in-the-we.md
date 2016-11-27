@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-26T18:50:24.600Z'
+datePublished: '2016-11-27T17:07:33.720Z'
 sourcePath: >-
   _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-26T18:50:22.446Z'
+dateModified: '2016-11-27T17:07:32.642Z'
 title: >-
   2000 BCE - 900 CE a timeline a history of natural light, the hidden light, and
   the ever-present darkness in the Western World.
@@ -18,7 +18,7 @@ description: >-
   Tarnas’s The Passion of the Western Mind, amongst other sources and research.]
 starred: false
 url: 2000-bce-900-ce-a-timeline-a-history-of-natural-light-the/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e144b2d1-5959-4cdd-98e6-38e7480aa48f.jpg)
