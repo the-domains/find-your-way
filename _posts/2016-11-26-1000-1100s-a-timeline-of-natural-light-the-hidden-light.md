@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-27T17:20:13.858Z'
+datePublished: '2016-11-27T17:27:44.852Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:12:40.439Z'
+dateModified: '2016-11-27T17:27:44.158Z'
 title: >-
   1000- 1100’s a timeline of natural light, the hidden light, and the
   ever-present darkness in the Western World
