@@ -1,148 +1,185 @@
 ---
-datePublished: '2016-11-27T17:20:57.194Z'
+datePublished: '2016-11-27T17:21:07.346Z'
 sourcePath: >-
   _posts/2016-11-24-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:18:35.647Z'
+dateModified: '2016-11-27T17:19:12.040Z'
 title: >-
-  1200- 1300 a timeline of natural light, the hidden light, and the ever-present
+  1800’sa timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
 publisher: {}
-description: Circa 1201- 1300 Gerona Spain School of Kabbalah
+description: >-
+  1803 Ludwig van Beethoven composes and performs Eroica Symphony no. 3. This
+  piece marks the beginning of the Romantic period, in which the formality of
+  the Classical period is replaced by subjectivity.
 starred: false
-url: 1200-1300-a-timeline-of-natural-light-the-hidden-light-an/index.html
+url: 1800sa-timeline-of-natural-light-the-hidden-light-and-the/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cb16330-8463-4de5-85f3-f192830e6f5e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eac9cf53-6990-48ac-a2af-259b40569cc8.jpg)
 
-## 1200- 1300 _a timeline of natural light, the hidden light, and the ever-present darkness in the Western World_
+## _1800'sa timeline of natural light, the hidden light, and the ever-present darkness in the Western World_
 
-**Circa 1201- 1300** Gerona Spain School of Kabbalah
+**1803** Ludwig van Beethoven composes and performs Eroica Symphony no. 3\. This piece marks the beginning of the Romantic period, in which the formality of the Classical period is replaced by subjectivity.
 
-**1204**: The first Hebrew translation of Maimonides's Guide for the Perplexed (titled Moreh Nevukhim) written by a contemporary of Maimonides, Samuel ben Judah ibn Tibbon in southern France.
+**1805**: Massacre of Jews in Algeria.
 
-**1209**: Raymond VI, Count of Toulouse and Marquis of Provence , humiliated and forced by the Catholic Pope to swear that he would implement social restrictions against Jews.
+**1806** GRA's edition with his commentary of the Sefer Yetzirah published.
 
-**1210** Wolfram von Eschenbach's Parzival. Gottfried von Strassburg's Tristan und Isolde.
+**1807** G W F Hegel publishes The Phenomenology of Spirit. Beethoven completes his Symphony No. 5\.
 
-**1215** The English Nobles force their reigning King to sign the Magna Carta limiting the power of the king. The Fourth Lateran Council headed by Pope Innocent III declares: "Jews and Saracens of both sexes in every Christian province and at all times shall be marked off in the eyes of the public from other peoples through the character of their dress." (Canon 68). See Judenhut. The Fourth Lateran Council also noted that the Jews' own law required the wearing of identifying symbols. Pope Innocent III also reiterated papal injunctions against forcible conversions, and added: "No Christian shall do the Jews any personal injury...or deprive them of their possessions...or disturb them during the celebration of their festivals...or extort money from them by threatening to exhume their dead."
+**1808** Jonathan Wolfgang Von Goethe's Faust I
 
-**1222**: Council of Oxford: Archbishop of Canterbury Stephen Langton forbids Jews from building new synagogues, owning slaves or mixing with Christians.
+**1811-181**3 Jane Austen publishes her novels Sense and Sensibility and Pride and Prejudice.
 
-**1223**:Louis VIII of France prohibits his officials from recording debts owed to Jews, reversing his father's policy of seeking such debts.
+**1815**: Franz Schubert writes "Der Erlkönig," his first public success and most famous song. Pope Pius VII reestablishes the ghetto in Rome after the defeat of Napoleon at Waterloo.
 
-**1229**: Raymond VII, Count of Toulouse, heir of Raymond VI, also forced to swear to the Pope of Rome that he would implement social restrictions against Jews.
+**1816** : Gioacchino Rossini's The Barber of Seville, based on Pierre Beaumarchais's play, debuts in Rome. His Otello opens in Naples
 
-**1232**: Forced mass conversions in Marrakesh.
+**181**8 Mary Shelley publishes her novel Frankenstein; or, The Modern Prometheus.
 
-**1235**: The Jews of Fulda, Germany were accused of ritual murder. To investigate the blood libel, Emperor Frederick II held a special conference of Jewish converts to Christianity at which the converts were questioned about Jewish ritual practice. Letters inviting prominent individuals to the conference still survive. At the conference, the converts stated unequivocally that Jews do not harm Christian children or require blood for any rituals. In 1236 the Emperor published these findings and in 1247 Pope Innocent IV, the Emperor's enemy, also denounced accusations of the ritual murder of Christian children by Jews. In 1272, the papal repudiation of the blood libel was repeated by Pope Gregory X, who also ruled that thereafter any such testimony of a Christian against a Jew could not be accepted unless it is confirmed by another Jew. Unfortunately, these proclamations from the highest sources were not effective in altering the beliefs of the Christian majority and the libels continued.
+**1819** Arthur Schopenhauer's The World as Will and Idea. A series of anti-Jewish riots in Germany that spread to several neighboring countries: Denmark, Latvia and Bohemia known as Hep-Hep riots, from the derogatory rallying cry against the Jews in Germany.
 
-**1236**: Crusaders attack Jewish communities of Anjou and Poitou and attempt to baptize all the Jews. Those who resisted (est. 3,000) were slaughtered.
+**1820** Percy Bysshe Shelley's Prometheus Unbound.
 
-**1240**: Duke Jean le Roux expels Jews from Brittany. Disputation of Paris. Pope Gregory IX puts Talmud on trial on the charges that it contains blasphemy against Jesus and Mary and attacks on the Church.
+**1822** Jean Francois Champollion announces that he has translated the Rosetta Stone and translate Egyptian hieroglyphs for the first time. Joseph Fourier's The Analytical Theory of Heat.
 
-**1241:** In England, first of a series of royal levies against Jewish finances, which forced the Jews to sell their debts to non-Jews at cut prices.
+**1824**: Ludwig van Beethoven finishes and performs his Symphony no. 9\. George Gordon Byron's Don Juan. Fredrick Gauss postulates non-Euclidean geometry.
 
-**1242:** 24 cart-loads of hand-written Talmudic manuscripts burned in the streets of Paris. James I of Aragon orders Jews to listen to conversion sermons and to attend churches. Friars are given power to enter synagogues uninvited.
+**1826**: Moses Mendelssohn writes the overture to A Midsummer Night's Dream, which debuts in Stettin in 1827\.
 
-**1244**: Pope Innocent IV orders Louis IX of France to burn all Talmud copies.
+**1827** August 26: Compulsory military service for the Jews of Russia: Jewish boys under 18 years of age, known as the Cantonists, were placed in preparatory military training establishments for 25 years. Cantonists were encouraged and sometimes forced to baptize.
 
-**1247** Roger Bacon begins experimental research at Oxford England.
+**1830 **Hector Berlioz's Symphonie Fantastique.
 
-**1248** Joseph Gikatilla born in Medinaceli Castile, Spain
+**1831** Michael Faraday discovers electromagnetic induction.
 
-**1250** Moses De Leon born in Guadalajara Spain. Saragossa: death of a choirboy Saint Dominguito del Val prompts ritual murder accusation. His sainthood was revoked in the 20th century but reportedly a chapel dedicated to him still exists in the Cathedral of Saragossa.
+**1834** Edgar Allan Poe publishes the poem To One in Paradise.
 
-**1253**: Henry III of England introduces harsh anti-Jewish laws.\[17\]
+**1835** Alexis de Tocqueville publishes his Democracy in America. Oppressive constitution for the Jews issued by Czar Nicholas I of Russia.
 
-**1254**: Louis IX expels the Jews from France, their property and synagogues confiscated. Most move to Germany and further east, however, after a couple of years, some were readmitted back.
+**1836** Ralph Waldo Emerson publishes his essay Nature, begins the Transcendentalism philosophic tradition.
 
-**1255**: Henry III of England sells his rights to the Jews (regarded as royal "chattels") to his brother Richard for 5,000 marks.
+**1837** Charles Dickens The Pickwick Papers. Emerson "American Scholar" address.
 
-**1260**: Thomas Aquinas publishes Summa Contra Gentiles, a summary of Christian faith to be presented to those who reject it. The Jews who refuse to convert are regarded as "deliberately defiant" rather than "invincibly ignorant".
+**1838** Oliver Twist published by Charles Dickens.
 
-**1263**: the Disputation of Barcelona before King James I of Aragon: between the monk Pablo Christiani (a convert from Judaism) and Rabbi Moses ben Nachman (also known as Nachmanides). At the end of disputation, king awarded Nachmanides a monetary prize and declared that never before had he heard "an unjust cause so nobly defended." Nevertheless, the Dominicans claimed the victory and Nachmanides was exiled and his report of the proceedings was condemned and burned. A committee appointed by the king censored the passages from the Talmud they deemed offensive.
+**1839**: The New York Philharmonic is established. Charles Dickens Nicholas Nickleby.
 
-**1264**: Pope Clement IV assigns Talmud censorship committee. Simon de Montfort inspires massacre of Jews in London.
+**1839- 1842** Edgar Allan Poe publishes The Fall of the House of Usher, Murder in the Rue Morgue, and Masque of the Red Death
 
-**1266-73** Thomas Aquinas's Summa Theologica
+**1840**: The Damascus affair: false accusations cause arrests and atrocities, culminating in the seizure of sixty-three Jewish children and attacks on Jewish communities throughout the Middle East.
 
-**1267**:In a special session, the Vienna city council forces Jews to wear Pileum cornutum (a cone-shaped headdress, prevalent in many medieval illustrations of Jews). This distinctive dress is an addition to Yellow badge Jews were already forced to wear. Christians are not permitted to attend Jewish ceremonies. Synod of Breslau orders Jews to live in a segregated quarter.
+**1843** John Stuart Mill publishes his System of Logic. Edgar Allan Poe publishes The Tell Tale Heart. Charles Dicken's A Christmas Carol. Soren Kierkegaard's Either/Or, Fear and Trembling.
 
-**1275**: King Edward I of England passes the Statute of the Jewry forcing Jews over the age of seven to wear an identifying yellow badge, and making usury illegal, in order to seize their assets. Scores of English Jews are arrested, 300 hanged and their property goes to the Crown. In 1280 he orders Jews to be present as Dominicans preach conversion. In 1287 he arrests heads of Jewish families and demands their communities pay ransom of 12,000 pounds.
+**1844** Samuel F B Morse dispatches the first telegram. Karl Marx praises Bruno Bauer's essays containing demands that the Jews abandon Judaism, and publishes his work On the Jewish Question: "What is the worldly cult of the Jew? Huckstering. What is his worldly god? Money... Money is the jealous God of Israel, besides which no other god may exist... The god of the Jews has been secularized and has become the god of this world", "In the final analysis, the emancipation of the Jews is the emancipation of mankind from Judaism." This probably led to the antisemitic feeling within communism.
 
-**1276**: Massacre in Fez to kill all Jews stopped by intervention of the Emir.
+**1845** Michael Faraday shows through experimental evidence that both Magnets and electricity generate fields of force. He also discovers that light propagation can be influenced by external magnetic fields. Henry David Thoreau builds a cabin at Walden Pond to work on his writings and to live a simple life. Edgar Allan Poe publishes The Purloined Letter and The Raven.
 
-**1278**: The Edict of Pope Nicholas III requires compulsory attendance of Jews at conversion sermons.
+**1846** Faraday gives a lecture at the English Royal Institution in which he proposes his view that there is a unity in the forces of nature. He proposes that the field lines of electricity and magnets are associated with atoms and that this could provide the medium by which light waves were propagated without the aether. Fields of force connect the atomic particles. The vibrations of these fields create the waves of light, electricity, and magnetism. Edgar Allan Poe publishes The Cask of Amontillado.
 
-**1279**: Synod of Ofen: Christians are forbidden to sell or rent real estate to or from Jews.
+**1847** Hermann Von Helmholtz describes the law of the conservation of energy. Thoreau leaves Walden Pond. Charlotte Bronte publishes her novel Jane Eyre.
 
-**Circa 1280** The Zohar makes its appearance from Moses De Leon. Jean de Meun's Romance of the Rose.
+**1848** Karl Mark and Engels write and publish Communist Manifesto. The Women's suffrage movement begins in the United States. Henry David Thoreau publishes 'Resistance to Civil Government' that became known as 'Civil Disobediences'.
 
-**1280 -- 1293?** Sha'are Orah (Gates of Light) written by Joseph Gikatilla
+**1850** Charles Dickens David Copperfield. Nathaniel Hawthorne's Scarlet Letter.
 
-**1282**: John Pectin, Archbishop of Canterbury, orders all London synagogues to close and prohibits Jewish physicians from practicing on Christians.
+**1851** Herman Melville publishes Moby Dick. Giuseppe Fortunino FrancescoVerdi's Rigoletto debuts in Venice.
 
-**1283**: Philip III of France causes mass migration of Jews by forbidding them to live in the small rural localities.
+**1853**: Blood libels in Saratov and throughout Russia. Richard Wagner publishes the librettos to Der Ring des Nibelungen (The Ring Cycle): Das Rheingold, Die Walküre, Seigfried and Die Götterdämerung. The Ring Cycle is considered one of the most ambitious musical projects ever undertaken by a single person.
 
-**1285**: Blood libel in Munich, Germany results in the death of 68 Jews. 180 more Jews are burned alive at the synagogue.
+**1854** Eliphas Levi's first book Dogma et Rituel de la Haute Magie: The Dogma and Rituals of High Magic published. Levi fleshes out the idea that the Major Arcana is matched to the Hebrew alphabet. Henry David Thoreau publishes Walden. Franz Liszt conducts the first performance of his symphonic poems in Weimar. The symphonic poem is an orchestral work, often in one movement, and is usually based on a literary idea. Liszt is credited with creating the genre. His symphonic poems include Orpheus,Les Preludes and Mazeppa.
 
-**1287**: A mob in Oberwesel, Germany kills 40 Jewish men, women and children after a ritual murder accusation.
+**1855** Walt Whitman publishes first edition of Leaves of Grass.
 
-**1289**: Jews are expelled from Gascony and Anjou.
+**1856**: A French translation of Maimonides's Guide for the Perplexed accompanied the first critical edition, published by Salomon Munk in three volumes from 1856 (Le Guide des égarés: Traité de Théologie et de Philosophie par Moïse ben Maimoun dit Maïmonide. Publié Pour la première fois dans l'arabe original et accompagné d'une traduction française et notes des critiques littéraires et explicatives par S. Munk). Gustave Flaubert's Madame Bovary.
 
-**1290** July 18 :Edict of Expulsion: Edward I expels all Jews from England, allowing them to take only what they could carry, all the other property became the Crown's. Official reason: continued practice of usury.
+**1858**: Edgardo Mortara, a six-year-old Jewish boy whom a maid had baptised during an illness, is taken from his parents in Bologna, an episode which aroused universal indignation in liberal circles.
 
-**1291**: Philip the Fair publishes an ordinance prohibiting the Jews to settle in France.
+**1859** Charles Darwin publishes the Origin of Species. John Stuart Mill publishes On Liberty. Charles Dickens publishes A Tale of Two Cities.
 
-**1298**: During the civil war between Adolph of Nassau and Albrecht of Austria, German knight Rintfleisch claims to have received a mission from heaven to exterminate "the accursed race of the Jews". Under his leadership, the mob goes from town to town destroying Jewish communities and massacring about 100,000 Jews, often by mass burning at stake. Among 146 localities in Franconia, Bavaria and Austria are Röttingen (20 April), Würzburg (24 July), Nuremberg (1 August).
+**1860** Robert Bunsen and Gustav Kirchhoff observe dark lines in the spectrum of a light source pass through burning substances.
 
-**1300-30** Spread of mysticism in Rhineland, Meister Eckhart flourishes
+**1861** United States of America Civil War begins. James Clark Maxwell, using Thomas Young's theory of color and vision, produces the first color photograph image. Elipahs Levi publishes La Clef des Grands Mysteres. Charles Dickens Great Expectations.
 
-**1305** Moses De Leon dies in Arevalo Spain and Joseph Gikatilla dies in Penafiel Spain. Philip IV of France seizes all Jewish property (except the clothes they wear) and expels them from France (approx. 100,000). His successor Louis X of France allows French Jews to return in 1315\. Duns Scotus teaching in Paris.
+**1862** James Clark Maxwell realizes that electricity and magnetism has to be related to light when he discovers that they all traveled at the same speed. Maxwell uses Robert Faraday's ideas and work to build a mathematical theory of the unified field of magnets and electricity. Victor Hugo Publishes Les Miserables. During the American Civil War General Grant issues General Order № 11, ordering all Jews out of his military district, suspecting them of pro-Confederate sympathy. President Lincoln directs him to rescind the order. Polish Jews are given equal rights. Old privileges forbidding Jews to settle in some Polish cities are abolished.
 
-**1310-14** Dante's Divine Comedy
+**1863** The Emancipation Proclamation is issued. Abraham Lincoln gives his Gettysburg Address.
 
-**1319** Ockham teaching at Oxford.
+**1864** Jules Verne publishes his novel Journey to the Center of the Earth. Louis Pastuer completes first successful experiment of the procedure to be known as pasteurization.
 
-**1320**: Shepherds' Crusade attacks the Jews of 120 localities in southwest France.
+**1865** Gregor Mendel proposes his theory of genetic inheritance. Jules Verne publishes his novel From Earth to the Moon. President Abraham Lincoln assassinated.
 
-**1321**: King Henry II of Castile forces Jews to wear Yellow badge. Jews in central France accused of ordering lepers to poison wells. After massacre of est. 5,000 Jews, King Philip V admits they were innocent. Earliest commentary on the Bahir is written by Rabbi Meir ben Shalom Abi-Sahula, a disciple of Shlomo ben Aderet (Rashba), and it is published anonymously under the title Or HaGanuz.
+**1867** Karl Marx publishes Das Kapital.
 
-**1322**: King Charles IV expels Jews from France.
+**1868** John Chalmers publishes the first complete English translation of the Tao Te Ching. Samuel Bierfield is believed to be the first Jew lynched in the United States. Bierfield and his African-American clerk, Lawrence Bowman, were apprehended in Bierfield's store in Franklin, Tennessee and fatally shot by a group of masked men believed to belong to the Ku Klux Klan, on August 15, 1868\. No one was ever convicted of the crime, however.
 
-**1333**: Forced mass conversions in Baghdad
+**1869 **Russian Chemist Dmitry Mendeleyv, using the work of John Dalton and others, first charts the elements and organize them in order of their atomic weights, thus establishing the Periodic Table of Elements. Leo Tolstoy publishes War and Peace
 
-**1336**: Persecutions against Jews in Franconia and Alsace led by lawless German bands, the Armleder under the highwayman Arnold von Uissigheim
+**1870** Jules Verne publishes his novel Twenty Thousand Leagues Under the Sea.
 
-**1347-51 **The Plague, aka the Black Death, sweeps Europe.
+**1871** Charles Darwin publishes The Descent of Man. Speech of Pope Pius IX in regard to Jews: "of these dogs, there are too many of them at present in Rome, and we hear them howling in the streets, and they are disturbing us in all places." Giuseppe Fortunino FrancescoVerdi's Aïda premieres in Cairo.
 
-**1348**: European Jews are blamed for the plague in the Black Death persecutions. Charge laid to the Jews that they poisoned the wells. Massacres spread throughout Spain, France, Germany and Austria. More than 200 Jewish communities destroyed by violence. Many communities have been expelled and settle down in Poland. Strasbourg massacre.
+**1872** Fredrick Nietzsche's The Birth of Tragedy
 
-**1349**: Basel: 600 Jews burned at the stake, 140 children forcibly baptized, the remaining city's Jews expelled. The city synagogue is turned into a church and the Jewish cemetery is destroyed. Erfurt massacre.
+**1873** Maxwell publishes his paper Electricity and Magnetism.
 
-**1353**: Giovanni Boccaccio's Decameron.
+**1874**: Verdi's Requiem, his most respected work, premieres in Milan.
 
-**1359**: Charles V of France allows Jews to return for a period of 20 years in order to pay ransom for his father John II of France, imprisoned in England. The period is later extended beyond the 20 years.
+**1875** Mark Twain publishes The Adventures of Tom Sawyer. Madame Blavatsky founds the Theosophical Society.
 
-**1370**: Brussels massacre, end of the Jewish community in Brussels.
+**1876** Alexander Graham Bell invents the telephone. Pyotr Ilyich Tchaikovsky completes Swan Lake. It opens in 1877 at Moscow's Bolshoi Theatre. Richard Wagner's The Ring Cycle is performed in full at the Bayreuth Festival. The opera house was built to accommodate Wagner's works. Johannes Brahms completes his First Symphony. Twenty years in the making, the symphony received mixed reviews but would become one of the most popular ever written.
 
-**1375**: public disputations held at Burgos and Avila by Moses Cohen de Tordesillas with converts from Judaism John of Valladolid and Abner of Burgos. Another disputation was held at about the same time in Pampeluna by Shem-Tob ben Isaac Shaprut of Tudela with Cardinal Don Pedro de Luna, afterward Avignon Pope Benedict XIII, the disputations being made the subjects of the books "'Ezer ha-Emunah" (by Moses) and "Eben Boḥan".
+**1877** Alexander Graham Bell invents the phonograph. Camille Saint-Saën's Samson et Dalila debuts in Weimar.
 
-**1377** Nicholas Oreme's Book on the Sky and the World, defends theoretical possibility of moving Earth.
+**1878**: Adolf Stoecker, German antisemitic preacher and politician, founds the Christian Social Party, which marks the beginning of the political antisemitic movement in Germany.
 
-**1386**: Wenceslaus, Holy Roman Emperor, expels the Jews from the Swabian League and Strasbourg and confiscates their property.
+**1879**: Heinrich von Treitschke, German historian and politician, justifies the antisemitic campaigns in Germany, bringing antisemitism into learned circles. Wilhelm Marr coins the term Anti-Semitism to distinguish himself from religious Anti-Judaism
 
-**1389**: 18 March, a Jewish boy is accused of plotting against a priest. The mob slaughters approx. 3,000 of Prague's Jews, destroys the city's synagogue and Jewish cemetery. Wenceslaus insists that the responsibility lay with the Jews for going outside during Holy Week.
+**1880**: John Paine's symphony, In Spring, debuts in Cambridge, Massachusetts. It is the first American symphony published in the United States. Tchaikovsky writes the 1812 Overture, commemorating Russia's defeat of Napoleon. Fyodor Dostoevsky's The Brother Karamazov.
 
-**1391**: Violence incited by the Archdeacon of Ecija, Ferrand Martinez, results in the destruction of the Jewish quarter in Barcelona. The campaign quickly spreads throughout Spain (except for Granada) and destroys Jewish communities in Valencia and Palma De Majorca. Thousands of Jews are murdered or forced to accept baptism.
+**1881** First wave of Jewish immigration to Palestine. The Boston Symphony Orchestra is established. The first complete English translation of Maimonides's Guide for the Perplexed by M. Friedländer, with Mr. Joseph Abrahams and Reverend H. Gollancz. It was originally published in a three volume edition with footnotes.
 
-**1394**: 3 November, Charles VI of France expels all Jews from France.
+**1881--1884**: Pogroms sweep southern Russia, propelling mass Jewish emigration from the Pale of Settlement: about 2 million Russian Jews emigrated in period 1880--1924, many of them to the United States (until the National Origins Quota of 1924 and Immigration Act of 1924 largely halted immigration to the U.S. from Eastern Europe and Russia). The Russian word "pogrom" becomes international.
 
-**1399**: Blood libel in Posen.
+**1882**: The Tiszaeszlár blood libel in Hungary arouses public opinion throughout Europe. First International Anti-Jewish Congress convenes at Dresden, Germany. May:A series of "temporary laws" by Tsar Alexander III of Russia (the May Laws), which adopted a systematic policy of discrimination, with the object of removing the Jews from their economic and public positions, in order to "cause one-third of the Jews to emigrate, one-third to accept baptism and one-third to starve" (according to a remark attributed to Konstantin Pobedonostsev). The Berlin Philharmonic is established.
 
-And so it goes....
+**1883**: The Metropolitan Opera House opens in New York. Nietzsche's Thus Spoke Zarathustra, finishes in 1884\.
+
+**1884** Sefer Yetzirah Warsaw edition published. Mark Twain's Huckleberry Finn.
+
+**1885**: Gilbert and Sullivan finish The Mikado, which premieres in London.
+
+**1886** Nietzsche's Beyond Good and Evil.
+
+**1887**: Russia introduces measures to limit Jews access to education, known as the quota. S. L. MacGregor Mather publishes The Kabbalah Unveiled. Arthur Conan Doyle publishes The Study in Scarlet.
+
+**1888** William Wynn Westcott together with Samuel Liddell MacGregor Mathers founded the Hermetic Order of the Golden Dawn. Jack the Ripper murders occur in Whitechapel London England. Johann Strauss writes the symphonic poem, Don Juan
+
+**1889** The next Tarot deck to be invented for Occult divination was by Oswald Wirth. Gerard Encausse writes under the name, Papus, and he used Wirth's deck in his own book Le Tarot des Bohemiens. He also designs a Tarot deck. Vincent Van Gogh's Starry Night.
+
+**1890** Oscar Wilde publishes The Pictures of Dorian Gray. Pyotr Ilyish Tchaikovsky's The Sleeping Beauty debuts in St. Petersburg. William James publishes his two volume Principles of Psychology. James George Frazer's The Golden Bough: A Study in Comparative Religion.
+
+**1891** Arthur Conan Doyle publishes The Adventures of Sherlock Holmes. Blood libel in Xanten, Germany. Expulsion of 20,000 Jews from Moscow, Russia. The Congress of the United States eases immigration restrictions for Jews from the Russian Empire. Carnegie Hall opens in New York.
+
+**1892** Tchaikovsky performs The Nutcracker Suite. Justinas Bonaventure Pranaitis writes The Talmud Unmasked an antisemitic and misleading inaccurate anti-Talmudic work.
+
+**1893**: Karl Lueger establishes antisemitic Christian Social Party and becomes the Mayor of Vienna in 1897\. Antonin Dvorak composes his best and most popular work, From the New World. F. H. Bradley's Appearance and Reality.
+
+**1894**: The Dreyfus Affair in France. In 1898 Émile Zola publishes open letter J'accuse!, in Dreyfus's defense. Heinrich Hertz's Principles of Mechanics.
+
+**1895** Herbert George Wells publishes The Time Machine. A. C. Cuza organizes the Alliance Anti-semitique Universelle in Bucharest, Romania. January 5: Captain Alfred Dreyfus being dishonorably discharged in France. Oscar Wilde's The Importance of Being Earnest. Emile Durkheim's Rules of Sociological Method.
+
+**1896** Theodore Hertzl publishes The Jewish State, and with it creates the concept of Zionist movement within Judaism. Ragtime, a combination of West Indian rhythm and European musical form, is born. William James address the Philosophical Club of Yale and Brown University, his talk is The Will to Believe.
+
+**1897** William James publishes book of essays The Will to Believe
+
+**1898 **Herbert George Wells publishes The War of the Worlds.
+
+**1899**: Houston Stewart Chamberlain, racist and antisemitic author, publishes his Die Grundlagen des 19 Jahrhunderts which later became a basis of National-Socialist ideology.
+
+And so it goes...
