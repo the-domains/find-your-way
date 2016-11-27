@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-27T17:20:35.566Z'
+datePublished: '2016-11-27T17:33:34.174Z'
 sourcePath: _posts/2016-11-26-1400s-a-timeline-of-natural-light-the-hidden-light-and-th.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:17:53.736Z'
+dateModified: '2016-11-27T17:33:33.263Z'
 title: >-
   1400’s a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
