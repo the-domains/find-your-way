@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-27T17:20:23.446Z'
+datePublished: '2016-11-27T17:34:55.195Z'
 sourcePath: >-
   _posts/2016-11-25-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:13:28.985Z'
+dateModified: '2016-11-27T17:34:54.171Z'
 title: >-
   1500’s a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World.
