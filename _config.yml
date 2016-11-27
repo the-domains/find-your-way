@@ -1,17 +1,4 @@
-name: Find Your Way
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/189e5d04-96db-4b12-b750-96182c02129d.jpg
-layout_spectrum: 0.7546202465154157
 typography_spectrum: 0.8118161452527499
-analytics:
-  google: UA-81696929-1
-opengraph:
-  type: home page
-  appId: 'https://www.facebook.com/garyjaron'
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
 color:
   brandColors:
     - '#16193B'
@@ -23,19 +10,22 @@ color:
   lightness: 0.9412634877636475
   saturation: 0.006361750505477337
   rhythmicContrast: 0.8402614391534267
-purpose:
-  - type: contact
-    url: 'mailto:gmjaron@uw.edu'
-    label: Contact me
-  - type: external
-    url: 'https://www.facebook.com/garyjaron'
-    label: Gary Jaron Facebook page
-title: Gary Jaron_Find Your Way
-description: Gary Jaron's blog
+github: true
+opengraph:
+  type: home page
+  appId: 'https://www.facebook.com/garyjaron'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/020c9877-841d-4ce4-a0a5-c94b3d79edf2.jpg
+layout_spectrum: 0.7546202465154157
+analytics:
+  google: UA-81696929-1
 author:
   name: Gary M Jaron
   url: 'https://independent.academia.edu/GaryJaron'
   email: grayravensf@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/189e5d04-96db-4b12-b750-96182c02129d.jpg
+name: Find Your Way
 navigation:
   - name: 'Read this first: A Guide to this blog site'
     id: a9a439b6-60e1-45ec-b4a5-c6c2d2beee17
@@ -79,7 +69,15 @@ navigation:
   - name: 'Jarons and Jermanoks: It’s a family thing….'
     id: 636895ce-040a-4542-b066-ae5ed3a01c00
     type: content
-  - name: Timeline 1
-    id: 668fb842-6358-479a-b26c-299713e4ab95
-    type: content
-github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
+title: Gary Jaron_Find Your Way
+content: []
+description: Gary Jaron's blog
+purpose:
+  - type: contact
+    url: 'mailto:gmjaron@uw.edu'
+    label: Contact me
+  - type: external
+    url: 'https://www.facebook.com/garyjaron'
+    label: Gary Jaron Facebook page
