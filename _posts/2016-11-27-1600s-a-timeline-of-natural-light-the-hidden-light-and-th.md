@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-27T17:21:51.235Z'
+datePublished: '2016-11-27T17:36:47.957Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:19:58.479Z'
+dateModified: '2016-11-27T17:36:47.313Z'
 title: >-
   1600’s a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
@@ -12,8 +12,8 @@ publisher: {}
 description: >-
   1600 Giordano Bruno burned at the stake for heresy by the Catholic Church.
   Shakespeare’s Hamlet. Gilbert On the Magnet.
-starred: false
 sourcePath: _posts/2016-11-27-1600s-a-timeline-of-natural-light-the-hidden-light-and-th.md
+starred: false
 url: 1600s-a-timeline-of-natural-light-the-hidden-light-and-th/index.html
 _type: Blurb
 
