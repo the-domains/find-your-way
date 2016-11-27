@@ -90,6 +90,9 @@ navigation:
   - name: Timeline 1700's CE
     id: a4cdc8b3-f757-4238-acb1-8739e04ee6e0
     type: content
+  - name: Timeline 1800's CE
+    id: 7cfcd405-dcaa-46f7-86d2-5f9cbc497c56
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
 title: Gary Jaron_Find Your Way
