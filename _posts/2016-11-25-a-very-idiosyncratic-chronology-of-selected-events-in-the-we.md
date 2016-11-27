@@ -1,12 +1,16 @@
 ---
+datePublished: '2016-11-27T17:07:02.980Z'
+sourcePath: >-
+  _posts/2016-11-25-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
+inFeed: false
+hasPage: true
+author: []
+via: {}
+dateModified: '2016-11-27T17:07:02.182Z'
 title: >-
   1500’s a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World.
-dateModified: '2016-11-26T22:28:43.327Z'
 publisher: {}
-author: []
-inFeed: true
-hasPage: true
 description: >-
   1501 Aldus Manutius, a printer, introduces his new standard format for the
   printed book. He creates the pocket book, an octavio (eight inch tall) size
@@ -15,13 +19,9 @@ description: >-
   published in this format was Virgil’s Opera. This format is the invention of
   the comparatively inexpensive hand held book. Manutius is also the first
   publisher of the Greek classic texts.
-via: {}
-datePublished: '2016-11-26T22:28:59.653Z'
 starred: false
-sourcePath: >-
-  _posts/2016-11-25-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 url: 1500s-a-timeline-of-natural-light-the-hidden-light-and-th/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07344655-7d71-40db-b46e-f971df211ae6.jpg)
