@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-27T17:27:44.852Z'
+datePublished: '2016-12-04T15:58:22.210Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:27:44.158Z'
+dateModified: '2016-12-04T15:58:19.717Z'
 title: >-
   1000- 1100’s a timeline of natural light, the hidden light, and the
   ever-present darkness in the Western World
@@ -16,6 +16,7 @@ description: >-
   and members of both groups had to wear black hats.
 sourcePath: _posts/2016-11-26-1000-1100s-a-timeline-of-natural-light-the-hidden-light.md
 starred: false
+datePublishedOriginal: '2016-11-27T17:27:44.852Z'
 url: 1000-1100s-a-timeline-of-natural-light-the-hidden-light/index.html
 _type: Blurb
 
