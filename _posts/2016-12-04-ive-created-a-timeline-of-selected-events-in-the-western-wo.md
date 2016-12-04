@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-04T15:37:20.749Z'
+datePublished: '2016-12-04T15:58:22.168Z'
 inFeed: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-04T15:37:20.749Z'
-dateModified: '2016-12-04T15:37:05.210Z'
+dateModified: '2016-12-04T15:58:19.717Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,9 +12,9 @@ description: >-
   events in the history of science, music, literature, the occult, Judaism,
   Jewish mysticism and antisemitism. I call it a history of the natural light,
   the hidden light and the ever present darkness.
-starred: false
 sourcePath: >-
   _posts/2016-12-04-ive-created-a-timeline-of-selected-events-in-the-western-wo.md
+starred: false
 _type: Blurb
 
 ---
