@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-27T17:36:47.957Z'
+datePublished: '2016-12-04T15:58:22.206Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:36:47.313Z'
+dateModified: '2016-12-04T15:58:19.717Z'
 title: >-
   1600’s a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
@@ -14,6 +14,7 @@ description: >-
   Shakespeare’s Hamlet. Gilbert On the Magnet.
 sourcePath: _posts/2016-11-27-1600s-a-timeline-of-natural-light-the-hidden-light-and-th.md
 starred: false
+datePublishedOriginal: '2016-11-27T17:36:47.957Z'
 url: 1600s-a-timeline-of-natural-light-the-hidden-light-and-th/index.html
 _type: Blurb
 
