@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-27T17:50:36.592Z'
+datePublished: '2016-12-04T15:58:22.209Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:50:35.743Z'
+dateModified: '2016-12-04T15:58:19.717Z'
 title: >-
   1900-1940 a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
@@ -13,6 +13,7 @@ description: 1900 Sigmund Freud’s The Interpretation of Dreams.
 sourcePath: >-
   _posts/2016-11-27-1900-1940-a-timeline-of-natural-light-the-hidden-light-and.md
 starred: false
+datePublishedOriginal: '2016-11-27T17:50:36.592Z'
 url: 1900-1940-a-timeline-of-natural-light-the-hidden-light-and/index.html
 _type: Blurb
 
