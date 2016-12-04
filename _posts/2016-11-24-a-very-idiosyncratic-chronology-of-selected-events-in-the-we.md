@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-27T17:47:01.260Z'
+datePublished: '2016-12-04T15:58:22.188Z'
 sourcePath: >-
   _posts/2016-11-24-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-27T17:47:00.525Z'
+dateModified: '2016-12-04T15:58:19.717Z'
 title: >-
   1800’sa timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
@@ -16,6 +16,7 @@ description: >-
   piece marks the beginning of the Romantic period, in which the formality of
   the Classical period is replaced by subjectivity.
 starred: false
+datePublishedOriginal: '2016-11-27T17:47:01.260Z'
 url: 1800sa-timeline-of-natural-light-the-hidden-light-and-the/index.html
 _type: Blurb
 
