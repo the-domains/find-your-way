@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-12-04T15:58:22.209Z'
+datePublished: '2016-12-07T16:06:59.454Z'
+sourcePath: >-
+  _posts/2016-11-27-1900-1940-a-timeline-of-natural-light-the-hidden-light-and.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-04T15:58:19.717Z'
+dateModified: '2016-12-07T16:06:58.932Z'
 title: >-
   1900-1940 a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
 publisher: {}
 description: 1900 Sigmund Freud’s The Interpretation of Dreams.
-sourcePath: >-
-  _posts/2016-11-27-1900-1940-a-timeline-of-natural-light-the-hidden-light-and.md
 starred: false
 datePublishedOriginal: '2016-11-27T17:50:36.592Z'
 url: 1900-1940-a-timeline-of-natural-light-the-hidden-light-and/index.html
@@ -106,6 +106,6 @@ _type: Blurb
 
 **1943**: Crowley completed his Tarot deck. Sarte's _Being and Nothingness_. Elliot's _Four Quartets_.
 
-**1944:** Crowley's Tarot deck was published in private circulation as _The Book of Thoth_
+**1944:** Crowley's Tarot deck was published in private circulation as _The Book of Thoth. _
 
 And so it goes...
