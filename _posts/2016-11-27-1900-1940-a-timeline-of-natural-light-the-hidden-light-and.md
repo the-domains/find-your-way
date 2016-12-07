@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-07T16:07:34.252Z'
+datePublished: '2016-12-07T16:07:55.184Z'
 sourcePath: >-
   _posts/2016-11-27-1900-1940-a-timeline-of-natural-light-the-hidden-light-and.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-07T16:07:33.801Z'
+dateModified: '2016-12-07T16:07:54.742Z'
 title: >-
   1900-1940 a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
@@ -106,6 +106,6 @@ _type: Blurb
 
 **1943**: Crowley completed his Tarot deck. Sarte's _Being and Nothingness_. Elliot's _Four Quartets_.
 
-**1944:** Crowley's Tarot deck was published in private circulation as _The Book of Thoth. _ Gershom Gehard Scholem publishes _Major Trends in Jewish Mysticism_.
+**1944:** Crowley's Tarot deck was published in private circulation as _The Book of Thoth. _ Gershom Gehard Scholem publishes _Major Trends in Jewish Mysticism, which _
 
 And so it goes...
