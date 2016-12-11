@@ -1,23 +1,24 @@
 ---
-datePublished: '2016-12-04T15:58:22.209Z'
-sourcePath: >-
-  _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
-inFeed: false
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-12-04T15:58:19.717Z'
 title: >-
   2000 BCE - 900 CE a timeline a history of natural light, the hidden light, and
   the ever-present darkness in the Western World.
+datePublished: '2016-12-11T16:23:19.465Z'
+dateModified: '2016-12-11T16:23:18.664Z'
 publisher: {}
+author: []
+inFeed: false
+hasPage: true
 description: >-
   [Compiled from Wikipedia article on the history of anti-Semitism
   https://en.wikipedia.org/wiki/Timeline_of_antisemitism and A timeline of
   Western music, http://www.infoplease.com/ipea/A0151192.html and Richard
-  Tarnas’s The Passion of the Western Mind, amongst other sources and research.]
+  Tarnas’s The Passion of the Western Mind, amongst other sources and research. 
+  Dates for events in antiquity are approximate.]
+via: {}
 starred: false
 datePublishedOriginal: '2016-11-27T17:25:41.314Z'
+sourcePath: >-
+  _posts/2016-11-20-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 url: 2000-bce-900-ce-a-timeline-a-history-of-natural-light-the/index.html
 _type: Blurb
 
@@ -26,13 +27,13 @@ _type: Blurb
 
 ## _2000 BCE - 900 CE a timeline a history of natural light, the hidden light, and the ever-present darkness in the Western World._
 
-\[Compiled from Wikipedia article on the history of anti-Semitism https://en.wikipedia.org/wiki/Timeline\_of\_antisemitism and A timeline of Western music, http://www.infoplease.com/ipea/A0151192.html and Richard Tarnas's _The Passion of the Western Mind_, amongst other sources and research.\]
+\[Compiled from Wikipedia article on the history of anti-Semitism https://en.wikipedia.org/wiki/Timeline\_of\_antisemitism and A timeline of Western music, http://www.infoplease.com/ipea/A0151192.html and Richard Tarnas's _The Passion of the Western Mind_, amongst other sources and research. Dates for events in antiquity are approximate.\]
 
-\[Compiled from Wikipedia article on the history of anti-Semitism https://en.wikipedia.org/wiki/Timeline\_of\_antisemitism and A timeline of Western music, http://www.infoplease.com/ipea/A0151192.html and Richard Tarnas's _The Passion of the Western Mind_, amongst other sources and research.\]
+**3000** Stonehenge in its earliest form is being built.
 
-**2000-1500 BCE** Middle Bronze Age in Biblical lands
+**2000-1500** BCE Middle Bronze Age in Biblical lands. Patriarchs (Abraham, Isaac & Jacob 2000-1800). Circa 2000 migrations of Greek speaking Indo-European peoples into Aegean area begins.
 
-Patriarchs (Abraham, Isaac & Jacob 2000-1800)
+**1800** Early Mesopotamian astronomical observations recorded. 
 
 Hebrews in Egypt 1700-1600
 
