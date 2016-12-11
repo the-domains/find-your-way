@@ -2,8 +2,8 @@
 title: >-
   2000 BCE - 900 CE a timeline a history of natural light, the hidden light, and
   the ever-present darkness in the Western World.
-datePublished: '2016-12-11T17:38:22.339Z'
-dateModified: '2016-12-11T17:38:21.353Z'
+datePublished: '2016-12-11T17:40:08.668Z'
+dateModified: '2016-12-11T17:40:07.612Z'
 publisher: {}
 author: []
 inFeed: false
