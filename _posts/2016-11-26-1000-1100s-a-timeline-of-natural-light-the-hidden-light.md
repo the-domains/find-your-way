@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-04T15:58:22.210Z'
+datePublished: '2016-12-12T01:23:51.799Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-04T15:58:19.717Z'
+dateModified: '2016-12-12T01:23:49.008Z'
 title: >-
   1000- 1100’s a timeline of natural light, the hidden light, and the
   ever-present darkness in the Western World
@@ -15,8 +15,8 @@ description: >-
   "golden calf" around their necks. Christians had to wear a large wooden cross
   and members of both groups had to wear black hats.
 sourcePath: _posts/2016-11-26-1000-1100s-a-timeline-of-natural-light-the-hidden-light.md
-starred: false
 datePublishedOriginal: '2016-11-27T17:27:44.852Z'
+starred: false
 url: 1000-1100s-a-timeline-of-natural-light-the-hidden-light/index.html
 _type: Blurb
 
