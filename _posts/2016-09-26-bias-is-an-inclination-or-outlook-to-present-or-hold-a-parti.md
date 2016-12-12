@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-11-25T18:58:12.265Z'
+datePublished: '2016-12-12T01:23:51.806Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-25T18:58:10.777Z'
+dateModified: '2016-12-12T01:23:49.008Z'
 title: ''
 publisher: {}
 description: >-
@@ -18,6 +18,7 @@ description: >-
 sourcePath: >-
   _posts/2016-09-26-bias-is-an-inclination-or-outlook-to-present-or-hold-a-parti.md
 starred: false
+datePublishedOriginal: '2016-11-25T18:58:12.265Z'
 url: bias-is-an-inclination-or-outlook-to-present-or-hold-a-parti/index.html
 _type: Blurb
 
