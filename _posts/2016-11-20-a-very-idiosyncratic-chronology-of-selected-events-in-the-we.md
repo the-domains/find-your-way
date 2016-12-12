@@ -1,9 +1,9 @@
 ---
 title: >-
-  2000 BCE - 900 CE a timeline a history of natural light, the hidden light, and
+  2000 BCE - 1 CE a timeline a history of natural light, the hidden light, and
   the ever-present darkness in the Western World.
-datePublished: '2016-12-12T01:27:22.584Z'
-dateModified: '2016-12-12T01:27:21.497Z'
+datePublished: '2016-12-12T01:34:37.775Z'
+dateModified: '2016-12-12T01:34:36.581Z'
 publisher: {}
 author: []
 inFeed: false
@@ -25,7 +25,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e144b2d1-5959-4cdd-98e6-38e7480aa48f.jpg)
 
-## _2000 BCE - 900 CE a timeline a history of natural light, the hidden light, and the ever-present darkness in the Western World._
+## _2000 BCE - 1 CE a timeline a history of natural light, the hidden light, and the ever-present darkness in the Western World._
 
 \[Compiled from Wikipedia article on the history of anti-Semitism https://en.wikipedia.org/wiki/Timeline\_of\_antisemitism and A timeline of Western music, http://www.infoplease.com/ipea/A0151192.html and Richard Tarnas's _The Passion of the Western Mind_, amongst other sources and research. Dates for events in antiquity are approximate.\]
 
