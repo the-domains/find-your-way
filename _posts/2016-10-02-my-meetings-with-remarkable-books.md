@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-12-04T15:58:22.211Z'
+datePublished: '2016-12-12T01:23:51.720Z'
 sourcePath: _posts/2016-10-02-my-meetings-with-remarkable-books.md
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid.github.io/ed-userhtml/?g=eJxLz89Pz0nVLc4sSdUtSy3KTMtMTizJzM-zUkgHy6QZGJibWxolpiUapaUlWaTpZZTk5gAAFVcTDw
 author: []
 via: {}
-dateModified: '2016-12-04T15:58:19.717Z'
+dateModified: '2016-12-12T01:23:49.008Z'
 title: ''
 publisher: {}
 description: My Meetings with Remarkable Books
-starred: false
 datePublishedOriginal: '2016-11-25T18:58:12.238Z'
+starred: false
 _type: MediaObject
 
 ---
