@@ -96,6 +96,9 @@ navigation:
   - name: Timeline 1900-1940 CE
     id: 16b46111-4824-4102-8456-c7972410b891
     type: content
+  - name: A Timeline 1 CE - 900 CE
+    id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
 title: Gary Jaron_Find Your Way
