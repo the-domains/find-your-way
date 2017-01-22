@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-12-12T01:23:51.809Z'
+datePublished: '2017-01-22T18:48:13.733Z'
 sourcePath: _posts/2016-08-20-seventh-entry-august-20-1916.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T01:23:49.008Z'
+dateModified: '2017-01-22T18:48:11.379Z'
 title: ''
 publisher: {}
 description: >-
   William James realized that our biology interacts with our mind and thus can
   shape how we think about ourselves and the world
-datePublishedOriginal: '2016-11-25T18:58:12.220Z'
 starred: false
+datePublishedOriginal: '2016-11-25T18:58:12.220Z'
 url: william-james-realized-that-our-biology-interacts-with-our-m/index.html
 _type: Blurb
 
@@ -40,3 +40,5 @@ James on sensations, experience and our interaction if the Territory.
 'What shall we call a thing anyhow? It seems quite arbitrary, for we carve out everything, just as we carve out constellations, to suit our human purposes.' P 122
 
 'We plunge forward into the field of fresh experience with the beliefs our ancestors and we have made already; these determine what we notice; what we notice determines what we do; what we do again determines what we experience; so from one thing to another, altho the stubborn fact remains that there is a sensible flux, what is _true of it_ seems from first to last to be largely a matter of our own creation. 'P122
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUsVuoEP-ddOskbnH86T37udJ2YFbXqdkWwXtKV5WIX6ukQhVsR6vM9E6R9S7TS4bLyObsJ2FskIE1sTYNspppvgN6OkILjnA9vsrdRraQYf5-81FG2hqW_WfW47POolTOAlAf3MTMQiqAJJi5qFDGBrc69qw-YxyDimUqhPLOgSJupIKt9wfugAS4z7cXgfrAG7z6Ntv2WN9eDxAwLlEPd_whnWTi3LyTIXpsvAZuHUKgNRgfIJv3ysvkN9Ne9dMkS7Y4J7KIr4tf0WD0WeR5WYk5rySppkjVUSKeUlW-PaWSMi1JFvsApk73RB0-CkF72AWrubTCWKeL0feh-JKjmGnXt51Hikr3l8v8AUGlj6s" height="244" style=""></iframe>
