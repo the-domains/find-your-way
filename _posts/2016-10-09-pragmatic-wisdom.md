@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-22T18:44:38.987Z'
+datePublished: '2017-01-22T18:52:45.527Z'
 sourcePath: _posts/2016-10-09-pragmatic-wisdom.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-22T18:44:38.253Z'
+dateModified: '2017-01-22T18:52:44.939Z'
 title: Pragmatic Wisdom
 publisher: {}
 description: 'I listed as one of my guiding principles the phrase:'
