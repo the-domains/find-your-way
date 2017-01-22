@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-22T17:54:33.979Z'
+datePublished: '2017-01-22T17:58:09.126Z'
 sourcePath: >-
   _posts/2016-11-24-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-22T17:54:31.866Z'
+dateModified: '2017-01-22T17:58:07.923Z'
 title: >-
   1800’sa timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
