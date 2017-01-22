@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-04T15:58:22.205Z'
+datePublished: '2017-01-22T18:48:46.953Z'
 sourcePath: >-
   _posts/2016-11-05-in-1933-alfred-korzybski-discussed-the-relationship-between.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-04T15:58:19.717Z'
+dateModified: '2017-01-22T18:48:46.434Z'
 title: ''
 publisher: {}
 description: >-
@@ -46,5 +46,9 @@ Maps are also constructed when we recall objects from the inside of our brain's 
 The human brain is a mimic of the irrepressible variety. Whatever sits outside the brain---the body proper, of course, from the skin to the entrails, as well as the world around, man woman, and child, cats and dogs and places, hot weather and cold, smooth textures and rough, loud sounds and soft, sweet honey and salty fish---is mimicked inside the brain's networks. In other words, the brain has the ability to represent aspects of the structure of nonbrain things and events, which includes the actions carried out by our organism and its components, like limbs, parts of the phonatory apparatus, and so forth. How the mapping happens exactly is easier said than done. It is not a mere copy, a passive transfer from the outside of the brain toward its inside. The assembly conjured by the senses involves an active contribution offered from inside the brain, available from early in development, the idea that the brain is a blank state having long since lost favor. The assembly often occurs in the setting of movement, as noted earlier.
 
 A brief note on terminology: I used to be strict about using the term _image_ only as a synonym of mental pattern or mental image, and the term _neural pattern_ or _map_ to refer to a pattern of activity _in the brain_ as distinct from the mind. ...But why complicate matters, for myself and for the reader, by using separate terms to two things that I believe to be equivalent? Throughout this book, I use the terms _image_, _map_, and _neural pattern_ almost interchangeably. On occasion I also blur the line between mind and brain, deliberately, to underscore the fact that the distinction, while valid, can block the view of what we are trying to explain. (pp 63-65)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUsVuoEP-ddOskbnH86T37udJ2YFbXqdkWwXtKV5WIX6ukQhVsR6vM9E6R9S7TS4bLyObsJ2FskIE1sTYNspppvgN6OkILjnA9vsrdRraQYf5-81FG2hqW_WfW47POolTOAlAf3MTMQiqAJJi5qFDGBrc69qw-YxyDimUqhPLOgSJupIKt9wfugAS4z7cXgfrAG7z6Ntv2WN9eDxAwLlEPd_whnWTi3LyTIXpsvAZuHUKgNRgfIJv3ysvkN9Ne9dMkS7Y4J7KIr4tf0WD0WeR5WYk5rySppkjVUSKeUlW-PaWSMi1JFvsApk73RB0-CkF72AWrubTCWKeL0feh-JKjmGnXt51Hikr3l8v8AUGlj6s" height="244" style=""></iframe>
+
+
 
 [0]: https://en.wikipedia.org/wiki/Antonio_Damasio "Antonio Damasio at wikipedia"
