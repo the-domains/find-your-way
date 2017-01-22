@@ -5,8 +5,8 @@ description: >-
   book  Science and Sanity. I am talking of a metaphor that describes our
   relationship with ourselves and the world we live in and encounter. His terms
   were maps and territory.
-dateModified: '2016-12-12T01:23:49.008Z'
-datePublished: '2016-12-12T01:23:51.646Z'
+dateModified: '2017-01-22T17:54:31.866Z'
+datePublished: '2017-01-22T17:54:33.874Z'
 title: 'Maps, Map Making, Map Makers and the Territory'
 author: []
 publisher: {}
