@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-12-12T01:23:51.776Z'
+datePublished: '2017-01-22T17:54:33.925Z'
 sourcePath: >-
   _posts/2016-12-04-ive-created-a-timeline-of-selected-events-in-the-western-wo.md
 inFeed: true
 author: []
 via: {}
-datePublishedOriginal: '2016-12-04T15:37:20.749Z'
-dateModified: '2016-12-12T01:23:49.008Z'
+dateModified: '2017-01-22T17:54:31.866Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,6 +21,7 @@ description: >-
   world. I call these timelines the history of the natural light, the hidden
   light and the ever present darkness.
 starred: false
+datePublishedOriginal: '2016-12-04T15:37:20.749Z'
 _type: Blurb
 
 ---
