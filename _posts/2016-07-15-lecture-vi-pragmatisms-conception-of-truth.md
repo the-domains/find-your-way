@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-12T01:23:51.792Z'
+datePublished: '2017-01-22T18:49:47.397Z'
 sourcePath: _posts/2016-07-15-lecture-vi-pragmatisms-conception-of-truth.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T01:23:49.008Z'
+dateModified: '2017-01-22T18:49:46.488Z'
 title: Who is William James and why should you care?
 publisher: {}
 description: From the Internet Encyclopedia of Philosophy
-datePublishedOriginal: '2016-11-25T18:58:12.227Z'
 starred: false
+datePublishedOriginal: '2016-11-25T18:58:12.227Z'
 url: who-is-william-james-and-why-should-i-care/index.html
 _type: MediaObject
 
@@ -58,6 +58,10 @@ _It is astonishing to see how many philosophical disputes collapse into insignif
 _If you follow **the pragmatic method**...you must bring out each word its practical cash-value, set it at work within the stream of your experience. It appears less as a solution, then, **than as a program for more work**, and more particularly **as an indication of the ways in which existing realities may be changed.** Theories thus become instruments, not answers to enigmas, in which we can rest_. (31-32)
 
 \[GMJ: emphasis added. \]
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUsVuoEP-ddOskbnH86T37udJ2YFbXqdkWwXtKV5WIX6ukQhVsR6vM9E6R9S7TS4bLyObsJ2FskIE1sTYNspppvgN6OkILjnA9vsrdRraQYf5-81FG2hqW_WfW47POolTOAlAf3MTMQiqAJJi5qFDGBrc69qw-YxyDimUqhPLOgSJupIKt9wfugAS4z7cXgfrAG7z6Ntv2WN9eDxAwLlEPd_whnWTi3LyTIXpsvAZuHUKgNRgfIJv3ysvkN9Ne9dMkS7Y4J7KIr4tf0WD0WeR5WYk5rySppkjVUSKeUlW-PaWSMi1JFvsApk73RB0-CkF72AWrubTCWKeL0feh-JKjmGnXt51Hikr3l8v8AUGlj6s" height="244" style=""></iframe>
+
+
 
 [0]: http://www.iep.utm.edu/james-o/
 [1]: http://society.wjsociety.org/ "William James Society web site"
