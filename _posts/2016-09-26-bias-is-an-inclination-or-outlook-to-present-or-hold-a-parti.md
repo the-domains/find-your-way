@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-12T01:23:51.806Z'
+datePublished: '2017-01-22T18:46:05.026Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T01:23:49.008Z'
+dateModified: '2017-01-22T18:46:04.439Z'
 title: ''
 publisher: {}
 description: >-
@@ -62,3 +62,5 @@ To overcome a bias is possible but it is difficult and requires conscious, delib
 _'We cannot _teach_people to withhold judgment; judgments are embedded in the way we view objects. I do not see a "tree"; I see a pleasant or an ugly tree. It is not possible without great, paralyzing effort to strip those small values we attach to matters. Likewise, it is not possible to hold a situation in one's head without some element of bias. Something our dear human nature makes us want to believe; so what?'_
 
 From Nassim Nicholas Taleb's _The Black Swan: The impact of the Highly Improbable_. Random House, 2007, p. 202
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUsVuoEP-ddOskbnH86T37udJ2YFbXqdkWwXtKV5WIX6ukQhVsR6vM9E6R9S7TS4bLyObsJ2FskIE1sTYNspppvgN6OkILjnA9vsrdRraQYf5-81FG2hqW_WfW47POolTOAlAf3MTMQiqAJJi5qFDGBrc69qw-YxyDimUqhPLOgSJupIKt9wfugAS4z7cXgfrAG7z6Ntv2WN9eDxAwLlEPd_whnWTi3LyTIXpsvAZuHUKgNRgfIJv3ysvkN9Ne9dMkS7Y4J7KIr4tf0WD0WeR5WYk5rySppkjVUSKeUlW-PaWSMi1JFvsApk73RB0-CkF72AWrubTCWKeL0feh-JKjmGnXt51Hikr3l8v8AUGlj6s" height="244" style=""></iframe>
