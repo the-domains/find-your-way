@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-12T01:23:51.792Z'
+datePublished: '2017-01-22T17:54:33.941Z'
 sourcePath: >-
   _posts/2016-11-25-a-very-idiosyncratic-chronology-of-selected-events-in-the-we.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T01:23:49.008Z'
+dateModified: '2017-01-22T17:54:31.866Z'
 title: >-
   1500’s a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World.
@@ -19,8 +19,8 @@ description: >-
   published in this format was Virgil’s Opera. This format is the invention of
   the comparatively inexpensive hand held book. Manutius is also the first
   publisher of the Greek classic texts.
-datePublishedOriginal: '2016-11-27T17:34:55.195Z'
 starred: false
+datePublishedOriginal: '2016-11-27T17:34:55.195Z'
 url: 1500s-a-timeline-of-natural-light-the-hidden-light-and-th/index.html
 _type: Blurb
 
