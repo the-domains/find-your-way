@@ -2,11 +2,11 @@
 inFeed: true
 description: >-
   I am building off a relationship that Alfred Korzybski described in his 1933
-  book  Science and Sanity. I am talking of a metaphor that describes our
+  book Science and Sanity. I am talking of a metaphor that describes our
   relationship with ourselves and the world we live in and encounter. His terms
   were maps and territory.
-dateModified: '2017-01-22T18:36:10.535Z'
-datePublished: '2017-01-22T18:36:15.568Z'
+dateModified: '2017-01-22T18:46:30.405Z'
+datePublished: '2017-01-22T18:46:31.099Z'
 title: 'Maps, Map Making, Map Makers and the Territory'
 author: []
 publisher: {}
@@ -45,10 +45,12 @@ We can abstract from the Territory a potential infinite amount of data in the pr
 
 Therefore we need an unending amount of finite static maps to attempt to deal with the infinite data that is available to us concerning our living in and encountering the Territory.
 
-Therefore to attempt to understand any single object, entity and or event, we could theoretically abstract an almost infinite amount of data from the available infinite data set. 
+Therefore to attempt to understand any single object, entity and or event, we could theoretically abstract an almost infinite amount of data from the available infinite data set.
 
-Therefore we need an almost infinite number of maps to understand anything. 
+Therefore we need an almost infinite number of maps to understand anything.
 
 We are only finite beings who think in finite static manner who feebly attempt to make our maps of the infinite dynamic, fluid reality called the Territory.
 
 Our maps will never be adequate or anywhere enough.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUsVuoEP-ddOskbnH86T37udJ2YFbXqdkWwXtKV5WIX6ukQhVsR6vM9E6R9S7TS4bLyObsJ2FskIE1sTYNspppvgN6OkILjnA9vsrdRraQYf5-81FG2hqW_WfW47POolTOAlAf3MTMQiqAJJi5qFDGBrc69qw-YxyDimUqhPLOgSJupIKt9wfugAS4z7cXgfrAG7z6Ntv2WN9eDxAwLlEPd_whnWTi3LyTIXpsvAZuHUKgNRgfIJv3ysvkN9Ne9dMkS7Y4J7KIr4tf0WD0WeR5WYk5rySppkjVUSKeUlW-PaWSMi1JFvsApk73RB0-CkF72AWrubTCWKeL0feh-JKjmGnXt51Hikr3l8v8AUGlj6s" height="244" style=""></iframe>
