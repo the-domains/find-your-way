@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-11-26T18:50:41.938Z'
+datePublished: '2017-01-22T18:54:25.961Z'
 sourcePath: _posts/2016-09-14-who-was-alfred-korzybski-and-why-should-i-know-him.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-26T18:50:32.428Z'
+dateModified: '2017-01-22T18:54:25.450Z'
 title: ''
 publisher: {}
 description: Who was Alfred Korzybski and why should I know something about him?
 starred: false
+datePublishedOriginal: '2016-11-26T18:50:41.938Z'
 url: who-was-alfred-korzybski-and-why-should-i-know-something-abo/index.html
 _type: Blurb
 
@@ -41,5 +42,9 @@ Korzybski then reasoned and realized that they both depended on what he called n
 I hope I have piqued your interest on who Korzybski was. My own pragmatic orienting system relies on the points that I've mentioned above. More details on later blogs....so stay tuned.
 
 Posted September 14, 2016
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUsVuoEP-ddOskbnH86T37udJ2YFbXqdkWwXtKV5WIX6ukQhVsR6vM9E6R9S7TS4bLyObsJ2FskIE1sTYNspppvgN6OkILjnA9vsrdRraQYf5-81FG2hqW_WfW47POolTOAlAf3MTMQiqAJJi5qFDGBrc69qw-YxyDimUqhPLOgSJupIKt9wfugAS4z7cXgfrAG7z6Ntv2WN9eDxAwLlEPd_whnWTi3LyTIXpsvAZuHUKgNRgfIJv3ysvkN9Ne9dMkS7Y4J7KIr4tf0WD0WeR5WYk5rySppkjVUSKeUlW-PaWSMi1JFvsApk73RB0-CkF72AWrubTCWKeL0feh-JKjmGnXt51Hikr3l8v8AUGlj6s" height="244" style=""></iframe>
+
+
 
 [0]: https://en.wikipedia.org/wiki/Alfred_Korzybski "Wikipedia"
