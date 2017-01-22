@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T01:23:51.800Z'
+datePublished: '2017-01-22T18:50:30.162Z'
 sourcePath: _posts/2016-10-02-the-embodied-mind-neural-beings-must-categorize.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T01:23:49.008Z'
+dateModified: '2017-01-22T18:50:29.565Z'
 title: ''
 publisher: {}
 description: 'The Embodied Mind: Neural Beings Must Categorize'
@@ -34,3 +34,5 @@ _**The Inseparability of Categories, Concepts, and Experience**_
 _...Categorization is thus not a purely intellectual matter, occurring after the fact of experience. Rather, the formation and use of categorizes is the stuff of experience. It is part of what our bodies and brains are constantly engaged in. We cannot, as some meditative traditions suggest, "get beyond" our categories and have purely uncategorized and unconceptualized experience, Neural beings cannot do that._
 
 From George Lakoff and Mark Johnson's _Philosophy in The Flesh: The Embodied Mind and its Challenge to Western Thought_. 1999, Basic Books, p 17-19
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUsVuoEP-ddOskbnH86T37udJ2YFbXqdkWwXtKV5WIX6ukQhVsR6vM9E6R9S7TS4bLyObsJ2FskIE1sTYNspppvgN6OkILjnA9vsrdRraQYf5-81FG2hqW_WfW47POolTOAlAf3MTMQiqAJJi5qFDGBrc69qw-YxyDimUqhPLOgSJupIKt9wfugAS4z7cXgfrAG7z6Ntv2WN9eDxAwLlEPd_whnWTi3LyTIXpsvAZuHUKgNRgfIJv3ysvkN9Ne9dMkS7Y4J7KIr4tf0WD0WeR5WYk5rySppkjVUSKeUlW-PaWSMi1JFvsApk73RB0-CkF72AWrubTCWKeL0feh-JKjmGnXt51Hikr3l8v8AUGlj6s" height="244" style=""></iframe>
