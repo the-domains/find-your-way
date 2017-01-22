@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-22T18:06:35.574Z'
+datePublished: '2017-01-22T18:36:16.550Z'
 sourcePath: >-
   _posts/2016-11-27-1900-1940-a-timeline-of-natural-light-the-hidden-light-and.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-22T18:06:31.251Z'
+dateModified: '2017-01-22T18:36:10.535Z'
 title: >-
   1900-1940 a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
