@@ -26,6 +26,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/189e5d04-96db-4b12-b750-96182c02129d.jpg
 name: Find Your Way
+url: 'https://garyjaron.com'
 navigation:
   - name: 'Read this first: A Guide to this blog site'
     id: a9a439b6-60e1-45ec-b4a5-c6c2d2beee17
@@ -99,6 +100,9 @@ navigation:
   - name: Timeline 1900-1940 CE
     id: 16b46111-4824-4102-8456-c7972410b891
     type: content
+  - name: Reality of Everyday Life
+    id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
 title: Gary Jaron_Find Your Way
@@ -111,4 +115,3 @@ purpose:
   - type: external
     url: 'https://www.facebook.com/garyjaron'
     label: Gary Jaron Facebook page
-url: 'https://garyjaron.com'
