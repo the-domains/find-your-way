@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-28T16:23:01.497Z'
+datePublished: '2017-01-28T16:48:48.254Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T16:22:41.717Z'
+dateModified: '2017-01-28T16:48:38.742Z'
 title: ''
 publisher: {}
 description: >-
@@ -16,10 +16,13 @@ description: >-
   theoretical or religious contemplation, I have to make an extreme transition.
   The world of everyday life proclaims itself and, when I want to challenge the
   proclamation, I must engage in a deliberate, by no means easy effort.’
-starred: false
 sourcePath: >-
   _posts/2016-08-28-the-reality-of-everyday-life-is-taken-for-granted-as-realit.md
-_type: Blurb
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-01-28T16:48:48.254Z'
+url: the-reality-of-everyday-life-is-taken-for-granted-as-realit/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b93c2e-7331-4837-904f-483345f1e387.jpg)
