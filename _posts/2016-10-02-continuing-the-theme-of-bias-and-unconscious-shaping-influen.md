@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-22T18:36:16.048Z'
+datePublished: '2017-01-28T16:52:11.292Z'
 sourcePath: >-
   _posts/2016-10-02-continuing-the-theme-of-bias-and-unconscious-shaping-influen.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-22T18:36:10.535Z'
+dateModified: '2017-01-28T16:52:08.605Z'
 title: ''
 publisher: {}
 description: Continuing the theme of Bias and unconscious shaping influences.
@@ -39,5 +39,9 @@ A few facts: Jules Henri Poincaré, Born: April 29, 1854, Nancy, France, Died: J
 From Robert M. Pirsig's _Zen and the Art of Motorcycle Maintenance: An Inquiry into Values_, 1974, 1979, Quill William Morrow, p 259\.
 
 [https://en.wikipedia.org/wiki/Henri\_Poincare][0]
+
+<article style=""><h1>Henri Poincaré - Wikipedia</h1><p>Jules Henri Poincaré ( French: [ʒyl ɑ̃ʁi pwɛ̃kaʁe]; 29 April 1854 - 17 July 1912) was a French mathematician, theoretical physicist, engineer, and philosopher of science. He is often described as a polymath, and in mathematics as The Last Universalist by Eric Temple Bell, since he excelled in all fields of the discipline as it existed during his lifetime.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Henri_Poincar%C3%A9-2.jpg/230px-Henri_Poincar%C3%A9-2.jpg" /></article>
+
+
 
 [0]: https://en.wikipedia.org/wiki/Henri_Poincare
