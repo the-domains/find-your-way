@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-22T18:36:15.628Z'
+datePublished: '2017-01-28T16:52:40.596Z'
 sourcePath: >-
   _posts/2016-12-04-ive-created-a-timeline-of-selected-events-in-the-western-wo.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-22T18:36:10.535Z'
+dateModified: '2017-01-28T16:52:39.775Z'
 title: ''
 publisher: {}
 description: >-
