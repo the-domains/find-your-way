@@ -103,6 +103,9 @@ navigation:
   - name: Reality of Everyday Life
     id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
     type: content
+  - name: 'Bond, James Bond'
+    id: ff3e205b-c58a-44ac-bb8c-68def827acc5
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
 title: Gary Jaron_Find Your Way
