@@ -1,25 +1,30 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   I’m a James Bond fan from my first seeing Dr No when it came to our local
   theatre back in May of 1963. I was nine years old and hooked!
-dateModified: '2017-02-16T20:13:47.729Z'
-datePublished: '2017-02-16T20:13:48.409Z'
+dateModified: '2017-02-16T20:25:51.037Z'
+datePublished: '2017-02-16T20:25:53.912Z'
 title: 'Bond, James Bond and the movie Franchise'
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-02-16-bond-james-bond-and-the-movie-franchise.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-16T20:13:48.409Z'
-sourcePath: _posts/2017-02-16-bond-james-bond-and-the-movie-franchise.md
+url: bond-james-bond-and-the-movie-franchise/index.html
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a77a3b49-6ef1-4a38-b493-5203bd213f05.jpg)
+
 ## _Bond, James Bond_ and the movie Franchise
 
 I'm a James Bond fan from my first seeing Dr No when it came to our local theatre back in May of 1963\. I was nine years old and hooked!
 
 Of course, the Bond that I was imprinted with was Sean Connery and he is the touchstone of my image of Bond.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7be07f0a-429e-4d59-a558-09a27626c918.jpg)
 
 As we all know the conceit behind the film franchise is that though the actors may change they are always playing the same persons. This goes for James Bond, M, Money Penny, Felix Leiter, etc.
 
@@ -60,18 +65,9 @@ the word retcon".  Cugley used the neologism to describe a development in the co
 
 \*\*\*
 
-Throughout the Craig films MI6 is constantly under scrutiny
-by the British Government, especially the parliament, and the 00 agents in
-particularly are threaten with being shut down. Each movie shows the triumph
-and the continually need for the 00 agents and MI6 due to the activities of
-Bond, Q , Money Penny and M.
+Throughout the Craig films MI6 is constantly under scrutiny by the British Government, especially the parliament, and the 00 agents in particularly are threaten with being shut down. Each movie shows the triumph and the continually need for the 00 agents and MI6 due to the activities of Bond, Q , Money Penny and M.
 
-We and the franchise are now at a cross roads. Craig is due
-to retire as the current actor playing Bond. All the effort that has gone in to
-portraying a 'realistic' history for the characters is about to be challenged
-by the insertion of a new actor into the role of Bond. The usual and obvious
-move for the Franchise is to simply continue the way it has and keep up the
-pretense that the fact that new actors play the character we are to pretend
+We and the franchise are now at a cross roads. Craig is due to retire as the current actor playing Bond. All the effort that has gone in to portraying a 'realistic' history for the characters is about to be challenged by the insertion of a new actor into the role of Bond. The usual and obvious move for the Franchise is to simply continue the way it has and keep up the pretense that the fact that new actors play the character we are to pretend
 that this is still the same man, Bond.
 
 I want to speculate on something radically new and different. Something a bit heretical.
@@ -114,5 +110,10 @@ This gives us and the franchise a chance to redo the plot line of _Her Majesty's
 I doubt that the movie franchise will take this tact. But I wish it would. It would bring a whole new depth and level of 'reality' to the ongoing films.
 
 Long live James Bond 007!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f0ef0fc-9bac-4313-877b-f16c0a0e1e36.png)
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUcVqoEP8ddyuIWxx_es9-rrQdmNV1arZF8D6mq0rQ1yqpUAXbxVVmeqei9S7TS4ZLYnP2lTA2yMAaqk2DrGaa7yA-HKEFF3E9PsvdRraQYf569VYSbQ3L_jPr8VFnJJWzALEPbmJmIRVARpg5Uiipwa2mntVnjGNQVKZCKO8cqMiNVLD1_sAdRAHu_eVJoD7wBi8-zbY91teXAwSkJerhht-lkwzNzTsZyGPjNXDrEEJcg_EBsnmvvEy-M-1VP02yZItzIgt6_foVDZLPIs_LSsx5JUk1RaqOEvGUqvLtKZWUaRllsQ9g6nQfY4f3QsQ97ILVXFphrNPF6PtQfMhRzLTr285jJKXbv8v8ANFaj7U" height="244" style=""></iframe>
+
+
 
 [0]: https://en.wikipedia.org/wiki/Retroactive_continuity
