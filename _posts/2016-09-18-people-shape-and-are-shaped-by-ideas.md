@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-04T15:58:22.177Z'
+datePublished: '2017-03-10T15:57:20.330Z'
 sourcePath: _posts/2016-09-18-people-shape-and-are-shaped-by-ideas.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-04T15:58:19.717Z'
+dateModified: '2017-03-10T15:57:19.807Z'
 title: ''
 publisher: {}
 description: 'A few of my guiding principles:'
@@ -22,3 +22,7 @@ A few of my guiding principles:
 **2) The beginning of wisdom is the realization that you might be mistaken; mistaken in your observations, your analysis, and/or your conclusions.**
 
 **3) Unexpected invitations are dancing lessons from the Divine.**
+
+**4) If, and when, you react emotionally to something, some event, some experience, or some idea, that reaction is evidence of your bias making itself known to you. The intensity of your reaction is an indicator of how intensely you value, or how old that bias was acquired. You are indifferent to stuff that is unimportant to you.**
+
+**5) Do not confused or mistake utility for accuracy. Maps of the Territory are made to be useful, but that does not guarantee their accuracy and no single map is every a complete description of the Territory.**
