@@ -94,6 +94,9 @@ navigation:
   - name: Timeline 1700's CE
     id: a4cdc8b3-f757-4238-acb1-8739e04ee6e0
     type: content
+  - name: 'Blog 13) Bond, James Bond'
+    id: ff3e205b-c58a-44ac-bb8c-68def827acc5
+    type: content
   - name: Timeline 1800's CE
     id: 7cfcd405-dcaa-46f7-86d2-5f9cbc497c56
     type: content
@@ -102,9 +105,6 @@ navigation:
     type: content
   - name: Blog 12) Reality of Everyday Life
     id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
-    type: content
-  - name: 'Blog 13) Bond, James Bond'
-    id: ff3e205b-c58a-44ac-bb8c-68def827acc5
     type: content
   - name: Blog 14) Maps of the Territory built upon the fact of birth and death
     id: 5af9d35c-0c6e-413d-8ee7-5fdaa9e05810
