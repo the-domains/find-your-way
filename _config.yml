@@ -100,7 +100,7 @@ navigation:
   - name: Timeline 1900-1940 CE
     id: 16b46111-4824-4102-8456-c7972410b891
     type: content
-  - name: Reality of Everyday Life
+  - name: Blog 12) Reality of Everyday Life
     id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
     type: content
   - name: 'Blog 12) Bond, James Bond'
@@ -130,7 +130,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
