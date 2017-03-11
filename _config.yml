@@ -73,6 +73,9 @@ navigation:
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
+  - name: Blog 14) Maps of the Territory built upon the fact of birth and death
+    id: 5af9d35c-0c6e-413d-8ee7-5fdaa9e05810
+    type: content
   - name: 'Jarons and Jermanoks: It’s a family thing….'
     id: 636895ce-040a-4542-b066-ae5ed3a01c00
     type: content
@@ -84,9 +87,6 @@ navigation:
     type: content
   - name: Timeline 1000-1100 CE
     id: 1c76f1ce-04cc-40f4-b535-fd035bfa3237
-    type: content
-  - name: Blog 14) Maps of the Territory built upon the fact of birth and death
-    id: 5af9d35c-0c6e-413d-8ee7-5fdaa9e05810
     type: content
   - name: Timeline 1200-1300 CE
     id: 351776d2-f705-42fa-a96e-22d8c6d8b3ed
