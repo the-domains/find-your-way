@@ -106,6 +106,9 @@ navigation:
   - name: 'Blog 12) Bond, James Bond'
     id: ff3e205b-c58a-44ac-bb8c-68def827acc5
     type: content
+  - name: Maps of the Territory built upon the fact of birth and death
+    id: 5af9d35c-0c6e-413d-8ee7-5fdaa9e05810
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
 title: Gary Jaron_Find Your Way
