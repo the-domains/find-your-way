@@ -88,14 +88,14 @@ navigation:
   - name: Timeline 1500's CE
     id: 36b45054-6b87-4694-a85a-1449ed612443
     type: content
+  - name: 'Blog 13) Bond, James Bond'
+    id: ff3e205b-c58a-44ac-bb8c-68def827acc5
+    type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
     type: content
   - name: Timeline 1700's CE
     id: a4cdc8b3-f757-4238-acb1-8739e04ee6e0
-    type: content
-  - name: 'Blog 13) Bond, James Bond'
-    id: ff3e205b-c58a-44ac-bb8c-68def827acc5
     type: content
   - name: Timeline 1800's CE
     id: 7cfcd405-dcaa-46f7-86d2-5f9cbc497c56
