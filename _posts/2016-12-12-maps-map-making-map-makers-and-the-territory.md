@@ -1,19 +1,21 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   I am building off a relationship that Alfred Korzybski described in his 1933
   book Science and Sanity. I am talking of a metaphor that describes our
   relationship with ourselves and the world we live in and encounter. His terms
   were maps and territory.
-dateModified: '2017-03-11T23:55:32.191Z'
-datePublished: '2017-03-11T23:55:33.483Z'
+dateModified: '2017-03-11T23:56:11.236Z'
+datePublished: '2017-03-11T23:56:11.749Z'
 title: 'Maps, Map Making, Map Makers and the Territory'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-12-12-maps-map-making-map-makers-and-the-territory.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-12T01:23:17.655Z'
+url: maps-map-making-map-makers-and-the-territory/index.html
 _type: Blurb
 
 ---
