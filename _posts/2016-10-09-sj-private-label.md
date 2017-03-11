@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-11T17:04:04.516Z'
+datePublished: '2017-03-11T17:11:42.907Z'
 sourcePath: _posts/2016-10-09-sj-private-label.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-11T17:04:02.683Z'
+dateModified: '2017-03-11T17:11:42.340Z'
 title: It’s a family thing….
 publisher: {}
 description: 'My Dad, Seymour Jaron'
