@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: You feel but have no means to understand those feelings.
-dateModified: '2017-03-11T23:08:29.572Z'
-datePublished: '2017-03-11T23:23:13.275Z'
+dateModified: '2017-03-11T23:24:01.630Z'
+datePublished: '2017-03-11T23:24:02.640Z'
 title: When you are born you are potential.
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-11-when-you-are-born-you-are-potential.md
 starred: false
 datePublishedOriginal: '2017-03-11T23:23:13.275Z'
-sourcePath: _posts/2017-03-11-when-you-are-born-you-are-potential.md
 url: when-you-are-born-you-are-potential/index.html
 _type: Article
 
