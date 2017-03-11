@@ -67,14 +67,14 @@ navigation:
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
+  - name: 'Blog 13) Bond, James Bond'
+    id: ff3e205b-c58a-44ac-bb8c-68def827acc5
+    type: content
   - name: 'Jarons and Jermanoks: It’s a family thing….'
     id: 636895ce-040a-4542-b066-ae5ed3a01c00
     type: content
   - name: Timeline 2000 BCE- 1 CE
     id: 668fb842-6358-479a-b26c-299713e4ab95
-    type: content
-  - name: 'Blog 13) Bond, James Bond'
-    id: ff3e205b-c58a-44ac-bb8c-68def827acc5
     type: content
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
