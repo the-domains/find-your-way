@@ -1,15 +1,15 @@
 ---
-datePublished: '2017-03-11T17:04:04.387Z'
+datePublished: '2017-03-11T17:11:42.920Z'
 sourcePath: >-
   _posts/2016-08-28-at-birth-we-are-on-the-threshold-of-our-true-journey-into-t.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-03-11T17:04:02.683Z'
+dateModified: '2017-03-11T17:11:42.340Z'
 title: ''
 publisher: {}
 description: >-
-  At birth, we are on the threshold of our true journey into the human
+  At birth, you are on the threshold of your true journey into the human
   community.
 starred: false
 datePublishedOriginal: '2017-03-11T17:03:21.312Z'
@@ -18,16 +18,16 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acb1c708-9367-405d-96e9-848ec8eefccc.jpg)
 
-At birth, we are on the threshold of our true journey into the human community.
+At birth, you are on the threshold of your true journey into the human community.
 
-We are uncarved blocks awaiting artisans' hands and insights.
+You are uncarved blocks awaiting artisans' hands and insights.
 
-From the moment of creation, we are potential.
+From the moment of creation, you are potential.
 
-At that moment, how we unfold and where we wander was shaped by unseen and unknown factors.
+At that moment, how you unfold and where you will wander was shaped by unseen factors.
 
 But not unknowable.
 
-The shaping by those factors is hidden deep in the darkness of the unconscious mind.
+The shaping by those factors is hidden deep in the darkness of your unconscious minds.
 
-If we truly want to know ourselves, to truly find our way, we need to bring those factors that shaped us into the light of the conscious mind, in a place where we can make conscious use of them.
+If we truly want to know ourselves, you need to bring those factors that shaped you into the light of your conscious mind. By doing this, you can make conscious use of them to change who you are and to help you to find your way.
