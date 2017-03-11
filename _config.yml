@@ -85,6 +85,9 @@ navigation:
   - name: Timeline 1000-1100 CE
     id: 1c76f1ce-04cc-40f4-b535-fd035bfa3237
     type: content
+  - name: Blog 14) Maps of the Territory built upon the fact of birth and death
+    id: 5af9d35c-0c6e-413d-8ee7-5fdaa9e05810
+    type: content
   - name: Timeline 1200-1300 CE
     id: 351776d2-f705-42fa-a96e-22d8c6d8b3ed
     type: content
@@ -96,9 +99,6 @@ navigation:
     type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
-    type: content
-  - name: Blog 14) Maps of the Territory built upon the fact of birth and death
-    id: 5af9d35c-0c6e-413d-8ee7-5fdaa9e05810
     type: content
   - name: Timeline 1700's CE
     id: a4cdc8b3-f757-4238-acb1-8739e04ee6e0
