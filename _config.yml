@@ -76,6 +76,9 @@ navigation:
   - name: Timeline 2000 BCE- 1 CE
     id: 668fb842-6358-479a-b26c-299713e4ab95
     type: content
+  - name: Blog 12) Reality of Everyday Life
+    id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
+    type: content
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
     type: content
@@ -84,9 +87,6 @@ navigation:
     type: content
   - name: Timeline 1200-1300 CE
     id: 351776d2-f705-42fa-a96e-22d8c6d8b3ed
-    type: content
-  - name: Blog 12) Reality of Everyday Life
-    id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
     type: content
   - name: Timeline 1400's CE
     id: f0233f7a-4504-4944-afd2-b84e77e345c4
