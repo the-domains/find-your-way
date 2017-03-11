@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-11T17:04:04.504Z'
+datePublished: '2017-03-11T17:11:42.906Z'
 sourcePath: _posts/2016-07-15-find-your-way.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-11T17:04:02.683Z'
+dateModified: '2017-03-11T17:11:42.340Z'
 title: ''
 publisher: {}
 description: This site will explain and explore my Pragmatic Orienting Philosophy.
