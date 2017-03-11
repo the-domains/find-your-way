@@ -85,6 +85,9 @@ navigation:
   - name: Timeline 1200-1300 CE
     id: 351776d2-f705-42fa-a96e-22d8c6d8b3ed
     type: content
+  - name: Blog 12) Reality of Everyday Life
+    id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
+    type: content
   - name: Timeline 1400's CE
     id: f0233f7a-4504-4944-afd2-b84e77e345c4
     type: content
@@ -93,9 +96,6 @@ navigation:
     type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
-    type: content
-  - name: Blog 12) Reality of Everyday Life
-    id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
     type: content
   - name: Timeline 1700's CE
     id: a4cdc8b3-f757-4238-acb1-8739e04ee6e0
