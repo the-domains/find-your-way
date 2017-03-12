@@ -79,6 +79,9 @@ navigation:
   - name: 'Jarons and Jermanoks: It’s a family thing….'
     id: 636895ce-040a-4542-b066-ae5ed3a01c00
     type: content
+  - name: Blog 15) Map making and map makers
+    id: 05041018-a509-4b54-8c4e-01be3ef58621
+    type: content
   - name: Timeline 2000 BCE- 1 CE
     id: 668fb842-6358-479a-b26c-299713e4ab95
     type: content
@@ -96,9 +99,6 @@ navigation:
     type: content
   - name: Timeline 1500's CE
     id: 36b45054-6b87-4694-a85a-1449ed612443
-    type: content
-  - name: Blog 15) Map making and map makers
-    id: 05041018-a509-4b54-8c4e-01be3ef58621
     type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
