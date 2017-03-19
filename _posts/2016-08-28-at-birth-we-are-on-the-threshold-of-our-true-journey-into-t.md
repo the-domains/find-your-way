@@ -1,19 +1,21 @@
 ---
-datePublished: '2017-03-11T23:55:33.533Z'
+datePublished: '2017-03-19T17:51:47.876Z'
 sourcePath: >-
   _posts/2016-08-28-at-birth-we-are-on-the-threshold-of-our-true-journey-into-t.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-03-11T23:55:32.191Z'
+dateModified: '2017-03-19T17:51:47.237Z'
 title: ''
 publisher: {}
 description: >-
   At birth, you are on the threshold of your true journey into the human
   community.
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-11T17:03:21.312Z'
-_type: Blurb
+url: at-birth-you-are-on-the-threshold-of-your-true-journey-into/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acb1c708-9367-405d-96e9-848ec8eefccc.jpg)
