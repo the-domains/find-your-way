@@ -79,6 +79,9 @@ navigation:
   - name: Blog 16) When you are born
     id: 5724cb9f-a639-43d9-ac78-c50b83b21ab2
     type: content
+  - name: Blog 17) At birth you are potential
+    id: 58db2208-3b50-47d0-bc07-3ff8d884966e
+    type: content
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
@@ -87,9 +90,6 @@ navigation:
     type: content
   - name: Timeline 2000 BCE- 1 CE
     id: 668fb842-6358-479a-b26c-299713e4ab95
-    type: content
-  - name: Blog 17) At birth you are potential
-    id: 58db2208-3b50-47d0-bc07-3ff8d884966e
     type: content
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
