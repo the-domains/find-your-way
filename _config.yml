@@ -76,6 +76,9 @@ navigation:
   - name: Blog 15) Map making and map makers
     id: 05041018-a509-4b54-8c4e-01be3ef58621
     type: content
+  - name: Blog 16) When you are born
+    id: 5724cb9f-a639-43d9-ac78-c50b83b21ab2
+    type: content
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
@@ -99,9 +102,6 @@ navigation:
     type: content
   - name: Timeline 1500's CE
     id: 36b45054-6b87-4694-a85a-1449ed612443
-    type: content
-  - name: Blog 16) When you are born
-    id: 5724cb9f-a639-43d9-ac78-c50b83b21ab2
     type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
