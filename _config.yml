@@ -91,14 +91,14 @@ navigation:
   - name: Timeline 2000 BCE- 1 CE
     id: 668fb842-6358-479a-b26c-299713e4ab95
     type: content
+  - name: Blog 17) Universe and Cosmos
+    id: c88286a6-afa8-4870-87d6-2806e1e7b2ac
+    type: content
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
     type: content
   - name: Timeline 1000-1100 CE
     id: 1c76f1ce-04cc-40f4-b535-fd035bfa3237
-    type: content
-  - name: Blog 17) Universe and Cosmos
-    id: c88286a6-afa8-4870-87d6-2806e1e7b2ac
     type: content
   - name: Timeline 1200-1300 CE
     id: 351776d2-f705-42fa-a96e-22d8c6d8b3ed
