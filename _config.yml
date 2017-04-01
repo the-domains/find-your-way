@@ -97,6 +97,9 @@ navigation:
   - name: Timeline 1000-1100 CE
     id: 1c76f1ce-04cc-40f4-b535-fd035bfa3237
     type: content
+  - name: Blog 17) Universe and Cosmos
+    id: c88286a6-afa8-4870-87d6-2806e1e7b2ac
+    type: content
   - name: Timeline 1200-1300 CE
     id: 351776d2-f705-42fa-a96e-22d8c6d8b3ed
     type: content
@@ -105,9 +108,6 @@ navigation:
     type: content
   - name: Timeline 1500's CE
     id: 36b45054-6b87-4694-a85a-1449ed612443
-    type: content
-  - name: Blog 17) Universe and Cosmos
-    id: c88286a6-afa8-4870-87d6-2806e1e7b2ac
     type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
