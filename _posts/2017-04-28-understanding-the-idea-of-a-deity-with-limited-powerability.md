@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Understanding the idea of a Deity with limited power/ability.
-dateModified: '2017-04-28T15:54:48.421Z'
-datePublished: '2017-04-28T15:54:49.066Z'
+dateModified: '2017-04-28T15:55:36.014Z'
+datePublished: '2017-04-28T15:55:36.522Z'
 title: ''
 author: []
 publisher: {}
@@ -16,6 +16,8 @@ url: understanding-the-idea-of-a-deity-with-limited-powerability/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afcba68e-f0a8-4636-9893-a61ece84b66f.jpg)
+
 Understanding the idea of a Deity with limited power/ability.
 
 April 25, 2017
