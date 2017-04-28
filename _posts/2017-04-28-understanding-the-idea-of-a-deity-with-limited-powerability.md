@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Understanding the idea of a Deity with limited power/ability.
-dateModified: '2017-04-28T15:56:49.820Z'
-datePublished: '2017-04-28T15:56:50.335Z'
+dateModified: '2017-04-28T15:58:50.433Z'
+datePublished: '2017-04-28T15:58:50.558Z'
 title: ''
 author: []
 publisher: {}
