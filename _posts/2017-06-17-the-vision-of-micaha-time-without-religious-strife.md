@@ -4,15 +4,15 @@ description: >-
   To understand what I am about to tell you may require you to suspend what you
   believe you already know. What you know will more than likely act as a filter
   and prevent you from considering something new. Can you suspend belief?
-dateModified: '2017-06-17T22:45:56.240Z'
-datePublished: '2017-06-17T22:45:56.706Z'
+dateModified: '2017-06-17T22:47:12.871Z'
+datePublished: '2017-06-17T22:47:13.882Z'
 title: The Vision of Micah….a time without religious strife.
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-17-the-vision-of-micaha-time-without-religious-strife.md
 starred: false
 datePublishedOriginal: '2017-06-17T22:45:56.706Z'
-sourcePath: _posts/2017-06-17-the-vision-of-micaha-time-without-religious-strife.md
 _type: Blurb
 
 ---
