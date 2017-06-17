@@ -4,8 +4,8 @@ description: >-
   To understand what I am about to tell you may require you to suspend what you
   believe you already know. What you know will more than likely act as a filter
   and prevent you from considering something new. Can you suspend belief?
-dateModified: '2017-06-17T22:47:12.871Z'
-datePublished: '2017-06-17T22:47:13.882Z'
+dateModified: '2017-06-17T22:48:34.902Z'
+datePublished: '2017-06-17T22:48:35.340Z'
 title: The Vision of Micah….a time without religious strife.
 author: []
 publisher: {}
@@ -22,8 +22,7 @@ _type: Blurb
 
 To understand what I am about to tell you may require you to suspend what you believe you already know. What you know will more than likely act as a filter and prevent you from considering something new. Can you suspend belief?
 
-Micah was a prophet during the years 739 through 693 BCE, during the reigns of three kings of Judah, Jotham, Ahaz, and Hezekiah. Christians, Muslims, and even Jews,
-despite the fact that all three recognize that prophets such as Micah are considered valid speakers of the Divine's truth to humanity, generally overlook one of Micah's prophecies. Micah's description of the end of days is similar to Isaiah's, but with a very significant difference; the difference I believe is why his message is so often ignored.
+Micah was a prophet during the years 739 through 693 BCE, during the reigns of three kings of Judah, Jotham, Ahaz, and Hezekiah. Christians, Muslims, and even Jews, despite the fact that all three recognize that prophets such as Micah are considered valid speakers of the Divine's truth to humanity, generally overlook one of Micah's prophecies. Micah's description of the end of days is similar to Isaiah's, but with a very significant difference; the difference I believe is why his message is so often ignored.
 
 The vision of Micah that I wish to focus on leaves behind the voice of the genocidal God and the concept of herem that is depicted in the Book of _Deuteronomy_ and the Book of _Samuel_ and instead proclaims a new way to walk with God.
 
@@ -43,11 +42,10 @@ Micah described a time when nations shall give up war and turn the implements of
 
 I believe Micah's answers this question in his fifth verse.
 
-Throughout the history prior to Micah, the land we in the West call the Middle East has always been a place ravaged by war. Wars were waged by rulers who proclaimed that they
-were acting in the name of their gods, or more simply, proclaimed that they were gods themselves and thus all should bow down to them. War and religion were intricately tied together, and thus religion was the rationale for all the wars and conquests throughout the Middle East.
+Throughout the history prior to Micah, the land we in the West call the Middle East has always been a place ravaged by war. Wars were waged by rulers who proclaimed that they were acting in the name of their gods, or more simply, proclaimed that they were gods themselves and thus all should bow down to them. War and religion were intricately tied together, and thus religion was the rationale for all the wars and conquests throughout the Middle East.
 
-To imagine a time of peace would logically mean a time when there would no longer be the proclaimed reason for war---which was that one god needed to dominate all other
-gods and those who worship other gods. Religious intolerance is the often stated reason for going to war.
+To imagine a time of peace would logically mean a time when there would no longer be the proclaimed reason for war---which was that one god needed to dominate all other gods and those who worship other gods. Religious intolerance is the often stated reason for going to war.
 
-I read Micah's prophecy as an amazingly logical presentation. An amazingly realistic
-conception of the end of days when the world would be without fear and people would work in their vineyards and orchards. Micah envisions that the world embroiled in war is a world filled with religious intolerance. Therefore a world without war is a world where there exists the complete opposite of the status quo of world ruled by intolerance, a world of universal religious tolerance: '_For let all the peoples walk each one is the name of its god_'.
+I read Micah's prophecy as an amazingly logical presentation. An amazingly realistic conception of the end of days when the world would be without fear and people would work in their vineyards and orchards. Micah envisions that the world embroiled in war is a world filled with religious intolerance. Therefore a world without war is a world where there exists the complete opposite of the status quo of world ruled by intolerance, a world of universal religious tolerance: '_For let all the peoples walk each one is the name of its god_'.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUcVqoEP8ddyuIWxx_es9-rrQdmNV1arZF8D6mq0rQ1yqpUAXbxVVmeqei9S7TS4ZLYnP2lTA2yMAaqk2DrGaa7yA-HKEFF3E9PsvdRraQYf569VYSbQ3L_jPr8VFnJJWzALEPbmJmIRVARpg5Uiipwa2mntVnjGNQVKZCKO8cqMiNVLD1_sAdRAHu_eVJoD7wBi8-zbY91teXAwSkJerhht-lkwzNzTsZyGPjNXDrEEJcg_EBsnmvvEy-M-1VP02yZItzIgt6_foVDZLPIs_LSsx5JUk1RaqOEvGUqvLtKZWUaRllsQ9g6nQfY4f3QsQ97ILVXFphrNPF6PtQfMhRzLTr285jJKXbv8v8ANFaj7U" height="244" style=""></iframe>
