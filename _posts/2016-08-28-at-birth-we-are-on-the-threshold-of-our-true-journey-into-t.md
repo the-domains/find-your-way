@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-19T17:52:40.621Z'
+datePublished: '2017-06-17T22:47:13.893Z'
 sourcePath: >-
   _posts/2016-08-28-at-birth-we-are-on-the-threshold-of-our-true-journey-into-t.md
-inFeed: true
+inFeed: false
 author: []
 via: {}
-dateModified: '2017-03-19T17:52:39.585Z'
+dateModified: '2017-06-17T22:47:12.871Z'
 title: ''
 publisher: {}
 description: >-
@@ -15,7 +15,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-11T17:03:21.312Z'
 url: at-birth-you-are-on-the-threshold-of-your-true-journey-into/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acb1c708-9367-405d-96e9-848ec8eefccc.jpg)
