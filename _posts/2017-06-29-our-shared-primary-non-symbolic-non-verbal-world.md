@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Our Shared Primary Non-symbolic / Non-verbal world
-dateModified: '2017-06-29T14:23:15.552Z'
-datePublished: '2017-06-29T14:23:16.037Z'
-title: ''
+description: 'June 27, 2017'
+dateModified: '2017-06-29T14:37:53.216Z'
+datePublished: '2017-06-29T14:37:53.870Z'
+title: 'Our Shared Primary Non-symbolic / Non-verbal world: Basha'
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,9 @@ url: our-shared-primary-non-symbolic-non-verbal-world/index.html
 _type: Article
 
 ---
-Our Shared Primary Non-symbolic / Non-verbal world
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6db95663-698d-4926-a56f-3ca9d4f28fb0.jpg)
+
+## _Our Shared Primary Non-symbolic / Non-verbal world: Basha_
 
 June 27, 2017
 
@@ -46,14 +48,18 @@ She also 'knows' the sound of me snapping my fingers and of my wife whistling. T
 Basha has a sense of space and time. This ability to recognize certain aspects of spacial and temporal relationships would either make Immanuel Kant proud or completely confuse him. I'm not sure of Kant believed and/or recognized that creatures other than humans had to ability to work with some of his 'A Priori' constructs, such as time and space, that he described in his book the _Critique of Pure Reason_. Basha clearly has no ability to understand the words 'A Prioir', let alone the concepts as Kant meant them in his book. Then again, the experience of failing to understand that concepts of space and time as A Priori concepts that are part of Kant's doctrine of the transcendental ideality
 of space and time is something she has in common with a majority of people on this planet.
 
-Basha knows the difference between 'indoors' and 'outdoors'. She knows the shape of our small house. She knows where her litter box is located. She knows where her favorite chairs are that she likes to sit on and take naps on. When we move them she will sometimes go to that spot and take a nap there, as if to say, this is my area and you need to put that object back where it belongs. She knows where her food dish is located. She knows where her food and treats are kept. She knows where our beds are located and she knows that we spend time on those beds and understands that we sleep on those beds. She knows that she 'sleeps' and so does my wife and I.
+Basha knows the difference between 'indoors' and 'outdoors'. As a kitten when we had just brought her to our place, we planned on having her as a indoor only cat. She would often climb up to the windows ledges in the bedroom and would look out, she would stare out at the back glass door. She would get frantic at night and tear around throughout the house, running back and forth through all the rooms, climbing up onto any object she could and then launching herself back down to zip around. It was hard to get her to settle down at nights because of this activity. Finally I suggested that she should be let outdoors to run around and burn off that energy in the hopes that when she came back in at night she wouldn't do this and would settle down to sleep. My wife reluctantly agreed, wanting to keep her safe, but wanting to keep her sanity and get some sleep. That's when we managed to keep the bathroom windows open enough for Basha to get out but put something to keep it locked and in place. We put an outdoor table and chair next to the window to enable Basha to jump out and land on something to help her get in and out.
+
+Once we did this she was a changed cat. She would come in at night when we called and we would feed her the evening meal and she would contently settle down and sleep with us. The arrangement worked. Basha enjoyed the freedom of coming in and out of our house and would hence forth not frantically tear through the house at night. Her going in and out of the house, looking through windows and patio glass doors, going in and out of the front door all seem to demonstrate that she knows the shape, dimensions of our small house. She knows that she can go out the bathroom window, and come back into the same-shared space through the front door or vice a versa.
+
+She knows where her litter box is located. She knows where her favorite chairs are that she likes to sit on and take naps on. When we move them she will sometimes go to that spot and take a nap there, as if to say, this is my area and you need to put that object back where it belongs. She knows where her food dish is located. She knows where her food and treats are kept. She knows where our beds are located and she knows that we spend time on those beds and understands that we sleep on those beds. She knows that she 'sleeps' and so does my wife and I.
 
 Although, I am not sure she knows the difference between 'awake' and 'asleep'. Her hearing is so attuned that certain sounds will get her attention even if she is what I think that she is sleeping at the time. The sound of a can opening or her treats rattling in the container will almost immediately bring her out of sleep to come running to where that sound is being made. Hence, I am not sure how different or how she experiences the difference between sleeping and being awake. I'm sure it is different than my experience.
 I don't have that ability to react to sounds like Basha can when I am asleep. I have been told that it seems as if that nothing short of a loud explosion could wake me from a sound sleep.
 
 She will share that activity of sleep with us, by getting on the bed, lying next to us, hence demonstrating she knows the concepts 'near' and far', and then close her eyes and sleep with us. 
 
-She knows that she can go out the bathroom window, and come back into the same-shared space through the front door. She knows 'up', 'down' 'high' and 'low'. She knows that she is usually lower than us, that the floor is beneath her and that she can climb up onto couches, chairs, bookshelves, tables, beds, and other objects to get 'up' and be level with us, interacts with us and look us in the eye. She knows she can easily get 'under'/'below' beds, chairs, couches, tables, and that we have more difficulties doing the
+She knows 'up', 'down' 'high' and 'low'. She knows that she is usually lower than us, that the floor is beneath her and that she can climb up onto couches, chairs, bookshelves, tables, beds, and other objects to get 'up' and be level with us, interacts with us and look us in the eye. She knows she can easily get 'under'/'below' beds, chairs, couches, tables, and that we have more difficulties doing the
 same and that we can't get underneath them completely. Hence, she knows the concept of 'hiding', 'escaping', 'being hidden', 'being unreachable', etc. when she wants to avoid interacting with us, or wants to play with us knowing we can't as easily get to her when she is 'lower'/ 'down'/ 'under' certain objects in relationship to us.
 
 Her sense of time is so attuned that she knows that I go away most days. Though she clearly does not know where I am going and why. She knows I come back at a certain time of the day each workday. Her sense of time is so strong that she will usually, about 80% of the time, come inside and be in the house waiting for me to arrive from work. She knows that I will come in and pick her up, hold her in my arms and make sounds at her while I scratch her. She purrs when I do this and she knows that I react to that purring sound
