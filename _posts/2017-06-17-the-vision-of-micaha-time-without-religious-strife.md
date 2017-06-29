@@ -4,8 +4,8 @@ description: >-
   To understand what I am about to tell you may require you to suspend what you
   believe you already know. What you know will more than likely act as a filter
   and prevent you from considering something new. Can you suspend belief?
-dateModified: '2017-06-17T22:54:01.316Z'
-datePublished: '2017-06-17T22:54:02.053Z'
+dateModified: '2017-06-29T13:10:24.424Z'
+datePublished: '2017-06-29T13:10:25.181Z'
 title: The Vision of Micah….a time without religious strife.
 author: []
 publisher: {}
@@ -49,5 +49,9 @@ Throughout the history prior to Micah, the land we in the West call the Middle E
 To imagine a time of peace would logically mean a time when there would no longer be the proclaimed reason for war---which was that one god needed to dominate all other gods and those who worship other gods. Religious intolerance is the often stated reason for going to war.
 
 I read Micah's prophecy as an amazingly logical presentation. An amazingly realistic conception of the end of days when the world would be without fear and people would work in their vineyards and orchards. Micah envisions that the world embroiled in war is a world filled with religious intolerance. Therefore a world without war is a world where there exists the complete opposite of the status quo of world ruled by intolerance, a world of universal religious tolerance: '_For let all the peoples walk each one is the name of its god_'.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXLy8v10tMTkxJzc1M1EtNKdW3NDcxNDY30w_JSI0PyyzOzM-Lz0-L981MTswAAMkJEb0" height="244" style=""></iframe>
+
+Here is a link to my complete paper.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFPwzAMhe_9FVGRWCutCSAhIdruMIkDl12AE0IoS5wt3ZpUcVqoEP8ddyuIWxx_es9-rrQdmNV1arZF8D6mq0rQ1yqpUAXbxVVmeqei9S7TS4ZLYnP2lTA2yMAaqk2DrGaa7yA-HKEFF3E9PsvdRraQYf569VYSbQ3L_jPr8VFnJJWzALEPbmJmIRVARpg5Uiipwa2mntVnjGNQVKZCKO8cqMiNVLD1_sAdRAHu_eVJoD7wBi8-zbY91teXAwSkJerhht-lkwzNzTsZyGPjNXDrEEJcg_EBsnmvvEy-M-1VP02yZItzIgt6_foVDZLPIs_LSsx5JUk1RaqOEvGUqvLtKZWUaRllsQ9g6nQfY4f3QsQ97ILVXFphrNPF6PtQfMhRzLTr285jJKXbv8v8ANFaj7U" height="244" style=""></iframe>
