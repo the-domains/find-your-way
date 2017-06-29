@@ -109,6 +109,9 @@ navigation:
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
     type: content
+  - name: 'Blog 23: Sharing space and time with Basha'
+    id: 73a7cbd6-ff5c-4fde-b15c-203749ce0186
+    type: content
   - name: Timeline 1000-1100 CE
     id: 1c76f1ce-04cc-40f4-b535-fd035bfa3237
     type: content
@@ -120,9 +123,6 @@ navigation:
     type: content
   - name: Timeline 1500's CE
     id: 36b45054-6b87-4694-a85a-1449ed612443
-    type: content
-  - name: 'Blog 23: Sharing space and time with Basha'
-    id: 73a7cbd6-ff5c-4fde-b15c-203749ce0186
     type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
