@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Our Shared Primary Non-symbolic / Non-verbal world
-dateModified: '2017-06-29T14:20:48.713Z'
-datePublished: '2017-06-29T14:20:49.387Z'
+dateModified: '2017-06-29T14:23:15.552Z'
+datePublished: '2017-06-29T14:23:16.037Z'
 title: ''
 author: []
 publisher: {}
@@ -66,3 +66,5 @@ She knows that she will get wet cat food twice a day. Once during the morning an
 When she is hungry, which is more often than when we have agreed to be her two daily feeding times, she will go over to where her food dish is or where her food and treats are kept and she will make certain sounds to communicate with us. She will also get up on her hind legs and scratch at the side of the kitchen cabinet next to her food bowl to get our attention. 
 
 She knows that sometime when she makes noise, or scratches at the kitchen cabinet, or bats at us when we are sitting at the kitchen chairs, she may be able to convince us to give her some treats. She knows that it doesn't always work but that behavior works enough of the time for her to remember it, and do it, and expect to often enough get fed some treats.
+
+Basha can purposefully wander in our shared space, recognize aspects of time with remarkable accuracy. I hope I have convinced you that we share a common physical world and that our interactions that are foundational and primary are of the non-verbal kind. If we didn't share a common physical world all that I have described would not be able to take place.
