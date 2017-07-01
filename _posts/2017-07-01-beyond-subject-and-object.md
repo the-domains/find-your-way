@@ -7,8 +7,8 @@ description: >-
   Thought
 
   by George Lakoff and Mark Johnson, Basic Books, 1999, p. 93
-dateModified: '2017-07-01T15:30:58.214Z'
-datePublished: '2017-07-01T15:31:01.004Z'
+dateModified: '2017-07-01T15:33:09.086Z'
+datePublished: '2017-07-01T15:33:10.186Z'
 title: Beyond Subject and Object
 author: []
 publisher: {}
