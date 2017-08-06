@@ -117,6 +117,11 @@ navigation:
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
     type: content
+  - name: >-
+      Blog 25: William James version of Korzybski's insights into maps and
+      Territory
+    id: ce181a6e-6dd9-4379-a263-2b7c811af8c6
+    type: content
   - name: Timeline 1000-1100 CE
     id: 1c76f1ce-04cc-40f4-b535-fd035bfa3237
     type: content
@@ -128,11 +133,6 @@ navigation:
     type: content
   - name: Timeline 1500's CE
     id: 36b45054-6b87-4694-a85a-1449ed612443
-    type: content
-  - name: >-
-      Blog 25: William James version of Korzybski's insights into maps and
-      Territory
-    id: ce181a6e-6dd9-4379-a263-2b7c811af8c6
     type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
