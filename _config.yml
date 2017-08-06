@@ -141,6 +141,11 @@ navigation:
   - name: Timeline 1900-1940 CE
     id: 16b46111-4824-4102-8456-c7972410b891
     type: content
+  - name: >-
+      Blog 25: William James version of Korzybski's insights into maps and
+      Territory
+    id: ce181a6e-6dd9-4379-a263-2b7c811af8c6
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0041de3e-259b-4356-b756-de2f328323ef.jpg
 title: Gary Jaron_Find Your Way
