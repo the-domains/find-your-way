@@ -1,19 +1,23 @@
 ---
 inFeed: true
 description: 'William James: born January 11, 1842 - died August 26 1910'
-dateModified: '2017-08-06T17:06:43.162Z'
-datePublished: '2017-08-06T17:06:43.968Z'
+dateModified: '2017-08-06T17:11:51.932Z'
+datePublished: '2017-08-06T17:11:52.676Z'
 title: 'Maps and Territory: William James Precursor to Alfred Korzybski’s'
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-08-06T17:06:43.968Z'
 sourcePath: >-
   _posts/2017-08-06-maps-and-territory-william-james-precursor-to-alfred-korzyb.md
-_type: Blurb
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-08-06T17:06:43.968Z'
+url: maps-and-territory-william-james-precursor-to-alfred-korzyb/index.html
+_type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7488a400-6ab1-4873-b847-52591924629e.jpg)
+
 ## _Maps and Territory: William James Precursor to Alfred Korzybski's_
 
 **William James: born January 11, 1842 - died August 26 1910**
