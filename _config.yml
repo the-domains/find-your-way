@@ -105,6 +105,11 @@ navigation:
       metaphysics
     id: 5269ee20-eb80-4f90-b40a-8758f999586e
     type: content
+  - name: >-
+      Blog 25: William James version of Korzybski's insights into maps and
+      Territory
+    id: ce181a6e-6dd9-4379-a263-2b7c811af8c6
+    type: content
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
@@ -116,11 +121,6 @@ navigation:
     type: content
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
-    type: content
-  - name: >-
-      Blog 25: William James version of Korzybski's insights into maps and
-      Territory
-    id: ce181a6e-6dd9-4379-a263-2b7c811af8c6
     type: content
   - name: Timeline 1000-1100 CE
     id: 1c76f1ce-04cc-40f4-b535-fd035bfa3237
