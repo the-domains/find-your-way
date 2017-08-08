@@ -1,16 +1,16 @@
 ---
-datePublished: '2017-08-08T03:26:26.039Z'
+datePublished: '2017-08-08T03:27:29.262Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-08-08T03:26:25.416Z'
+dateModified: '2017-08-08T03:27:28.841Z'
 title: ''
 publisher: {}
 description: 'If it makes you more comfortable, you could simply think of it as metaphor.'
-starred: false
-datePublishedOriginal: '2017-08-08T03:26:26.039Z'
 sourcePath: >-
   _posts/2017-08-08-if-it-makes-you-more-comfortable-you-could-simply-think-of.md
+starred: false
+datePublishedOriginal: '2017-08-08T03:26:26.039Z'
 _type: Blurb
 
 ---
