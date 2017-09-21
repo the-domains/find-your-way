@@ -1,21 +1,21 @@
 ---
-inFeed: true
+title: The Vision of Micah….a time without religious strife.
+datePublished: '2017-09-21T17:25:09.143Z'
+dateModified: '2017-09-21T17:24:57.917Z'
+publisher: {}
+author: []
+inFeed: false
+hasPage: true
 description: >-
   To understand what I am about to tell you may require you to suspend what you
   believe you already know. What you know will more than likely act as a filter
   and prevent you from considering something new. Can you suspend belief?
-dateModified: '2017-06-29T13:11:08.542Z'
-datePublished: '2017-06-29T13:11:09.089Z'
-title: The Vision of Micah….a time without religious strife.
-author: []
-publisher: {}
 via: {}
-sourcePath: _posts/2017-06-17-the-vision-of-micaha-time-without-religious-strife.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-17T22:45:56.706Z'
+sourcePath: _posts/2017-06-17-the-vision-of-micaha-time-without-religious-strife.md
 url: the-vision-of-micaha-time-without-religious-strife/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/379f43e6-e323-4bfe-8111-6684fbe82337.jpg)
