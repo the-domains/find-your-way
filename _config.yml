@@ -116,6 +116,11 @@ navigation:
   - name: 'Jarons and Jermanoks: It’s a family thing….'
     id: 636895ce-040a-4542-b066-ae5ed3a01c00
     type: content
+  - name: >-
+      Blog 26: The Tao that can be spoken about are the maps of the
+      Tao/Territory
+    id: 749abb70-12fe-4082-8583-243c1e98a553
+    type: content
   - name: Timeline 2000 BCE- 1 CE
     id: 668fb842-6358-479a-b26c-299713e4ab95
     type: content
@@ -124,11 +129,6 @@ navigation:
     type: content
   - name: Timeline 1000-1100 CE
     id: 1c76f1ce-04cc-40f4-b535-fd035bfa3237
-    type: content
-  - name: >-
-      Blog 26: The Tao that can be spoken about are the maps of the
-      Tao/Territory
-    id: 749abb70-12fe-4082-8583-243c1e98a553
     type: content
   - name: Timeline 1200-1300 CE
     id: 351776d2-f705-42fa-a96e-22d8c6d8b3ed
