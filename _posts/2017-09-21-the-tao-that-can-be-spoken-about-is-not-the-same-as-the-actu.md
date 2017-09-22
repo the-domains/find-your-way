@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: '[philosophic translation of the first line of the Tao Te Ching by G M Jaron]'
-dateModified: '2017-09-22T00:14:34.172Z'
-datePublished: '2017-09-22T00:14:35.658Z'
+dateModified: '2017-09-22T00:16:02.797Z'
+datePublished: '2017-09-22T00:16:03.663Z'
 title: The Tao that can be spoken about is not the same as the actual Tao
 author: []
 publisher: {}
