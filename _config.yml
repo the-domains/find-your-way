@@ -146,7 +146,9 @@ navigation:
   - name: Timeline 1900-1940 CE
     id: 16b46111-4824-4102-8456-c7972410b891
     type: content
-  - name: The Tao that can be spoken about are the maps of the Tao/Territory
+  - name: >-
+      Blog 26: The Tao that can be spoken about are the maps of the
+      Tao/Territory
     id: 749abb70-12fe-4082-8583-243c1e98a553
     type: content
 favicon: >-
