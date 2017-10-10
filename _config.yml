@@ -115,6 +115,9 @@ navigation:
       Tao/Territory
     id: 749abb70-12fe-4082-8583-243c1e98a553
     type: content
+  - name: Kant was mistaken...
+    id: d6768774-1ff5-4430-a92f-3354af0c25f5
+    type: content
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
     type: content
@@ -123,9 +126,6 @@ navigation:
     type: content
   - name: Timeline 2000 BCE- 1 CE
     id: 668fb842-6358-479a-b26c-299713e4ab95
-    type: content
-  - name: Kant was mistaken...
-    id: d6768774-1ff5-4430-a92f-3354af0c25f5
     type: content
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
