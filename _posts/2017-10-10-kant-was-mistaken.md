@@ -10,16 +10,16 @@ description: >-
   constructs,
 
   those being time, space, causality, etc. 
-dateModified: '2017-10-10T12:59:06.318Z'
-datePublished: '2017-10-10T12:59:27.784Z'
+dateModified: '2017-10-10T13:01:33.091Z'
+datePublished: '2017-10-10T13:01:38.121Z'
 title: Kant was mistaken.
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-10-kant-was-mistaken.md
 starred: false
 datePublishedOriginal: '2017-10-10T12:59:27.784Z'
-sourcePath: _posts/2017-10-10-kant-was-mistaken.md
 url: kant-was-mistaken/index.html
 _type: Article
 
