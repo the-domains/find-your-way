@@ -1,7 +1,7 @@
 ---
 title: We only make maps
-datePublished: '2017-06-29T14:48:22.658Z'
-dateModified: '2017-06-29T14:48:21.730Z'
+datePublished: '2017-10-10T13:01:38.119Z'
+dateModified: '2017-10-10T13:01:33.091Z'
 publisher: {}
 author: []
 inFeed: false
@@ -12,9 +12,9 @@ description: >-
   senses and this experience is non-symbolic. Symbols are attributed to that
   experience as we attempt to understand what happened to us.
 via: {}
+sourcePath: _posts/2017-05-21-we-only-make-maps.md
 starred: false
 datePublishedOriginal: '2017-05-21T21:35:46.715Z'
-sourcePath: _posts/2017-05-21-we-only-make-maps.md
 url: we-only-make-maps/index.html
 _type: MediaObject
 
