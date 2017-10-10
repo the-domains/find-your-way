@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-06-17T22:49:45.507Z'
+datePublished: '2017-10-10T13:01:38.140Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-06-17T22:49:44.714Z'
+dateModified: '2017-10-10T13:01:33.091Z'
 title: >-
   1700’s a timeline of natural light, the hidden light, and the ever-present
   darkness in the Western World
