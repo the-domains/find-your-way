@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-06-17T22:49:45.545Z'
+datePublished: '2017-10-10T13:01:38.055Z'
 sourcePath: >-
   _posts/2016-10-02-continuing-the-theme-of-bias-and-unconscious-shaping-influen.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-06-17T22:49:44.714Z'
+dateModified: '2017-10-10T13:01:33.091Z'
 title: ''
 publisher: {}
 description: Continuing the theme of Bias and unconscious shaping influences.
