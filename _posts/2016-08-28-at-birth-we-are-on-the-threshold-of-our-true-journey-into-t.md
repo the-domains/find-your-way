@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-06-17T22:49:45.505Z'
+datePublished: '2017-10-10T13:01:38.120Z'
 sourcePath: >-
   _posts/2016-08-28-at-birth-we-are-on-the-threshold-of-our-true-journey-into-t.md
 inFeed: false
 author: []
 via: {}
-dateModified: '2017-06-17T22:49:44.714Z'
+dateModified: '2017-10-10T13:01:33.091Z'
 title: ''
 publisher: {}
 description: >-
