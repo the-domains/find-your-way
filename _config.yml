@@ -124,6 +124,9 @@ navigation:
   - name: Timeline 2000 BCE- 1 CE
     id: 668fb842-6358-479a-b26c-299713e4ab95
     type: content
+  - name: Kant was mistaken...
+    id: d6768774-1ff5-4430-a92f-3354af0c25f5
+    type: content
   - name: A Timeline 1 CE - 900 CE
     id: ff0c2202-d88e-4ddf-8ae3-99bf26326282
     type: content
@@ -138,9 +141,6 @@ navigation:
     type: content
   - name: Timeline 1500's CE
     id: 36b45054-6b87-4694-a85a-1449ed612443
-    type: content
-  - name: Kant was mistaken...
-    id: d6768774-1ff5-4430-a92f-3354af0c25f5
     type: content
   - name: Timeline 1600's CE
     id: 188c4138-7432-4de6-8c8b-d6652b48e87b
