@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: You feel but have no means to understand those feelings.
-dateModified: '2017-10-10T13:02:41.887Z'
-datePublished: '2017-10-10T13:02:42.765Z'
+dateModified: '2017-10-29T15:36:56.216Z'
+datePublished: '2017-10-29T15:36:57.152Z'
 title: When you are born you are potential.
 author: []
 publisher: {}
