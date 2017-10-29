@@ -1,22 +1,28 @@
 ---
 inFeed: true
-description: Why are you here?
-dateModified: '2017-10-29T15:32:39.905Z'
-datePublished: '2017-10-29T15:32:40.554Z'
-title: ''
+description: |-
+  I believe that creator, the infinite Divine, aka the Tao aka
+  Ayn Sof, needs us.
+dateModified: '2017-10-29T15:36:56.216Z'
+datePublished: '2017-10-29T15:36:57.119Z'
+title: Why are you here?
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-10-29-why-are-you-here.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-29T15:32:40.554Z'
-sourcePath: _posts/2017-10-29-why-are-you-here.md
-_type: Blurb
+url: why-are-you-here/index.html
+_type: Article
 
 ---
-Why are you here?
+## _Why are you here?_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7aaaf1a6-23f3-4cc6-adf1-205aeecb19ea.jpg)
 
 I believe that creator, the infinite Divine, aka the Tao aka
 Ayn Sof, needs us.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/802328ae-db58-45a1-932f-e8e258e9d392.jpg)
 
 I believe that the act of creation did not go as planned.
 
