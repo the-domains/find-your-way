@@ -40,6 +40,9 @@ navigation:
   - name: Blog 3) Who is Alfred Korzybski and why should I care?
     id: 5e4178de-7190-4329-8137-669ad610b28a
     type: content
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
+    type: content
   - name: 'Blog 4) Bias: the shaping influence of ideas and experienece'
     id: 449c8686-8a6d-4128-8079-05296ed3fe4a
     type: content
@@ -51,9 +54,6 @@ navigation:
     type: content
   - name: Blog 7) Pragmatic Wisdom
     id: f9d8fb87-3af9-4595-bbf6-06375ff9626e
-    type: content
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: Blog 8) William James and why you should know something about him.
     id: 7871c60a-4137-4d15-9b2e-f9725627e2f2
