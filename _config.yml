@@ -76,6 +76,9 @@ navigation:
   - name: Blog 15) Map making and map makers
     id: 05041018-a509-4b54-8c4e-01be3ef58621
     type: content
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
+    type: content
   - name: Blog 16) When you are born
     id: 5724cb9f-a639-43d9-ac78-c50b83b21ab2
     type: content
@@ -84,9 +87,6 @@ navigation:
     type: content
   - name: Blog 18) Universe and Cosmos
     id: c88286a6-afa8-4870-87d6-2806e1e7b2ac
-    type: content
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: Blog 19) God and the problem with evil
     id: bb1bb665-c5db-4c00-afd0-ffa3fffc7daf
