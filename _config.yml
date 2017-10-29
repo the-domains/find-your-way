@@ -52,6 +52,9 @@ navigation:
   - name: Blog 7) Pragmatic Wisdom
     id: f9d8fb87-3af9-4595-bbf6-06375ff9626e
     type: content
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
+    type: content
   - name: Blog 8) William James and why you should know something about him.
     id: 7871c60a-4137-4d15-9b2e-f9725627e2f2
     type: content
@@ -63,9 +66,6 @@ navigation:
     type: content
   - name: Blog 11) William James On the Biology of Mind
     id: 6b0e81c3-e1c2-4406-9317-20b8c6720952
-    type: content
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: Blog 12) Reality of Everyday Life
     id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
