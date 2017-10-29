@@ -85,6 +85,9 @@ navigation:
   - name: Blog 18) Universe and Cosmos
     id: c88286a6-afa8-4870-87d6-2806e1e7b2ac
     type: content
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
+    type: content
   - name: Blog 19) God and the problem with evil
     id: bb1bb665-c5db-4c00-afd0-ffa3fffc7daf
     type: content
@@ -93,9 +96,6 @@ navigation:
     type: content
   - name: Blog 21) Being and appearing
     id: 003aaf72-afd1-47f1-a6bf-24db6aac3939
-    type: content
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: 'Blog 22: A world of religious peace brought to you by Micah'
     id: 391cf0b7-32a7-4d95-a977-e4966ff38510
