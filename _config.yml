@@ -64,6 +64,9 @@ navigation:
   - name: Blog 11) William James On the Biology of Mind
     id: 6b0e81c3-e1c2-4406-9317-20b8c6720952
     type: content
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
+    type: content
   - name: Blog 12) Reality of Everyday Life
     id: 7e7a4930-2dbc-4115-a02e-4c4e618dd431
     type: content
@@ -75,9 +78,6 @@ navigation:
     type: content
   - name: Blog 15) Map making and map makers
     id: 05041018-a509-4b54-8c4e-01be3ef58621
-    type: content
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: Blog 16) When you are born
     id: 5724cb9f-a639-43d9-ac78-c50b83b21ab2
