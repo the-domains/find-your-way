@@ -28,14 +28,14 @@ logo: >-
 name: Find Your Way
 url: 'https://garyjaron.com'
 navigation:
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
-    type: content
   - name: 'Read this first: A Guide to this blog site'
     id: a9a439b6-60e1-45ec-b4a5-c6c2d2beee17
     type: content
   - name: Blog 1)Why I updated this site on Sept 9 2016
     id: f857d3ea-c342-4308-8978-692af10abb92
+    type: content
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: Blog 2) a map to future posts
     id: f6a660e3-3f36-4358-bc0c-842d759915ef
