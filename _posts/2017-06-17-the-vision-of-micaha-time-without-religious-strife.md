@@ -1,7 +1,7 @@
 ---
 title: The Vision of Micah….a time without religious strife.
-datePublished: '2017-10-10T13:02:42.801Z'
-dateModified: '2017-10-10T13:02:41.887Z'
+datePublished: '2017-10-29T15:36:57.119Z'
+dateModified: '2017-10-29T15:36:56.216Z'
 publisher: {}
 author: []
 inFeed: false
