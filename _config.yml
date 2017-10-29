@@ -105,6 +105,9 @@ navigation:
       metaphysics
     id: 5269ee20-eb80-4f90-b40a-8758f999586e
     type: content
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
+    type: content
   - name: >-
       Blog 25: William James version of Korzybski's insights into maps and
       Territory
@@ -117,9 +120,6 @@ navigation:
     type: content
   - name: 'Blog 27: Kant was mistaken...'
     id: d6768774-1ff5-4430-a92f-3354af0c25f5
-    type: content
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: Contact info
     id: ddd705cf-500e-4298-baec-7b6bb3def78d
