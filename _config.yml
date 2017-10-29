@@ -94,6 +94,9 @@ navigation:
   - name: Blog 21) Being and appearing
     id: 003aaf72-afd1-47f1-a6bf-24db6aac3939
     type: content
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
+    type: content
   - name: 'Blog 22: A world of religious peace brought to you by Micah'
     id: 391cf0b7-32a7-4d95-a977-e4966ff38510
     type: content
@@ -104,9 +107,6 @@ navigation:
       Blog 24: Beyond Subject and Objects: awakening to a reality based
       metaphysics
     id: 5269ee20-eb80-4f90-b40a-8758f999586e
-    type: content
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: >-
       Blog 25: William James version of Korzybski's insights into maps and
