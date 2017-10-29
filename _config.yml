@@ -28,6 +28,9 @@ logo: >-
 name: Find Your Way
 url: 'https://garyjaron.com'
 navigation:
+  - name: Why are you here?
+    id: fb103ac9-84c2-4d72-b838-9321223c53b6
+    type: content
   - name: 'Read this first: A Guide to this blog site'
     id: a9a439b6-60e1-45ec-b4a5-c6c2d2beee17
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: content
   - name: Blog 3) Who is Alfred Korzybski and why should I care?
     id: 5e4178de-7190-4329-8137-669ad610b28a
-    type: content
-  - name: Why are you here?
-    id: fb103ac9-84c2-4d72-b838-9321223c53b6
     type: content
   - name: 'Blog 4) Bias: the shaping influence of ideas and experienece'
     id: 449c8686-8a6d-4128-8079-05296ed3fe4a
