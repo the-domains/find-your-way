@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   I’m a James Bond fan from my first seeing Dr No when it came to our local
   theatre back in May of 1963. I was nine years old and hooked!
-dateModified: '2017-10-10T13:02:41.887Z'
-datePublished: '2017-10-10T13:02:42.853Z'
+dateModified: '2017-10-29T15:36:56.216Z'
+datePublished: '2017-10-29T15:36:57.181Z'
 title: 'Bond, James Bond and the movie Franchise'
 author: []
 publisher: {}
