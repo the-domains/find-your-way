@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: Essay on the GRA’s 1884 Tree of Life
-dateModified: '2017-11-16T17:52:25.156Z'
-datePublished: '2017-11-16T17:52:25.719Z'
+dateModified: '2017-11-16T17:57:08.724Z'
+datePublished: '2017-11-16T17:57:09.382Z'
 title: The GRA’s Tree of Life and how it differs from Aryeh Kaplan’s Natural Array
 author: []
 publisher: {}
