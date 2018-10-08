@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Find Your Way is now available on Amazon.com
-dateModified: '2018-10-08T00:10:49.833Z'
-datePublished: '2018-10-08T00:10:51.339Z'
+dateModified: '2018-10-08T00:13:20.949Z'
+datePublished: '2018-10-08T00:13:30.622Z'
 title: ''
 author: []
 publisher: {}
