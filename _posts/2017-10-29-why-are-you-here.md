@@ -3,8 +3,8 @@ inFeed: true
 description: |-
   I believe that creator, the infinite Divine, aka the Tao aka
   Ayn Sof, needs us.
-dateModified: '2017-10-29T15:42:38.154Z'
-datePublished: '2017-10-29T15:42:38.875Z'
+dateModified: '2018-10-08T00:13:20.949Z'
+datePublished: '2018-10-08T00:13:30.623Z'
 title: Why are you here?
 author: []
 publisher: {}
