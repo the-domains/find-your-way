@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-10-10T13:02:42.820Z'
+datePublished: '2018-10-08T00:13:30.624Z'
 sourcePath: _posts/2016-07-23-not-all-those-who-wander-are-lost.md
 inFeed: true
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f52ad2b4-a6f2-4f9d-967d-6656edd0e084.jpg
 author: []
 via: {}
-dateModified: '2017-10-10T13:02:41.887Z'
+dateModified: '2018-10-08T00:13:20.949Z'
 title: ‘Not all those who wander are lost.’
 id: 7ae0d620-e3b9-47fd-ba69-1c9a6ff90ee6
 publisher: {}
