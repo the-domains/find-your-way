@@ -1,7 +1,7 @@
 ---
 title: We only make maps
-datePublished: '2017-10-29T15:36:57.084Z'
-dateModified: '2017-10-29T15:36:56.216Z'
+datePublished: '2018-10-08T00:13:30.679Z'
+dateModified: '2018-10-08T00:13:20.949Z'
 publisher: {}
 author: []
 inFeed: false
