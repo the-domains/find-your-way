@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'March 26, 2017'
-dateModified: '2017-10-29T15:36:56.216Z'
-datePublished: '2017-10-29T15:36:57.184Z'
+dateModified: '2018-10-08T00:13:20.949Z'
+datePublished: '2018-10-08T00:13:30.752Z'
 title: Universe and Cosmos
 author: []
 publisher: {}
