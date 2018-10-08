@@ -10,8 +10,8 @@ description: >-
   constructs,
 
   those being time, space, causality, etc. 
-dateModified: '2017-10-29T15:36:56.216Z'
-datePublished: '2017-10-29T15:36:57.139Z'
+dateModified: '2018-10-08T00:13:20.949Z'
+datePublished: '2018-10-08T00:13:30.681Z'
 title: Kant was mistaken.
 author: []
 publisher: {}
